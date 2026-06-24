@@ -1,0 +1,17 @@
+﻿model,p1,p2,p3,p4,p5,mean_semantic
+word2vec_lemmatized_cbow_win2_dim100,4,3,4,4,3,3.6
+word2vec_lemmatized_skipgram_win2_dim100,3,4,4,4,3,3.6
+word2vec_lemmatized_cbow_win4_dim100,4,3,4,4,4,3.8
+word2vec_lemmatized_skipgram_win4_dim100,3,4,4,4,3,3.6
+word2vec_lemmatized_cbow_win2_dim300,4,4,3,4,3,3.6
+word2vec_lemmatized_skipgram_win2_dim300,3,4,4,4,3,3.6
+word2vec_lemmatized_cbow_win4_dim300,4,3,4,4,4,3.8
+word2vec_lemmatized_skipgram_win4_dim300,3,4,4,4,4,3.8
+word2vec_stemmed_cbow_win2_dim100,4,4,3,3,4,3.6
+word2vec_stemmed_skipgram_win2_dim100,3,3,4,4,4,3.6
+word2vec_stemmed_cbow_win4_dim100,4,4,4,3,3,3.6
+word2vec_stemmed_skipgram_win4_dim100,3,4,4,4,3,3.6
+word2vec_stemmed_cbow_win2_dim300,4,4,3,3,4,3.6
+word2vec_stemmed_skipgram_win2_dim300,3,3,4,4,4,3.6
+word2vec_stemmed_cbow_win4_dim300,4,4,4,3,3,3.6
+word2vec_stemmed_skipgram_win4_dim300,3,4,4,4,3,3.6

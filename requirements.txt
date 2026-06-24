@@ -1,0 +1,8 @@
+gensim>=4.3
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.12
+python-docx>=0.8.11
+nltk>=3.8
+docx2pdf>=0.1.8

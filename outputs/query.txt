@@ -1,0 +1,6 @@
+Giris isletmesi (business_id=b1010):
+  Ad        : Sunrise Cafe
+  Kategoriler: Tea Rooms, Cafes
+  Sehir/Yildiz: Austin / 4.5
+  Lemmatized : sunrise cafe tea room cafe
+  Stemmed    : sunris cafe tea room cafe

@@ -1,0 +1,770 @@
+{"business_id": "b1453", "name": "Family Chiropractic", "city": "Nashville", "state": "TN", "stars": 3.0, "review_count": 756, "is_open": 1, "categories": "Health & Medical, Chiropractors, Optometrists"}
+{"business_id": "b1127", "name": "El Cocina", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 597, "is_open": 1, "categories": "Mexican, Restaurants, Tacos"}
+{"business_id": "b1204", "name": "Golden Sushi", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 443, "is_open": 1, "categories": "Asian Fusion, Japanese"}
+{"business_id": "b1603", "name": "Market Provisions", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 340, "is_open": 1, "categories": "Farmers Market, Organic Stores"}
+{"business_id": "b1304", "name": "Blue Lounge", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 676, "is_open": 1, "categories": "Lounges, Cocktail Bars, Beer, Sports Bars"}
+{"business_id": "b1250", "name": "Big Burger Joint", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 296, "is_open": 1, "categories": "American (Traditional), Sandwiches, Fries"}
+{"business_id": "b1681", "name": "Cozy Animal Hospital", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 395, "is_open": 0, "categories": "Pet Stores, Pets, Dog Walkers"}
+{"business_id": "b1412", "name": "Quick Motors", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 295, "is_open": 1, "categories": "Oil Change Stations, Car Wash, Auto Parts"}
+{"business_id": "b1736", "name": "Park Resort", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 536, "is_open": 1, "categories": "Hotels, Hotels & Travel, Bed & Breakfast, Resorts"}
+{"business_id": "b1133", "name": "El Tacos", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 566, "is_open": 1, "categories": "Restaurants, Mexican, Burritos"}
+{"business_id": "b1663", "name": "Happy Veterinary Clinic", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 44, "is_open": 1, "categories": "Animal Shelters, Pet Stores"}
+{"business_id": "b1653", "name": "Premier Electric", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 462, "is_open": 1, "categories": "Electricians, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1150", "name": "Casa Taqueria", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 576, "is_open": 0, "categories": "Latin American, Tex-Mex"}
+{"business_id": "b1569", "name": "Nature Mart", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 233, "is_open": 1, "categories": "Grocery, Specialty Food, Convenience Stores"}
+{"business_id": "b1056", "name": "Little Pasta House", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 340, "is_open": 0, "categories": "Calzones, Wine Bars, Pasta, Italian"}
+{"business_id": "b1536", "name": "Iron Gym", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 430, "is_open": 1, "categories": "Active Life, Pilates"}
+{"business_id": "b1656", "name": "Premier Heating & Cooling", "city": "Nashville", "state": "TN", "stars": 3.5, "review_count": 22, "is_open": 1, "categories": "Plumbing, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1369", "name": "Serene Barbershop", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 158, "is_open": 1, "categories": "Hair Salons, Skin Care"}
+{"business_id": "b1540", "name": "Iron Gym", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 31, "is_open": 1, "categories": "Fitness & Instruction, Yoga"}
+{"business_id": "b1548", "name": "Summit Wellness", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 118, "is_open": 0, "categories": "Pilates, Fitness & Instruction, Active Life"}
+{"business_id": "b1725", "name": "Park Hotel", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 242, "is_open": 0, "categories": "Resorts, Bed & Breakfast"}
+{"business_id": "b1473", "name": "Community Family Clinic", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 223, "is_open": 1, "categories": "Chiropractors, Dentists, Optometrists"}
+{"business_id": "b1110", "name": "Original Pasta House", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 817, "is_open": 1, "categories": "Restaurants, Pasta, Calzones"}
+{"business_id": "b1639", "name": "Apex HVAC", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 697, "is_open": 0, "categories": "Plumbing, Electricians, Contractors, Roofing"}
+{"business_id": "b1188", "name": "Red Noodle House", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 126, "is_open": 1, "categories": "Noodles, Restaurants"}
+{"business_id": "b1212", "name": "Golden Dragon", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 192, "is_open": 1, "categories": "Sushi Bars, Noodles, Thai, Ramen"}
+{"business_id": "b1632", "name": "Apex Plumbing", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 737, "is_open": 0, "categories": "Plumbing, Roofing, Electricians, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1360", "name": "Serene Spa", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 258, "is_open": 1, "categories": "Waxing, Skin Care"}
+{"business_id": "b1634", "name": "Reliable Electric", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 793, "is_open": 1, "categories": "Contractors, Electricians, Home Services"}
+{"business_id": "b1393", "name": "Pro Car Wash", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 337, "is_open": 1, "categories": "Oil Change Stations, Body Shops, Auto Parts, Auto Repair"}
+{"business_id": "b1240", "name": "Hungry Eatery", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 316, "is_open": 1, "categories": "Fries, Fast Food, Hot Dogs"}
+{"business_id": "b1148", "name": "Casa Cocina", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 821, "is_open": 0, "categories": "Burritos, Tex-Mex, Mexican, Latin American"}
+{"business_id": "b1594", "name": "Fresh Provisions", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 78, "is_open": 0, "categories": "Convenience Stores, Shopping, Grocery"}
+{"business_id": "b1248", "name": "Route Burger Joint", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 53, "is_open": 0, "categories": "Burgers, Fries"}
+{"business_id": "b1474", "name": "Bright Family Clinic", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 123, "is_open": 1, "categories": "Optometrists, Chiropractors, Physical Therapy, Health & Medical"}
+{"business_id": "b1564", "name": "Fresh Provisions", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 789, "is_open": 1, "categories": "Specialty Food, Farmers Market, Convenience Stores, Grocery"}
+{"business_id": "b1151", "name": "Fiesta Tacos", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 7, "is_open": 0, "categories": "Restaurants, Tex-Mex, Tacos, Mexican"}
+{"business_id": "b1757", "name": "Royal Hotel", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 199, "is_open": 1, "categories": "Bed & Breakfast, Resorts, Hotels, Hotels & Travel"}
+{"business_id": "b1419", "name": "Quick Garage", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 115, "is_open": 1, "categories": "Automotive, Auto Parts"}
+{"business_id": "b1696", "name": "Loyal Animal Hospital", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 674, "is_open": 1, "categories": "Pet Groomers, Pets, Veterinarians"}
+{"business_id": "b1416", "name": "Express Tire Center", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 586, "is_open": 1, "categories": "Tires, Body Shops, Auto Parts"}
+{"business_id": "b1611", "name": "Apex Plumbing", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 821, "is_open": 1, "categories": "Electricians, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1364", "name": "Bliss Beauty Bar", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 284, "is_open": 1, "categories": "Skin Care, Day Spas, Waxing"}
+{"business_id": "b1006", "name": "Corner Bakery", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 239, "is_open": 1, "categories": "Juice Bars & Smoothies, Cafes"}
+{"business_id": "b1498", "name": "Pulse Fitness", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 530, "is_open": 1, "categories": "Active Life, Trainers"}
+{"business_id": "b1116", "name": "El Grill", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 678, "is_open": 1, "categories": "Latin American, Mexican, Restaurants, Tex-Mex"}
+{"business_id": "b1720", "name": "Plaza Lodge", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 433, "is_open": 1, "categories": "Resorts, Bed & Breakfast, Hotels, Hotels & Travel"}
+{"business_id": "b1306", "name": "Tap Saloon", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 401, "is_open": 1, "categories": "Beer, Pubs, Lounges, Sports Bars"}
+{"business_id": "b1163", "name": "Sol Cocina", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 366, "is_open": 1, "categories": "Latin American, Restaurants, Burritos, Mexican"}
+{"business_id": "b1159", "name": "Sol Grill", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 198, "is_open": 1, "categories": "Mexican, Latin American, Tex-Mex"}
+{"business_id": "b1016", "name": "Urban Bakery", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 655, "is_open": 0, "categories": "Cafes, Tea Rooms, Breakfast & Brunch, Juice Bars & Smoothies"}
+{"business_id": "b1113", "name": "Sol Cocina", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 415, "is_open": 0, "categories": "Tex-Mex, Restaurants, Tacos"}
+{"business_id": "b1217", "name": "Golden Wok", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 391, "is_open": 1, "categories": "Restaurants, Thai, Japanese"}
+{"business_id": "b1293", "name": "Old Saloon", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 464, "is_open": 1, "categories": "Pubs, Cocktail Bars"}
+{"business_id": "b1729", "name": "Park Hotel", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 429, "is_open": 1, "categories": "Bed & Breakfast, Hotels & Travel, Resorts, Hotels"}
+{"business_id": "b1138", "name": "El Cantina", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 638, "is_open": 0, "categories": "Latin American, Tacos, Burritos, Tex-Mex"}
+{"business_id": "b1471", "name": "Gentle Health Group", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 6, "is_open": 0, "categories": "Optometrists, Doctors, Health & Medical"}
+{"business_id": "b1668", "name": "Paws Pet Care", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 590, "is_open": 0, "categories": "Pet Stores, Dog Walkers"}
+{"business_id": "b1024", "name": "Sunrise Brew House", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 687, "is_open": 1, "categories": "Donuts, Coffee & Tea"}
+{"business_id": "b1655", "name": "Reliable Electric", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 102, "is_open": 1, "categories": "Electricians, Plumbing, Roofing"}
+{"business_id": "b1574", "name": "Market Grocery", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 21, "is_open": 1, "categories": "Shopping, Organic Stores, Specialty Food, Convenience Stores"}
+{"business_id": "b1449", "name": "Advanced Dentistry", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 353, "is_open": 0, "categories": "Health & Medical, Optometrists, Chiropractors"}
+{"business_id": "b1036", "name": "Bean Roasters", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 668, "is_open": 1, "categories": "Bakeries, Cafes, Breakfast & Brunch, Tea Rooms"}
+{"business_id": "b1552", "name": "Fresh Market", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 797, "is_open": 0, "categories": "Convenience Stores, Organic Stores, Grocery, Specialty Food"}
+{"business_id": "b1319", "name": "Hop Lounge", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 339, "is_open": 1, "categories": "Cocktail Bars, Beer"}
+{"business_id": "b1292", "name": "Old Saloon", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 142, "is_open": 1, "categories": "Bars, Lounges, Breweries, Cocktail Bars"}
+{"business_id": "b1493", "name": "Lakeside Family Clinic", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 669, "is_open": 1, "categories": "Optometrists, Physical Therapy"}
+{"business_id": "b1381", "name": "Pure Hair Studio", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 331, "is_open": 1, "categories": "Hair Salons, Skin Care, Beauty & Spas, Nail Salons"}
+{"business_id": "b1030", "name": "Daily Cafe", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 553, "is_open": 1, "categories": "Donuts, Cafes, Juice Bars & Smoothies"}
+{"business_id": "b1066", "name": "Rustic Pizza", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 87, "is_open": 0, "categories": "Restaurants, Calzones"}
+{"business_id": "b1309", "name": "Iron Tavern", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 777, "is_open": 1, "categories": "Breweries, Pubs"}
+{"business_id": "b1607", "name": "Trusted Plumbing", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 283, "is_open": 0, "categories": "Electricians, Contractors, Plumbing"}
+{"business_id": "b1032", "name": "Bean Roasters", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 539, "is_open": 1, "categories": "Tea Rooms, Bakeries"}
+{"business_id": "b1641", "name": "All Heating & Cooling", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 426, "is_open": 1, "categories": "Electricians, Plumbing"}
+{"business_id": "b1239", "name": "Hungry Burger Joint", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 602, "is_open": 1, "categories": "Sandwiches, Hot Dogs, Restaurants, American (Traditional)"}
+{"business_id": "b1695", "name": "Cozy Pet Grooming", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 364, "is_open": 1, "categories": "Veterinarians, Pet Groomers, Animal Shelters"}
+{"business_id": "b1411", "name": "Highway Tire Center", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 510, "is_open": 1, "categories": "Oil Change Stations, Body Shops, Automotive, Tires"}
+{"business_id": "b1754", "name": "Plaza Suites", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 50, "is_open": 1, "categories": "Event Planning & Services, Hotels & Travel, Hotels"}
+{"business_id": "b1448", "name": "Advanced Health Group", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 799, "is_open": 1, "categories": "Doctors, Chiropractors"}
+{"business_id": "b1088", "name": "Rustic Trattoria", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 225, "is_open": 1, "categories": "Calzones, Restaurants, Pizza"}
+{"business_id": "b1598", "name": "Market Pantry", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 36, "is_open": 1, "categories": "Grocery, Organic Stores"}
+{"business_id": "b1345", "name": "Luxe Hair Studio", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 556, "is_open": 1, "categories": "Hair Salons, Beauty & Spas"}
+{"business_id": "b1762", "name": "Garden Suites", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 838, "is_open": 1, "categories": "Resorts, Event Planning & Services, Bed & Breakfast"}
+{"business_id": "b1530", "name": "Flow Fitness", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 652, "is_open": 0, "categories": "Fitness & Instruction, Trainers"}
+{"business_id": "b1215", "name": "Lucky Wok", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 101, "is_open": 1, "categories": "Noodles, Asian Fusion"}
+{"business_id": "b1233", "name": "Classic Burgers", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 47, "is_open": 1, "categories": "Burgers, Fries, Fast Food"}
+{"business_id": "b1078", "name": "Famous Pizza", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 499, "is_open": 1, "categories": "Italian, Wine Bars, Calzones"}
+{"business_id": "b1403", "name": "Precision Car Wash", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 667, "is_open": 1, "categories": "Auto Parts, Automotive"}
+{"business_id": "b1044", "name": "Bean Cafe", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 140, "is_open": 1, "categories": "Donuts, Cafes, Juice Bars & Smoothies, Tea Rooms"}
+{"business_id": "b1028", "name": "Bean Cafe", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 330, "is_open": 1, "categories": "Donuts, Tea Rooms"}
+{"business_id": "b1038", "name": "Corner Bakery", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 781, "is_open": 1, "categories": "Tea Rooms, Juice Bars & Smoothies"}
+{"business_id": "b1173", "name": "Lucky Ramen", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 282, "is_open": 1, "categories": "Japanese, Asian Fusion, Ramen"}
+{"business_id": "b1363", "name": "Radiant Nails", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 351, "is_open": 1, "categories": "Hair Salons, Day Spas"}
+{"business_id": "b1438", "name": "Quick Auto Body", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 504, "is_open": 1, "categories": "Automotive, Car Wash, Auto Repair"}
+{"business_id": "b1322", "name": "Copper Saloon", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 19, "is_open": 1, "categories": "Pubs, Sports Bars, Lounges"}
+{"business_id": "b1047", "name": "Morning Beans", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 196, "is_open": 1, "categories": "Breakfast & Brunch, Juice Bars & Smoothies, Bakeries, Tea Rooms"}
+{"business_id": "b1768", "name": "Park Suites", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 101, "is_open": 1, "categories": "Bed & Breakfast, Hotels & Travel"}
+{"business_id": "b1462", "name": "Modern Medical Center", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 40, "is_open": 0, "categories": "Dentists, Doctors"}
+{"business_id": "b1442", "name": "Modern Medical Center", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 570, "is_open": 1, "categories": "Physical Therapy, Optometrists, Health & Medical"}
+{"business_id": "b1156", "name": "Sol Cocina", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 656, "is_open": 0, "categories": "Restaurants, Burritos"}
+{"business_id": "b1201", "name": "Jade Dragon", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 296, "is_open": 1, "categories": "Japanese, Ramen, Noodles, Sushi Bars"}
+{"business_id": "b1103", "name": "Rustic Pizza", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 492, "is_open": 1, "categories": "Pasta, Calzones"}
+{"business_id": "b1098", "name": "Rustic Pizza", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 198, "is_open": 1, "categories": "Pizza, Wine Bars, Pasta, Restaurants"}
+{"business_id": "b1531", "name": "Summit Gym", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 750, "is_open": 1, "categories": "Pilates, Yoga"}
+{"business_id": "b1677", "name": "Happy Pet Care", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 556, "is_open": 1, "categories": "Pet Stores, Animal Shelters, Veterinarians"}
+{"business_id": "b1584", "name": "Daily Market", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 22, "is_open": 1, "categories": "Convenience Stores, Specialty Food, Shopping, Grocery"}
+{"business_id": "b1638", "name": "Premier Electric", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 796, "is_open": 1, "categories": "Roofing, Electricians"}
+{"business_id": "b1609", "name": "Guardian Plumbing", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 827, "is_open": 1, "categories": "Electricians, Plumbing"}
+{"business_id": "b1501", "name": "Elevate Yoga Studio", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 787, "is_open": 0, "categories": "Pilates, Gyms, Active Life, Cycling Classes"}
+{"business_id": "b1059", "name": "Little Italian Kitchen", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 612, "is_open": 1, "categories": "Italian, Pasta, Wine Bars, Calzones"}
+{"business_id": "b1180", "name": "Golden Kitchen", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 474, "is_open": 1, "categories": "Chinese, Noodles, Ramen, Asian Fusion"}
+{"business_id": "b1499", "name": "Core Yoga Studio", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 673, "is_open": 0, "categories": "Gyms, Trainers, Pilates, Fitness & Instruction"}
+{"business_id": "b1573", "name": "Harvest Grocery", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 314, "is_open": 0, "categories": "Farmers Market, Shopping"}
+{"business_id": "b1515", "name": "Core Wellness", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 680, "is_open": 0, "categories": "Cycling Classes, Active Life, Yoga, Fitness & Instruction"}
+{"business_id": "b1738", "name": "Garden Suites", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 764, "is_open": 0, "categories": "Event Planning & Services, Hotels & Travel, Bed & Breakfast, Resorts"}
+{"business_id": "b1472", "name": "Bright Chiropractic", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 777, "is_open": 0, "categories": "Health & Medical, Optometrists, Chiropractors"}
+{"business_id": "b1721", "name": "Grand Inn", "city": "Nashville", "state": "TN", "stars": 3.0, "review_count": 603, "is_open": 1, "categories": "Resorts, Bed & Breakfast, Hotels, Hotels & Travel"}
+{"business_id": "b1709", "name": "Cozy Pet Shop", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 630, "is_open": 1, "categories": "Animal Shelters, Pet Stores"}
+{"business_id": "b1550", "name": "Summit Fitness", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 294, "is_open": 1, "categories": "Fitness & Instruction, Active Life, Cycling Classes"}
+{"business_id": "b1018", "name": "Daily Roasters", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 191, "is_open": 0, "categories": "Juice Bars & Smoothies, Donuts"}
+{"business_id": "b1395", "name": "Pro Motors", "city": "Columbus", "state": "OH", "stars": 3.0, "review_count": 25, "is_open": 1, "categories": "Auto Parts, Body Shops"}
+{"business_id": "b1617", "name": "Apex HVAC", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 216, "is_open": 1, "categories": "Plumbing, Heating & Air Conditioning/HVAC, Contractors"}
+{"business_id": "b1158", "name": "Fiesta Cantina", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 428, "is_open": 1, "categories": "Tacos, Latin American"}
+{"business_id": "b1071", "name": "Mama Pizza", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 281, "is_open": 1, "categories": "Pizza, Italian, Restaurants, Wine Bars"}
+{"business_id": "b1312", "name": "Iron Brewery", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 750, "is_open": 1, "categories": "Cocktail Bars, Lounges"}
+{"business_id": "b1053", "name": "Urban Coffee", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 20, "is_open": 1, "categories": "Cafes, Tea Rooms, Bakeries"}
+{"business_id": "b1728", "name": "Park Inn", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 87, "is_open": 1, "categories": "Bed & Breakfast, Resorts, Hotels, Hotels & Travel"}
+{"business_id": "b1551", "name": "Fresh Provisions", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 253, "is_open": 0, "categories": "Farmers Market, Specialty Food"}
+{"business_id": "b1318", "name": "Copper Saloon", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 541, "is_open": 1, "categories": "Nightlife, Pubs"}
+{"business_id": "b1253", "name": "Smash Grill", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 189, "is_open": 1, "categories": "Restaurants, American (Traditional), Fast Food"}
+{"business_id": "b1704", "name": "Cozy Pet Shop", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 400, "is_open": 1, "categories": "Animal Shelters, Pet Stores"}
+{"business_id": "b1065", "name": "Nonna Trattoria", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 64, "is_open": 1, "categories": "Italian, Restaurants"}
+{"business_id": "b1394", "name": "All-Star Tire Center", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 437, "is_open": 1, "categories": "Tires, Automotive, Oil Change Stations, Auto Repair"}
+{"business_id": "b1427", "name": "Pro Tire Center", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 29, "is_open": 1, "categories": "Oil Change Stations, Car Wash"}
+{"business_id": "b1185", "name": "Red Sushi", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 639, "is_open": 1, "categories": "Thai, Chinese"}
+{"business_id": "b1440", "name": "Highway Car Wash", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 635, "is_open": 1, "categories": "Oil Change Stations, Body Shops, Auto Repair"}
+{"business_id": "b1686", "name": "Wag Veterinary Clinic", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 231, "is_open": 1, "categories": "Veterinarians, Animal Shelters"}
+{"business_id": "b1475", "name": "Bright Family Clinic", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 129, "is_open": 1, "categories": "Doctors, Chiropractors, Optometrists"}
+{"business_id": "b1512", "name": "Peak Yoga Studio", "city": "Portland", "state": "OR", "stars": 3.0, "review_count": 116, "is_open": 1, "categories": "Pilates, Gyms, Cycling Classes, Active Life"}
+{"business_id": "b1765", "name": "Park Suites", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 306, "is_open": 1, "categories": "Hotels & Travel, Resorts, Bed & Breakfast"}
+{"business_id": "b1254", "name": "Route Sandwich Shop", "city": "Nashville", "state": "TN", "stars": 4.5, "review_count": 225, "is_open": 1, "categories": "Restaurants, Sandwiches, Fast Food, Fries"}
+{"business_id": "b1301", "name": "Iron Alehouse", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 247, "is_open": 0, "categories": "Cocktail Bars, Pubs"}
+{"business_id": "b1139", "name": "La Cantina", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 107, "is_open": 0, "categories": "Tex-Mex, Restaurants"}
+{"business_id": "b1174", "name": "Lucky Bistro", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 13, "is_open": 0, "categories": "Chinese, Ramen, Sushi Bars, Asian Fusion"}
+{"business_id": "b1037", "name": "Cozy Beans", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 778, "is_open": 1, "categories": "Breakfast & Brunch, Donuts"}
+{"business_id": "b1748", "name": "Heritage Suites", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 710, "is_open": 1, "categories": "Hotels, Resorts, Hotels & Travel"}
+{"business_id": "b1454", "name": "Family Dentistry", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 480, "is_open": 0, "categories": "Physical Therapy, Health & Medical, Chiropractors"}
+{"business_id": "b1445", "name": "Lakeside Health Group", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 247, "is_open": 1, "categories": "Optometrists, Health & Medical, Doctors"}
+{"business_id": "b1082", "name": "Original Trattoria", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 707, "is_open": 1, "categories": "Restaurants, Wine Bars"}
+{"business_id": "b1289", "name": "Old Cocktail Bar", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 758, "is_open": 0, "categories": "Bars, Lounges"}
+{"business_id": "b1629", "name": "Trusted Electric", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 335, "is_open": 1, "categories": "Roofing, Home Services, Heating & Air Conditioning/HVAC, Contractors"}
+{"business_id": "b1599", "name": "Harvest Market", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 31, "is_open": 1, "categories": "Shopping, Organic Stores"}
+{"business_id": "b1379", "name": "Polished Spa", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 151, "is_open": 1, "categories": "Barbers, Nail Salons"}
+{"business_id": "b1057", "name": "Nonna Pizzeria", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 123, "is_open": 1, "categories": "Pasta, Calzones, Wine Bars"}
+{"business_id": "b1654", "name": "Hometown Heating & Cooling", "city": "Madison", "state": "WI", "stars": 3.0, "review_count": 161, "is_open": 1, "categories": "Contractors, Plumbing, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1296", "name": "Copper Saloon", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 844, "is_open": 0, "categories": "Breweries, Nightlife, Pubs, Sports Bars"}
+{"business_id": "b1743", "name": "Grand Inn", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 522, "is_open": 1, "categories": "Resorts, Event Planning & Services, Hotels & Travel"}
+{"business_id": "b1415", "name": "Highway Auto Repair", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 809, "is_open": 1, "categories": "Automotive, Oil Change Stations, Auto Repair, Auto Parts"}
+{"business_id": "b1093", "name": "Original Pizza", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 181, "is_open": 1, "categories": "Calzones, Wine Bars, Italian, Restaurants"}
+{"business_id": "b1274", "name": "Downtown Sandwich Shop", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 627, "is_open": 1, "categories": "Fries, Restaurants"}
+{"business_id": "b1458", "name": "Lakeside Health Group", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 602, "is_open": 0, "categories": "Dentists, Physical Therapy"}
+{"business_id": "b1430", "name": "All-Star Auto Body", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 391, "is_open": 1, "categories": "Tires, Auto Repair, Car Wash"}
+{"business_id": "b1627", "name": "Apex Electric", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 402, "is_open": 1, "categories": "Roofing, Contractors"}
+{"business_id": "b1105", "name": "Nonna Pizza", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 517, "is_open": 1, "categories": "Calzones, Restaurants, Pasta"}
+{"business_id": "b1287", "name": "Iron Lounge", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 615, "is_open": 0, "categories": "Lounges, Beer, Pubs, Nightlife"}
+{"business_id": "b1303", "name": "Iron Pub", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 542, "is_open": 1, "categories": "Bars, Breweries, Beer"}
+{"business_id": "b1167", "name": "Golden Kitchen", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 386, "is_open": 1, "categories": "Restaurants, Noodles, Thai, Ramen"}
+{"business_id": "b1756", "name": "Garden Hotel", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 184, "is_open": 0, "categories": "Bed & Breakfast, Hotels & Travel"}
+{"business_id": "b1192", "name": "Sakura Sushi", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 649, "is_open": 0, "categories": "Sushi Bars, Noodles, Ramen"}
+{"business_id": "b1612", "name": "Hometown Home Services", "city": "Madison", "state": "WI", "stars": 3.0, "review_count": 330, "is_open": 1, "categories": "Home Services, Roofing, Contractors"}
+{"business_id": "b1141", "name": "Agave Cocina", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 714, "is_open": 1, "categories": "Restaurants, Latin American, Burritos, Tacos"}
+{"business_id": "b1040", "name": "Daily Espresso", "city": "Portland", "state": "OR", "stars": 3.0, "review_count": 107, "is_open": 1, "categories": "Juice Bars & Smoothies, Breakfast & Brunch"}
+{"business_id": "b1702", "name": "Whiskers Pet Care", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 546, "is_open": 1, "categories": "Pets, Animal Shelters, Pet Stores, Veterinarians"}
+{"business_id": "b1164", "name": "Taco Burrito Bar", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 118, "is_open": 1, "categories": "Burritos, Latin American, Tacos, Restaurants"}
+{"business_id": "b1337", "name": "Polished Nails", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 627, "is_open": 0, "categories": "Hair Salons, Day Spas"}
+{"business_id": "b1170", "name": "Jade Bistro", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 582, "is_open": 1, "categories": "Sushi Bars, Thai"}
+{"business_id": "b1549", "name": "Peak Gym", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 426, "is_open": 1, "categories": "Gyms, Fitness & Instruction"}
+{"business_id": "b1707", "name": "Whiskers Veterinary Clinic", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 709, "is_open": 1, "categories": "Pets, Veterinarians"}
+{"business_id": "b1719", "name": "Plaza Bed & Breakfast", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 837, "is_open": 1, "categories": "Bed & Breakfast, Hotels"}
+{"business_id": "b1252", "name": "Route Eatery", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 497, "is_open": 1, "categories": "Restaurants, Burgers, Hot Dogs, Sandwiches"}
+{"business_id": "b1576", "name": "Nature Pantry", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 397, "is_open": 1, "categories": "Specialty Food, Grocery, Organic Stores"}
+{"business_id": "b1525", "name": "Elevate Wellness", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 312, "is_open": 1, "categories": "Fitness & Instruction, Gyms"}
+{"business_id": "b1559", "name": "Fresh Grocery", "city": "Madison", "state": "WI", "stars": 3.0, "review_count": 716, "is_open": 1, "categories": "Farmers Market, Grocery, Organic Stores, Convenience Stores"}
+{"business_id": "b1315", "name": "Old Lounge", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 318, "is_open": 1, "categories": "Lounges, Sports Bars, Breweries, Beer"}
+{"business_id": "b1758", "name": "Lakeview Hotel", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 307, "is_open": 1, "categories": "Hotels & Travel, Bed & Breakfast"}
+{"business_id": "b1407", "name": "Pro Auto Body", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 261, "is_open": 0, "categories": "Auto Parts, Body Shops, Auto Repair, Car Wash"}
+{"business_id": "b1749", "name": "Lakeview Inn", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 716, "is_open": 0, "categories": "Hotels & Travel, Event Planning & Services, Hotels"}
+{"business_id": "b1435", "name": "Highway Tire Center", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 8, "is_open": 1, "categories": "Automotive, Car Wash, Auto Parts"}
+{"business_id": "b1593", "name": "Daily Grocery", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 352, "is_open": 1, "categories": "Grocery, Farmers Market, Specialty Food"}
+{"business_id": "b1015", "name": "Cozy Beans", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 653, "is_open": 0, "categories": "Cafes, Coffee & Tea"}
+{"business_id": "b1313", "name": "Iron Brewery", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 733, "is_open": 1, "categories": "Breweries, Cocktail Bars"}
+{"business_id": "b1311", "name": "Copper Lounge", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 202, "is_open": 1, "categories": "Pubs, Nightlife, Cocktail Bars, Lounges"}
+{"business_id": "b1070", "name": "Mama Pizzeria", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 451, "is_open": 1, "categories": "Pizza, Pasta, Wine Bars, Calzones"}
+{"business_id": "b1333", "name": "Luxe Spa", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 311, "is_open": 1, "categories": "Barbers, Waxing, Beauty & Spas, Hair Salons"}
+{"business_id": "b1362", "name": "Polished Nails", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 530, "is_open": 1, "categories": "Nail Salons, Barbers"}
+{"business_id": "b1457", "name": "Gentle Chiropractic", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 493, "is_open": 0, "categories": "Optometrists, Dentists, Doctors, Chiropractors"}
+{"business_id": "b1537", "name": "Summit Fitness", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 35, "is_open": 1, "categories": "Pilates, Cycling Classes, Fitness & Instruction"}
+{"business_id": "b1623", "name": "Reliable HVAC", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 537, "is_open": 1, "categories": "Electricians, Heating & Air Conditioning/HVAC, Plumbing, Roofing"}
+{"business_id": "b1371", "name": "Polished Salon", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 140, "is_open": 1, "categories": "Beauty & Spas, Hair Salons, Day Spas, Waxing"}
+{"business_id": "b1130", "name": "La Cocina", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 366, "is_open": 1, "categories": "Mexican, Tacos, Burritos, Restaurants"}
+{"business_id": "b1213", "name": "Lucky Dragon", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 27, "is_open": 0, "categories": "Asian Fusion, Ramen, Restaurants, Sushi Bars"}
+{"business_id": "b1657", "name": "Reliable Electric", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 446, "is_open": 1, "categories": "Roofing, Heating & Air Conditioning/HVAC, Contractors"}
+{"business_id": "b1604", "name": "Nature Foods", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 299, "is_open": 0, "categories": "Convenience Stores, Specialty Food, Farmers Market"}
+{"business_id": "b1739", "name": "Park Hotel", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 644, "is_open": 0, "categories": "Event Planning & Services, Resorts, Bed & Breakfast, Hotels"}
+{"business_id": "b1153", "name": "Taco Cocina", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 153, "is_open": 0, "categories": "Mexican, Restaurants, Latin American, Burritos"}
+{"business_id": "b1307", "name": "Old Lounge", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 589, "is_open": 1, "categories": "Sports Bars, Pubs"}
+{"business_id": "b1321", "name": "Blue Cocktail Bar", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 205, "is_open": 1, "categories": "Lounges, Bars, Nightlife, Cocktail Bars"}
+{"business_id": "b1510", "name": "Summit Yoga Studio", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 349, "is_open": 1, "categories": "Gyms, Fitness & Instruction, Trainers"}
+{"business_id": "b1428", "name": "Pro Garage", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 177, "is_open": 1, "categories": "Auto Parts, Tires, Automotive, Auto Repair"}
+{"business_id": "b1157", "name": "Agave Tacos", "city": "Madison", "state": "WI", "stars": 3.0, "review_count": 443, "is_open": 1, "categories": "Mexican, Restaurants, Burritos, Latin American"}
+{"business_id": "b1378", "name": "Serene Nails", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 156, "is_open": 0, "categories": "Beauty & Spas, Nail Salons, Barbers, Waxing"}
+{"business_id": "b1585", "name": "Fresh Grocery", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 248, "is_open": 1, "categories": "Specialty Food, Convenience Stores, Organic Stores, Grocery"}
+{"business_id": "b1172", "name": "Red Sushi", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 118, "is_open": 0, "categories": "Chinese, Thai, Asian Fusion, Restaurants"}
+{"business_id": "b1085", "name": "Little Ristorante", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 366, "is_open": 1, "categories": "Restaurants, Calzones, Pasta"}
+{"business_id": "b1464", "name": "Advanced Medical Center", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 769, "is_open": 0, "categories": "Health & Medical, Dentists, Doctors"}
+{"business_id": "b1402", "name": "Express Tire Center", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 135, "is_open": 1, "categories": "Auto Parts, Auto Repair, Tires"}
+{"business_id": "b1744", "name": "Park Inn", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 284, "is_open": 1, "categories": "Hotels & Travel, Resorts"}
+{"business_id": "b1588", "name": "Fresh Provisions", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 496, "is_open": 0, "categories": "Farmers Market, Shopping, Convenience Stores, Specialty Food"}
+{"business_id": "b1019", "name": "Corner Brew House", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 665, "is_open": 1, "categories": "Cafes, Breakfast & Brunch, Bakeries"}
+{"business_id": "b1178", "name": "Bamboo Noodle House", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 802, "is_open": 0, "categories": "Thai, Restaurants, Ramen"}
+{"business_id": "b1563", "name": "Fresh Provisions", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 389, "is_open": 1, "categories": "Convenience Stores, Organic Stores, Specialty Food, Grocery"}
+{"business_id": "b1102", "name": "Bella Pizza", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 441, "is_open": 1, "categories": "Restaurants, Calzones, Pasta, Italian"}
+{"business_id": "b1343", "name": "Serene Barbershop", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 238, "is_open": 0, "categories": "Day Spas, Skin Care"}
+{"business_id": "b1441", "name": "Advanced Health Group", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 692, "is_open": 1, "categories": "Health & Medical, Dentists, Doctors"}
+{"business_id": "b1124", "name": "Sol Cocina", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 762, "is_open": 1, "categories": "Tacos, Burritos, Latin American, Mexican"}
+{"business_id": "b1316", "name": "Blue Tavern", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 370, "is_open": 1, "categories": "Sports Bars, Beer, Breweries, Lounges"}
+{"business_id": "b1476", "name": "Family Chiropractic", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 398, "is_open": 0, "categories": "Optometrists, Physical Therapy"}
+{"business_id": "b1711", "name": "Paws Pet Grooming", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 285, "is_open": 1, "categories": "Pet Groomers, Pets, Veterinarians"}
+{"business_id": "b1703", "name": "Cozy Veterinary Clinic", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 710, "is_open": 0, "categories": "Animal Shelters, Pet Stores"}
+{"business_id": "b1344", "name": "Luxe Salon", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 321, "is_open": 1, "categories": "Hair Salons, Waxing, Beauty & Spas, Nail Salons"}
+{"business_id": "b1377", "name": "Bliss Beauty Bar", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 771, "is_open": 0, "categories": "Barbers, Waxing, Skin Care, Nail Salons"}
+{"business_id": "b1596", "name": "Harvest Mart", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 420, "is_open": 1, "categories": "Shopping, Specialty Food, Farmers Market, Convenience Stores"}
+{"business_id": "b1184", "name": "Tokyo Wok", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 99, "is_open": 1, "categories": "Sushi Bars, Thai"}
+{"business_id": "b1372", "name": "Bliss Salon", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 601, "is_open": 1, "categories": "Day Spas, Waxing"}
+{"business_id": "b1643", "name": "Premier Home Services", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 540, "is_open": 0, "categories": "Plumbing, Home Services"}
+{"business_id": "b1746", "name": "Royal Lodge", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 60, "is_open": 1, "categories": "Event Planning & Services, Hotels & Travel, Hotels"}
+{"business_id": "b1529", "name": "Core Crossfit", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 838, "is_open": 1, "categories": "Pilates, Cycling Classes"}
+{"business_id": "b1446", "name": "Family Chiropractic", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 738, "is_open": 1, "categories": "Health & Medical, Doctors, Physical Therapy, Optometrists"}
+{"business_id": "b1424", "name": "Quick Auto Repair", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 806, "is_open": 0, "categories": "Body Shops, Automotive"}
+{"business_id": "b1685", "name": "Loyal Veterinary Clinic", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 455, "is_open": 1, "categories": "Dog Walkers, Pet Groomers, Pet Stores, Animal Shelters"}
+{"business_id": "b1297", "name": "Old Brewery", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 111, "is_open": 1, "categories": "Cocktail Bars, Lounges"}
+{"business_id": "b1608", "name": "Trusted Electric", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 110, "is_open": 1, "categories": "Plumbing, Contractors, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1216", "name": "Sakura Ramen", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 84, "is_open": 1, "categories": "Chinese, Ramen"}
+{"business_id": "b1533", "name": "Iron Training Lab", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 108, "is_open": 1, "categories": "Yoga, Pilates, Trainers, Cycling Classes"}
+{"business_id": "b1705", "name": "Cozy Pet Grooming", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 459, "is_open": 1, "categories": "Pet Groomers, Animal Shelters"}
+{"business_id": "b1399", "name": "Express Motors", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 491, "is_open": 1, "categories": "Tires, Body Shops"}
+{"business_id": "b1770", "name": "Garden Lodge", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 787, "is_open": 1, "categories": "Event Planning & Services, Hotels & Travel, Bed & Breakfast, Resorts"}
+{"business_id": "b1101", "name": "Bella Pasta House", "city": "Columbus", "state": "OH", "stars": 3.0, "review_count": 257, "is_open": 1, "categories": "Restaurants, Calzones"}
+{"business_id": "b1712", "name": "Cozy Animal Hospital", "city": "Columbus", "state": "OH", "stars": 3.0, "review_count": 472, "is_open": 1, "categories": "Veterinarians, Pets, Pet Stores, Pet Groomers"}
+{"business_id": "b1503", "name": "Core Wellness", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 686, "is_open": 1, "categories": "Active Life, Pilates, Cycling Classes"}
+{"business_id": "b1064", "name": "Rustic Pizzeria", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 41, "is_open": 1, "categories": "Italian, Wine Bars, Restaurants"}
+{"business_id": "b1480", "name": "Family Dental", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 54, "is_open": 1, "categories": "Optometrists, Doctors"}
+{"business_id": "b1693", "name": "Wag Pet Shop", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 240, "is_open": 1, "categories": "Dog Walkers, Veterinarians"}
+{"business_id": "b1426", "name": "Precision Auto Body", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 686, "is_open": 0, "categories": "Auto Parts, Tires, Body Shops, Auto Repair"}
+{"business_id": "b1251", "name": "Hungry Burgers", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 671, "is_open": 1, "categories": "Fast Food, Sandwiches"}
+{"business_id": "b1384", "name": "Radiant Beauty Bar", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 10, "is_open": 1, "categories": "Skin Care, Nail Salons"}
+{"business_id": "b1285", "name": "Blue Brewery", "city": "Portland", "state": "OR", "stars": 3.0, "review_count": 602, "is_open": 0, "categories": "Nightlife, Breweries, Bars"}
+{"business_id": "b1302", "name": "Old Tavern", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 834, "is_open": 1, "categories": "Cocktail Bars, Breweries"}
+{"business_id": "b1328", "name": "The Saloon", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 664, "is_open": 1, "categories": "Sports Bars, Breweries"}
+{"business_id": "b1652", "name": "Apex Heating & Cooling", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 324, "is_open": 1, "categories": "Contractors, Plumbing"}
+{"business_id": "b1261", "name": "Big Grill", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 453, "is_open": 1, "categories": "Fast Food, Burgers, Sandwiches, Restaurants"}
+{"business_id": "b1001", "name": "Urban Beans", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 316, "is_open": 1, "categories": "Breakfast & Brunch, Juice Bars & Smoothies, Bakeries, Cafes"}
+{"business_id": "b1340", "name": "Serene Beauty Bar", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 375, "is_open": 1, "categories": "Barbers, Day Spas, Skin Care, Nail Salons"}
+{"business_id": "b1665", "name": "Whiskers Pet Care", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 432, "is_open": 1, "categories": "Veterinarians, Pets, Pet Groomers"}
+{"business_id": "b1734", "name": "Royal Bed & Breakfast", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 86, "is_open": 1, "categories": "Hotels & Travel, Hotels, Event Planning & Services"}
+{"business_id": "b1120", "name": "Taco Taqueria", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 649, "is_open": 0, "categories": "Restaurants, Tex-Mex, Latin American"}
+{"business_id": "b1273", "name": "Classic Burgers", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 320, "is_open": 1, "categories": "American (Traditional), Restaurants"}
+{"business_id": "b1724", "name": "Garden Lodge", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 289, "is_open": 1, "categories": "Hotels & Travel, Bed & Breakfast, Event Planning & Services, Resorts"}
+{"business_id": "b1526", "name": "Summit Wellness", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 793, "is_open": 1, "categories": "Trainers, Gyms, Fitness & Instruction, Pilates"}
+{"business_id": "b1160", "name": "Casa Cantina", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 265, "is_open": 0, "categories": "Tex-Mex, Tacos, Mexican, Latin American"}
+{"business_id": "b1177", "name": "Golden Dragon", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 734, "is_open": 0, "categories": "Ramen, Restaurants, Asian Fusion, Sushi Bars"}
+{"business_id": "b1408", "name": "Master Auto Repair", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 795, "is_open": 1, "categories": "Tires, Oil Change Stations, Auto Repair"}
+{"business_id": "b1567", "name": "Daily Pantry", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 729, "is_open": 0, "categories": "Farmers Market, Organic Stores, Convenience Stores"}
+{"business_id": "b1382", "name": "Glow Hair Studio", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 831, "is_open": 1, "categories": "Barbers, Beauty & Spas, Day Spas, Waxing"}
+{"business_id": "b1414", "name": "All-Star Tire Center", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 732, "is_open": 0, "categories": "Tires, Auto Repair"}
+{"business_id": "b1051", "name": "Bean Brew House", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 698, "is_open": 1, "categories": "Juice Bars & Smoothies, Donuts, Breakfast & Brunch, Cafes"}
+{"business_id": "b1642", "name": "Reliable Home Services", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 591, "is_open": 1, "categories": "Plumbing, Electricians, Home Services, Roofing"}
+{"business_id": "b1191", "name": "Jade Noodle House", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 513, "is_open": 1, "categories": "Asian Fusion, Ramen"}
+{"business_id": "b1376", "name": "Bliss Nails", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 25, "is_open": 0, "categories": "Hair Salons, Beauty & Spas, Barbers"}
+{"business_id": "b1083", "name": "Mama Pizzeria", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 840, "is_open": 1, "categories": "Restaurants, Italian"}
+{"business_id": "b1575", "name": "Family Provisions", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 434, "is_open": 1, "categories": "Convenience Stores, Grocery"}
+{"business_id": "b1091", "name": "Nonna Pizza", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 251, "is_open": 1, "categories": "Pasta, Wine Bars, Pizza"}
+{"business_id": "b1350", "name": "Serene Hair Studio", "city": "Columbus", "state": "OH", "stars": 3.0, "review_count": 435, "is_open": 1, "categories": "Nail Salons, Barbers, Skin Care, Beauty & Spas"}
+{"business_id": "b1021", "name": "Urban Cafe", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 324, "is_open": 1, "categories": "Tea Rooms, Cafes"}
+{"business_id": "b1628", "name": "Guardian Plumbing", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 586, "is_open": 1, "categories": "Home Services, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1714", "name": "Loyal Veterinary Clinic", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 783, "is_open": 1, "categories": "Dog Walkers, Pet Groomers, Animal Shelters"}
+{"business_id": "b1258", "name": "Downtown Burger Joint", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 689, "is_open": 1, "categories": "Fast Food, Fries, Restaurants, Sandwiches"}
+{"business_id": "b1355", "name": "Radiant Beauty Bar", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 36, "is_open": 0, "categories": "Barbers, Skin Care, Hair Salons, Nail Salons"}
+{"business_id": "b1134", "name": "Taco Grill", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 193, "is_open": 1, "categories": "Burritos, Tacos"}
+{"business_id": "b1535", "name": "Core Yoga Studio", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 589, "is_open": 1, "categories": "Cycling Classes, Active Life, Fitness & Instruction"}
+{"business_id": "b1766", "name": "Grand Inn", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 667, "is_open": 1, "categories": "Event Planning & Services, Hotels"}
+{"business_id": "b1694", "name": "Wag Animal Hospital", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 14, "is_open": 1, "categories": "Animal Shelters, Pet Groomers, Pets"}
+{"business_id": "b1087", "name": "Rustic Pizzeria", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 694, "is_open": 1, "categories": "Italian, Wine Bars, Pizza, Pasta"}
+{"business_id": "b1659", "name": "Trusted HVAC", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 628, "is_open": 1, "categories": "Home Services, Roofing"}
+{"business_id": "b1193", "name": "Lucky Sushi", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 588, "is_open": 0, "categories": "Asian Fusion, Sushi Bars, Restaurants, Chinese"}
+{"business_id": "b1678", "name": "Happy Pet Shop", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 521, "is_open": 1, "categories": "Dog Walkers, Animal Shelters, Pets, Pet Groomers"}
+{"business_id": "b1425", "name": "Express Car Wash", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 510, "is_open": 1, "categories": "Auto Parts, Car Wash, Tires, Auto Repair"}
+{"business_id": "b1387", "name": "Master Auto Repair", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 716, "is_open": 1, "categories": "Auto Repair, Tires, Car Wash, Oil Change Stations"}
+{"business_id": "b1280", "name": "Hop Lounge", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 63, "is_open": 0, "categories": "Pubs, Beer, Lounges, Breweries"}
+{"business_id": "b1137", "name": "Sol Cocina", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 128, "is_open": 1, "categories": "Mexican, Tex-Mex, Burritos"}
+{"business_id": "b1353", "name": "Polished Beauty Bar", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 296, "is_open": 1, "categories": "Skin Care, Day Spas, Hair Salons, Barbers"}
+{"business_id": "b1451", "name": "Community Dentistry", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 79, "is_open": 1, "categories": "Chiropractors, Optometrists, Physical Therapy"}
+{"business_id": "b1327", "name": "Old Alehouse", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 255, "is_open": 1, "categories": "Bars, Sports Bars"}
+{"business_id": "b1264", "name": "Hungry Grill", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 153, "is_open": 0, "categories": "American (Traditional), Burgers"}
+{"business_id": "b1089", "name": "Rustic Pizza", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 117, "is_open": 1, "categories": "Italian, Pasta, Pizza"}
+{"business_id": "b1268", "name": "Downtown Grill", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 556, "is_open": 1, "categories": "Fast Food, Restaurants, Sandwiches"}
+{"business_id": "b1145", "name": "El Grill", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 840, "is_open": 1, "categories": "Restaurants, Tacos, Latin American, Mexican"}
+{"business_id": "b1075", "name": "Bella Pasta House", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 766, "is_open": 1, "categories": "Italian, Pizza"}
+{"business_id": "b1107", "name": "Rustic Pizzeria", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 227, "is_open": 1, "categories": "Pizza, Italian"}
+{"business_id": "b1234", "name": "Classic Burger Joint", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 251, "is_open": 1, "categories": "Fries, American (Traditional), Fast Food, Restaurants"}
+{"business_id": "b1112", "name": "El Cocina", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 331, "is_open": 0, "categories": "Latin American, Burritos, Tacos"}
+{"business_id": "b1034", "name": "Morning Roasters", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 671, "is_open": 1, "categories": "Breakfast & Brunch, Donuts, Cafes"}
+{"business_id": "b1281", "name": "Old Saloon", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 83, "is_open": 1, "categories": "Nightlife, Beer"}
+{"business_id": "b1492", "name": "Gentle Health Group", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 11, "is_open": 0, "categories": "Doctors, Physical Therapy"}
+{"business_id": "b1023", "name": "Corner Brew House", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 572, "is_open": 1, "categories": "Tea Rooms, Coffee & Tea, Breakfast & Brunch, Bakeries"}
+{"business_id": "b1081", "name": "Original Pizzeria", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 251, "is_open": 1, "categories": "Restaurants, Wine Bars, Calzones"}
+{"business_id": "b1461", "name": "Bright Dental", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 809, "is_open": 0, "categories": "Doctors, Dentists, Health & Medical"}
+{"business_id": "b1008", "name": "Roasted Roasters", "city": "Nashville", "state": "TN", "stars": 3.5, "review_count": 212, "is_open": 1, "categories": "Donuts, Juice Bars & Smoothies, Cafes"}
+{"business_id": "b1358", "name": "Glow Spa", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 298, "is_open": 1, "categories": "Skin Care, Barbers, Nail Salons"}
+{"business_id": "b1674", "name": "Cozy Pet Care", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 597, "is_open": 1, "categories": "Pet Stores, Animal Shelters, Pets, Dog Walkers"}
+{"business_id": "b1097", "name": "Original Italian Kitchen", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 631, "is_open": 0, "categories": "Italian, Restaurants"}
+{"business_id": "b1244", "name": "Smash Eatery", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 789, "is_open": 0, "categories": "American (Traditional), Burgers"}
+{"business_id": "b1223", "name": "Downtown Eatery", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 488, "is_open": 0, "categories": "Fast Food, Hot Dogs"}
+{"business_id": "b1581", "name": "Fresh Mart", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 10, "is_open": 1, "categories": "Convenience Stores, Grocery"}
+{"business_id": "b1320", "name": "Hop Brewery", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 14, "is_open": 1, "categories": "Lounges, Cocktail Bars, Bars"}
+{"business_id": "b1232", "name": "Big Burgers", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 405, "is_open": 1, "categories": "Sandwiches, American (Traditional), Fast Food, Restaurants"}
+{"business_id": "b1455", "name": "Bright Chiropractic", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 8, "is_open": 0, "categories": "Doctors, Optometrists, Physical Therapy"}
+{"business_id": "b1545", "name": "Summit Training Lab", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 108, "is_open": 1, "categories": "Trainers, Yoga, Active Life, Gyms"}
+{"business_id": "b1433", "name": "Master Tire Center", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 549, "is_open": 1, "categories": "Oil Change Stations, Auto Repair, Tires"}
+{"business_id": "b1189", "name": "Sakura Kitchen", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 532, "is_open": 1, "categories": "Sushi Bars, Ramen, Noodles"}
+{"business_id": "b1485", "name": "Community Chiropractic", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 709, "is_open": 1, "categories": "Chiropractors, Doctors, Health & Medical, Dentists"}
+{"business_id": "b1397", "name": "All-Star Tire Center", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 595, "is_open": 1, "categories": "Tires, Auto Parts"}
+{"business_id": "b1649", "name": "Guardian Heating & Cooling", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 582, "is_open": 1, "categories": "Contractors, Electricians, Home Services"}
+{"business_id": "b1733", "name": "Park Resort", "city": "Nashville", "state": "TN", "stars": 3.5, "review_count": 99, "is_open": 1, "categories": "Resorts, Hotels & Travel, Event Planning & Services"}
+{"business_id": "b1429", "name": "Quick Auto Body", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 127, "is_open": 1, "categories": "Oil Change Stations, Body Shops, Automotive"}
+{"business_id": "b1519", "name": "Elevate Fitness", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 290, "is_open": 1, "categories": "Active Life, Pilates, Trainers"}
+{"business_id": "b1003", "name": "Daily Beans", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 216, "is_open": 1, "categories": "Tea Rooms, Juice Bars & Smoothies, Cafes, Donuts"}
+{"business_id": "b1072", "name": "Bella Trattoria", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 130, "is_open": 1, "categories": "Wine Bars, Pizza"}
+{"business_id": "b1099", "name": "Rustic Pasta House", "city": "Madison", "state": "WI", "stars": 3.0, "review_count": 764, "is_open": 0, "categories": "Restaurants, Calzones"}
+{"business_id": "b1054", "name": "Morning Cafe", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 809, "is_open": 1, "categories": "Bakeries, Breakfast & Brunch, Coffee & Tea, Juice Bars & Smoothies"}
+{"business_id": "b1025", "name": "Daily Cafe", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 30, "is_open": 1, "categories": "Bakeries, Breakfast & Brunch, Cafes"}
+{"business_id": "b1554", "name": "Harvest Pantry", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 519, "is_open": 0, "categories": "Shopping, Farmers Market"}
+{"business_id": "b1737", "name": "Royal Hotel", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 823, "is_open": 1, "categories": "Resorts, Bed & Breakfast, Hotels"}
+{"business_id": "b1242", "name": "Smash Burgers", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 848, "is_open": 1, "categories": "Restaurants, Fast Food"}
+{"business_id": "b1235", "name": "Classic Burgers", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 159, "is_open": 1, "categories": "American (Traditional), Fries, Fast Food"}
+{"business_id": "b1648", "name": "Hometown Plumbing", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 350, "is_open": 0, "categories": "Heating & Air Conditioning/HVAC, Contractors, Electricians, Roofing"}
+{"business_id": "b1061", "name": "Rustic Pizza", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 66, "is_open": 0, "categories": "Pizza, Calzones, Wine Bars"}
+{"business_id": "b1421", "name": "Precision Service Center", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 405, "is_open": 0, "categories": "Car Wash, Auto Repair"}
+{"business_id": "b1222", "name": "Route Burger Joint", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 680, "is_open": 1, "categories": "Burgers, Hot Dogs, Sandwiches, American (Traditional)"}
+{"business_id": "b1325", "name": "Old Tavern", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 312, "is_open": 1, "categories": "Sports Bars, Nightlife"}
+{"business_id": "b1731", "name": "Park Inn", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 23, "is_open": 1, "categories": "Bed & Breakfast, Resorts"}
+{"business_id": "b1507", "name": "Core Fitness", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 162, "is_open": 1, "categories": "Yoga, Trainers, Active Life, Cycling Classes"}
+{"business_id": "b1692", "name": "Wag Pet Grooming", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 546, "is_open": 1, "categories": "Veterinarians, Pets, Pet Groomers, Dog Walkers"}
+{"business_id": "b1123", "name": "Casa Tacos", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 385, "is_open": 1, "categories": "Latin American, Tex-Mex, Mexican"}
+{"business_id": "b1600", "name": "Harvest Pantry", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 281, "is_open": 1, "categories": "Farmers Market, Grocery, Convenience Stores, Specialty Food"}
+{"business_id": "b1111", "name": "Fiesta Burrito Bar", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 483, "is_open": 1, "categories": "Restaurants, Tex-Mex, Burritos, Latin American"}
+{"business_id": "b1398", "name": "Precision Auto Body", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 586, "is_open": 1, "categories": "Car Wash, Body Shops"}
+{"business_id": "b1680", "name": "Whiskers Veterinary Clinic", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 498, "is_open": 1, "categories": "Veterinarians, Dog Walkers, Animal Shelters"}
+{"business_id": "b1396", "name": "All-Star Garage", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 420, "is_open": 1, "categories": "Tires, Car Wash, Auto Repair, Oil Change Stations"}
+{"business_id": "b1566", "name": "Nature Foods", "city": "Columbus", "state": "OH", "stars": 3.0, "review_count": 229, "is_open": 0, "categories": "Organic Stores, Specialty Food, Grocery, Shopping"}
+{"business_id": "b1484", "name": "Lakeside Medical Center", "city": "Madison", "state": "WI", "stars": 3.0, "review_count": 304, "is_open": 0, "categories": "Optometrists, Dentists, Doctors, Chiropractors"}
+{"business_id": "b1357", "name": "Polished Barbershop", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 669, "is_open": 0, "categories": "Waxing, Nail Salons, Barbers, Day Spas"}
+{"business_id": "b1764", "name": "Park Suites", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 586, "is_open": 1, "categories": "Resorts, Hotels, Hotels & Travel"}
+{"business_id": "b1265", "name": "Big Burgers", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 307, "is_open": 1, "categories": "American (Traditional), Sandwiches"}
+{"business_id": "b1171", "name": "Jade Ramen", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 601, "is_open": 0, "categories": "Thai, Asian Fusion, Noodles, Restaurants"}
+{"business_id": "b1294", "name": "Blue Cocktail Bar", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 810, "is_open": 1, "categories": "Breweries, Lounges"}
+{"business_id": "b1277", "name": "Iron Alehouse", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 243, "is_open": 1, "categories": "Breweries, Cocktail Bars, Bars"}
+{"business_id": "b1043", "name": "Corner Coffee", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 290, "is_open": 1, "categories": "Donuts, Bakeries"}
+{"business_id": "b1524", "name": "Pulse Gym", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 830, "is_open": 1, "categories": "Trainers, Pilates, Active Life, Cycling Classes"}
+{"business_id": "b1283", "name": "The Pub", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 486, "is_open": 1, "categories": "Beer, Lounges, Breweries"}
+{"business_id": "b1002", "name": "Sunrise Espresso", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 750, "is_open": 1, "categories": "Donuts, Juice Bars & Smoothies, Bakeries"}
+{"business_id": "b1323", "name": "Tap Cocktail Bar", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 181, "is_open": 1, "categories": "Beer, Lounges"}
+{"business_id": "b1582", "name": "Daily Foods", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 162, "is_open": 1, "categories": "Shopping, Convenience Stores, Farmers Market"}
+{"business_id": "b1413", "name": "Highway Motors", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 359, "is_open": 1, "categories": "Car Wash, Tires"}
+{"business_id": "b1666", "name": "Whiskers Pet Care", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 490, "is_open": 1, "categories": "Pet Groomers, Pets, Veterinarians"}
+{"business_id": "b1247", "name": "Big Grill", "city": "Portland", "state": "OR", "stars": 3.0, "review_count": 509, "is_open": 1, "categories": "Restaurants, Fries"}
+{"business_id": "b1468", "name": "Lakeside Family Clinic", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 669, "is_open": 0, "categories": "Dentists, Doctors, Optometrists, Chiropractors"}
+{"business_id": "b1079", "name": "Nonna Pizzeria", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 558, "is_open": 0, "categories": "Calzones, Pasta, Pizza, Italian"}
+{"business_id": "b1401", "name": "Quick Garage", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 837, "is_open": 0, "categories": "Tires, Auto Repair"}
+{"business_id": "b1195", "name": "Lucky Bistro", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 231, "is_open": 1, "categories": "Noodles, Restaurants"}
+{"business_id": "b1290", "name": "Blue Cocktail Bar", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 274, "is_open": 1, "categories": "Nightlife, Cocktail Bars, Bars"}
+{"business_id": "b1200", "name": "Jade Bistro", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 423, "is_open": 1, "categories": "Restaurants, Sushi Bars, Asian Fusion, Japanese"}
+{"business_id": "b1338", "name": "Radiant Hair Studio", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 99, "is_open": 1, "categories": "Nail Salons, Waxing, Barbers, Hair Salons"}
+{"business_id": "b1672", "name": "Cozy Animal Hospital", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 336, "is_open": 0, "categories": "Pet Stores, Dog Walkers"}
+{"business_id": "b1730", "name": "Plaza Lodge", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 99, "is_open": 1, "categories": "Hotels, Hotels & Travel"}
+{"business_id": "b1346", "name": "Radiant Salon", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 721, "is_open": 1, "categories": "Barbers, Hair Salons"}
+{"business_id": "b1477", "name": "Advanced Medical Center", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 673, "is_open": 1, "categories": "Health & Medical, Chiropractors"}
+{"business_id": "b1336", "name": "Bliss Salon", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 171, "is_open": 1, "categories": "Hair Salons, Waxing, Day Spas"}
+{"business_id": "b1717", "name": "Royal Hotel", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 19, "is_open": 1, "categories": "Hotels, Resorts"}
+{"business_id": "b1186", "name": "Tokyo Ramen", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 9, "is_open": 1, "categories": "Chinese, Restaurants, Sushi Bars"}
+{"business_id": "b1747", "name": "Lakeview Hotel", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 325, "is_open": 1, "categories": "Event Planning & Services, Resorts, Bed & Breakfast"}
+{"business_id": "b1010", "name": "Sunrise Cafe", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 708, "is_open": 0, "categories": "Tea Rooms, Cafes"}
+{"business_id": "b1488", "name": "Advanced Health Group", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 370, "is_open": 1, "categories": "Dentists, Doctors"}
+{"business_id": "b1597", "name": "Harvest Market", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 267, "is_open": 1, "categories": "Specialty Food, Shopping, Organic Stores"}
+{"business_id": "b1432", "name": "Highway Auto Body", "city": "Nashville", "state": "TN", "stars": 4.5, "review_count": 585, "is_open": 1, "categories": "Tires, Auto Repair, Oil Change Stations"}
+{"business_id": "b1742", "name": "Lakeview Suites", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 322, "is_open": 1, "categories": "Event Planning & Services, Hotels"}
+{"business_id": "b1470", "name": "Community Dentistry", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 254, "is_open": 1, "categories": "Doctors, Chiropractors"}
+{"business_id": "b1255", "name": "Classic Eatery", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 24, "is_open": 1, "categories": "Fries, Hot Dogs"}
+{"business_id": "b1701", "name": "Wag Veterinary Clinic", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 31, "is_open": 1, "categories": "Animal Shelters, Dog Walkers, Pet Groomers"}
+{"business_id": "b1389", "name": "Express Service Center", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 132, "is_open": 1, "categories": "Oil Change Stations, Body Shops"}
+{"business_id": "b1727", "name": "Heritage Lodge", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 548, "is_open": 1, "categories": "Bed & Breakfast, Event Planning & Services, Hotels & Travel, Hotels"}
+{"business_id": "b1439", "name": "All-Star Service Center", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 340, "is_open": 0, "categories": "Oil Change Stations, Automotive, Tires, Auto Repair"}
+{"business_id": "b1243", "name": "Prime Grill", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 622, "is_open": 1, "categories": "Hot Dogs, Restaurants"}
+{"business_id": "b1370", "name": "Bliss Beauty Bar", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 471, "is_open": 1, "categories": "Skin Care, Barbers"}
+{"business_id": "b1314", "name": "Blue Pub", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 250, "is_open": 0, "categories": "Breweries, Pubs"}
+{"business_id": "b1580", "name": "Fresh Foods", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 282, "is_open": 0, "categories": "Grocery, Specialty Food, Farmers Market"}
+{"business_id": "b1506", "name": "Flow Training Lab", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 310, "is_open": 0, "categories": "Active Life, Fitness & Instruction, Yoga"}
+{"business_id": "b1386", "name": "Pro Auto Repair", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 562, "is_open": 1, "categories": "Car Wash, Auto Repair, Oil Change Stations"}
+{"business_id": "b1284", "name": "Blue Saloon", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 639, "is_open": 0, "categories": "Pubs, Cocktail Bars"}
+{"business_id": "b1236", "name": "Hungry Sandwich Shop", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 724, "is_open": 0, "categories": "Burgers, American (Traditional)"}
+{"business_id": "b1199", "name": "Jade Wok", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 213, "is_open": 0, "categories": "Japanese, Thai, Ramen, Asian Fusion"}
+{"business_id": "b1624", "name": "Hometown Home Services", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 87, "is_open": 1, "categories": "Electricians, Roofing, Contractors"}
+{"business_id": "b1310", "name": "Iron Alehouse", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 433, "is_open": 1, "categories": "Cocktail Bars, Beer, Sports Bars, Bars"}
+{"business_id": "b1060", "name": "Bella Pizza", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 542, "is_open": 1, "categories": "Pizza, Calzones"}
+{"business_id": "b1578", "name": "Harvest Provisions", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 838, "is_open": 1, "categories": "Grocery, Specialty Food"}
+{"business_id": "b1181", "name": "Lucky Wok", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 436, "is_open": 0, "categories": "Restaurants, Chinese"}
+{"business_id": "b1521", "name": "Core Gym", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 135, "is_open": 1, "categories": "Active Life, Pilates, Fitness & Instruction, Trainers"}
+{"business_id": "b1005", "name": "Cozy Roasters", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 817, "is_open": 1, "categories": "Breakfast & Brunch, Tea Rooms, Bakeries"}
+{"business_id": "b1684", "name": "Whiskers Pet Care", "city": "Nashville", "state": "TN", "stars": 4.5, "review_count": 7, "is_open": 0, "categories": "Animal Shelters, Veterinarians"}
+{"business_id": "b1532", "name": "Core Yoga Studio", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 285, "is_open": 1, "categories": "Pilates, Active Life, Trainers, Yoga"}
+{"business_id": "b1041", "name": "Daily Cafe", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 603, "is_open": 1, "categories": "Bakeries, Juice Bars & Smoothies"}
+{"business_id": "b1565", "name": "Market Market", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 259, "is_open": 1, "categories": "Convenience Stores, Shopping, Grocery, Organic Stores"}
+{"business_id": "b1147", "name": "Taco Grill", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 417, "is_open": 1, "categories": "Tacos, Tex-Mex, Restaurants, Latin American"}
+{"business_id": "b1009", "name": "Cozy Brew House", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 348, "is_open": 1, "categories": "Juice Bars & Smoothies, Tea Rooms"}
+{"business_id": "b1365", "name": "Bliss Hair Studio", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 284, "is_open": 1, "categories": "Day Spas, Skin Care, Nail Salons, Waxing"}
+{"business_id": "b1154", "name": "La Cocina", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 319, "is_open": 0, "categories": "Tex-Mex, Tacos, Burritos, Restaurants"}
+{"business_id": "b1605", "name": "Market Grocery", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 508, "is_open": 1, "categories": "Specialty Food, Organic Stores, Shopping, Grocery"}
+{"business_id": "b1418", "name": "Pro Garage", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 295, "is_open": 1, "categories": "Auto Repair, Car Wash, Body Shops, Auto Parts"}
+{"business_id": "b1331", "name": "Bliss Spa", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 80, "is_open": 1, "categories": "Barbers, Hair Salons, Nail Salons"}
+{"business_id": "b1367", "name": "Bliss Nails", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 490, "is_open": 1, "categories": "Barbers, Hair Salons, Beauty & Spas, Skin Care"}
+{"business_id": "b1046", "name": "Urban Roasters", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 373, "is_open": 1, "categories": "Bakeries, Breakfast & Brunch, Donuts"}
+{"business_id": "b1220", "name": "Red Noodle House", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 11, "is_open": 0, "categories": "Restaurants, Sushi Bars"}
+{"business_id": "b1400", "name": "Express Garage", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 92, "is_open": 1, "categories": "Tires, Auto Repair, Automotive, Body Shops"}
+{"business_id": "b1496", "name": "Pulse Wellness", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 127, "is_open": 1, "categories": "Pilates, Fitness & Instruction, Cycling Classes, Trainers"}
+{"business_id": "b1482", "name": "Advanced Dentistry", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 574, "is_open": 1, "categories": "Doctors, Physical Therapy, Optometrists"}
+{"business_id": "b1125", "name": "Agave Cocina", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 427, "is_open": 1, "categories": "Latin American, Mexican"}
+{"business_id": "b1618", "name": "Premier Contractors", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 167, "is_open": 1, "categories": "Electricians, Plumbing, Roofing, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1713", "name": "Happy Pet Grooming", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 77, "is_open": 1, "categories": "Veterinarians, Dog Walkers"}
+{"business_id": "b1055", "name": "Urban Cafe", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 18, "is_open": 1, "categories": "Tea Rooms, Breakfast & Brunch, Cafes"}
+{"business_id": "b1368", "name": "Glow Spa", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 560, "is_open": 1, "categories": "Day Spas, Skin Care, Waxing, Hair Salons"}
+{"business_id": "b1224", "name": "Downtown Burger Joint", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 155, "is_open": 0, "categories": "Restaurants, Burgers, Fries, Fast Food"}
+{"business_id": "b1300", "name": "Old Brewery", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 189, "is_open": 1, "categories": "Cocktail Bars, Pubs, Beer"}
+{"business_id": "b1555", "name": "Family Foods", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 293, "is_open": 1, "categories": "Specialty Food, Shopping"}
+{"business_id": "b1405", "name": "Master Auto Repair", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 496, "is_open": 1, "categories": "Auto Repair, Car Wash, Body Shops, Oil Change Stations"}
+{"business_id": "b1491", "name": "Community Dentistry", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 442, "is_open": 1, "categories": "Doctors, Physical Therapy, Health & Medical"}
+{"business_id": "b1614", "name": "Premier Heating & Cooling", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 43, "is_open": 0, "categories": "Plumbing, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1494", "name": "Advanced Medical Center", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 647, "is_open": 0, "categories": "Dentists, Chiropractors"}
+{"business_id": "b1115", "name": "Taco Burrito Bar", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 496, "is_open": 1, "categories": "Restaurants, Latin American"}
+{"business_id": "b1155", "name": "La Cantina", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 433, "is_open": 1, "categories": "Burritos, Latin American"}
+{"business_id": "b1546", "name": "Summit Wellness", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 224, "is_open": 1, "categories": "Active Life, Fitness & Instruction, Gyms, Trainers"}
+{"business_id": "b1722", "name": "Garden Resort", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 157, "is_open": 1, "categories": "Resorts, Event Planning & Services, Hotels, Hotels & Travel"}
+{"business_id": "b1590", "name": "Fresh Pantry", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 317, "is_open": 1, "categories": "Farmers Market, Convenience Stores, Specialty Food"}
+{"business_id": "b1669", "name": "Paws Pet Grooming", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 346, "is_open": 1, "categories": "Dog Walkers, Pet Stores, Animal Shelters"}
+{"business_id": "b1409", "name": "Express Auto Repair", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 686, "is_open": 1, "categories": "Auto Repair, Oil Change Stations, Automotive"}
+{"business_id": "b1613", "name": "Guardian Electric", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 771, "is_open": 1, "categories": "Contractors, Roofing, Electricians, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1203", "name": "Golden Noodle House", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 714, "is_open": 1, "categories": "Chinese, Thai"}
+{"business_id": "b1162", "name": "El Cocina", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 426, "is_open": 0, "categories": "Mexican, Burritos, Tacos, Restaurants"}
+{"business_id": "b1122", "name": "La Cocina", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 6, "is_open": 0, "categories": "Restaurants, Tex-Mex, Latin American"}
+{"business_id": "b1700", "name": "Cozy Pet Shop", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 27, "is_open": 1, "categories": "Pet Groomers, Dog Walkers, Pets"}
+{"business_id": "b1690", "name": "Cozy Veterinary Clinic", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 743, "is_open": 1, "categories": "Pet Stores, Dog Walkers, Pet Groomers"}
+{"business_id": "b1095", "name": "Mama Italian Kitchen", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 146, "is_open": 0, "categories": "Pizza, Italian, Restaurants"}
+{"business_id": "b1726", "name": "Garden Hotel", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 243, "is_open": 1, "categories": "Hotels, Event Planning & Services"}
+{"business_id": "b1161", "name": "El Burrito Bar", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 216, "is_open": 0, "categories": "Mexican, Latin American"}
+{"business_id": "b1226", "name": "Route Grill", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 800, "is_open": 1, "categories": "American (Traditional), Sandwiches, Fries, Restaurants"}
+{"business_id": "b1269", "name": "Route Sandwich Shop", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 232, "is_open": 1, "categories": "Fast Food, American (Traditional), Burgers"}
+{"business_id": "b1092", "name": "Little Pizza", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 821, "is_open": 0, "categories": "Calzones, Pasta, Italian"}
+{"business_id": "b1417", "name": "Precision Tire Center", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 76, "is_open": 1, "categories": "Tires, Body Shops, Auto Repair, Automotive"}
+{"business_id": "b1104", "name": "Nonna Pizzeria", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 394, "is_open": 1, "categories": "Calzones, Wine Bars, Pizza"}
+{"business_id": "b1557", "name": "Harvest Grocery", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 26, "is_open": 1, "categories": "Farmers Market, Grocery, Convenience Stores, Shopping"}
+{"business_id": "b1481", "name": "Family Family Clinic", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 57, "is_open": 0, "categories": "Optometrists, Health & Medical, Physical Therapy"}
+{"business_id": "b1166", "name": "Lucky Ramen", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 781, "is_open": 0, "categories": "Restaurants, Sushi Bars, Asian Fusion, Chinese"}
+{"business_id": "b1647", "name": "Hometown HVAC", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 306, "is_open": 0, "categories": "Contractors, Electricians, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1366", "name": "Radiant Salon", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 682, "is_open": 0, "categories": "Day Spas, Nail Salons, Hair Salons, Skin Care"}
+{"business_id": "b1625", "name": "Premier Plumbing", "city": "Nashville", "state": "TN", "stars": 3.5, "review_count": 382, "is_open": 0, "categories": "Contractors, Plumbing, Electricians, Roofing"}
+{"business_id": "b1062", "name": "Little Pizza", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 47, "is_open": 1, "categories": "Restaurants, Wine Bars, Italian"}
+{"business_id": "b1214", "name": "Bamboo Dragon", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 744, "is_open": 1, "categories": "Asian Fusion, Thai, Noodles, Restaurants"}
+{"business_id": "b1042", "name": "Cozy Beans", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 138, "is_open": 1, "categories": "Bakeries, Juice Bars & Smoothies, Tea Rooms"}
+{"business_id": "b1646", "name": "All Home Services", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 364, "is_open": 1, "categories": "Electricians, Contractors, Heating & Air Conditioning/HVAC, Home Services"}
+{"business_id": "b1324", "name": "Tap Tavern", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 563, "is_open": 1, "categories": "Pubs, Sports Bars, Beer, Bars"}
+{"business_id": "b1196", "name": "Red Ramen", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 176, "is_open": 1, "categories": "Noodles, Sushi Bars"}
+{"business_id": "b1450", "name": "Advanced Dental", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 481, "is_open": 1, "categories": "Chiropractors, Health & Medical, Dentists, Doctors"}
+{"business_id": "b1067", "name": "Mama Italian Kitchen", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 723, "is_open": 1, "categories": "Pasta, Calzones"}
+{"business_id": "b1542", "name": "Flow Gym", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 649, "is_open": 1, "categories": "Yoga, Gyms, Pilates"}
+{"business_id": "b1769", "name": "Royal Bed & Breakfast", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 122, "is_open": 1, "categories": "Resorts, Bed & Breakfast, Hotels & Travel"}
+{"business_id": "b1341", "name": "Luxe Barbershop", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 77, "is_open": 0, "categories": "Waxing, Hair Salons, Skin Care"}
+{"business_id": "b1423", "name": "All-Star Garage", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 808, "is_open": 1, "categories": "Car Wash, Tires, Oil Change Stations, Auto Repair"}
+{"business_id": "b1514", "name": "Peak Wellness", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 510, "is_open": 1, "categories": "Active Life, Yoga, Trainers, Fitness & Instruction"}
+{"business_id": "b1513", "name": "Elevate Gym", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 338, "is_open": 1, "categories": "Pilates, Gyms, Cycling Classes, Yoga"}
+{"business_id": "b1495", "name": "Family Dentistry", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 816, "is_open": 0, "categories": "Dentists, Physical Therapy, Optometrists"}
+{"business_id": "b1759", "name": "Plaza Inn", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 648, "is_open": 1, "categories": "Bed & Breakfast, Resorts, Hotels & Travel"}
+{"business_id": "b1080", "name": "Nonna Pizza", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 413, "is_open": 1, "categories": "Italian, Calzones, Wine Bars, Pasta"}
+{"business_id": "b1063", "name": "Nonna Pizza", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 263, "is_open": 0, "categories": "Wine Bars, Calzones, Pasta, Pizza"}
+{"business_id": "b1615", "name": "Trusted Plumbing", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 138, "is_open": 1, "categories": "Contractors, Heating & Air Conditioning/HVAC, Home Services"}
+{"business_id": "b1682", "name": "Happy Pet Care", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 398, "is_open": 1, "categories": "Pets, Pet Stores"}
+{"business_id": "b1645", "name": "Apex Contractors", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 93, "is_open": 1, "categories": "Home Services, Plumbing, Contractors"}
+{"business_id": "b1033", "name": "Cozy Bakery", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 591, "is_open": 1, "categories": "Juice Bars & Smoothies, Tea Rooms, Cafes"}
+{"business_id": "b1763", "name": "Grand Bed & Breakfast", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 24, "is_open": 1, "categories": "Bed & Breakfast, Resorts"}
+{"business_id": "b1076", "name": "Little Pizzeria", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 586, "is_open": 1, "categories": "Pasta, Italian, Restaurants, Pizza"}
+{"business_id": "b1710", "name": "Furry Pet Grooming", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 459, "is_open": 1, "categories": "Pet Groomers, Animal Shelters"}
+{"business_id": "b1538", "name": "Flow Yoga Studio", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 683, "is_open": 1, "categories": "Cycling Classes, Gyms, Active Life, Trainers"}
+{"business_id": "b1683", "name": "Wag Pet Grooming", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 791, "is_open": 1, "categories": "Pet Groomers, Animal Shelters, Pet Stores, Dog Walkers"}
+{"business_id": "b1241", "name": "Smash Eatery", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 817, "is_open": 1, "categories": "Hot Dogs, American (Traditional), Sandwiches, Fries"}
+{"business_id": "b1259", "name": "Downtown Sandwich Shop", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 254, "is_open": 1, "categories": "Sandwiches, Burgers, American (Traditional), Fries"}
+{"business_id": "b1020", "name": "Roasted Beans", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 738, "is_open": 1, "categories": "Donuts, Breakfast & Brunch, Juice Bars & Smoothies"}
+{"business_id": "b1750", "name": "Plaza Bed & Breakfast", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 556, "is_open": 1, "categories": "Event Planning & Services, Hotels"}
+{"business_id": "b1375", "name": "Glow Beauty Bar", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 311, "is_open": 1, "categories": "Day Spas, Beauty & Spas"}
+{"business_id": "b1671", "name": "Happy Veterinary Clinic", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 57, "is_open": 1, "categories": "Dog Walkers, Animal Shelters, Pets, Pet Stores"}
+{"business_id": "b1547", "name": "Core Crossfit", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 455, "is_open": 1, "categories": "Trainers, Active Life"}
+{"business_id": "b1444", "name": "Lakeside Health Group", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 515, "is_open": 1, "categories": "Chiropractors, Physical Therapy"}
+{"business_id": "b1230", "name": "Route Burger Joint", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 660, "is_open": 1, "categories": "American (Traditional), Burgers, Restaurants, Fries"}
+{"business_id": "b1661", "name": "Cozy Pet Shop", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 168, "is_open": 1, "categories": "Animal Shelters, Dog Walkers"}
+{"business_id": "b1755", "name": "Park Inn", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 261, "is_open": 0, "categories": "Resorts, Hotels & Travel"}
+{"business_id": "b1049", "name": "Sunrise Brew House", "city": "Tucson", "state": "AZ", "stars": 3.0, "review_count": 149, "is_open": 0, "categories": "Coffee & Tea, Bakeries, Tea Rooms"}
+{"business_id": "b1068", "name": "Famous Pizza", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 674, "is_open": 1, "categories": "Pasta, Wine Bars, Italian, Calzones"}
+{"business_id": "b1176", "name": "Bamboo Kitchen", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 137, "is_open": 1, "categories": "Sushi Bars, Noodles, Ramen"}
+{"business_id": "b1767", "name": "Plaza Inn", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 115, "is_open": 0, "categories": "Bed & Breakfast, Hotels & Travel, Resorts, Event Planning & Services"}
+{"business_id": "b1715", "name": "Wag Veterinary Clinic", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 353, "is_open": 1, "categories": "Dog Walkers, Animal Shelters, Veterinarians"}
+{"business_id": "b1014", "name": "Corner Cafe", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 402, "is_open": 1, "categories": "Tea Rooms, Cafes, Bakeries, Donuts"}
+{"business_id": "b1149", "name": "Taco Tacos", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 576, "is_open": 1, "categories": "Burritos, Restaurants"}
+{"business_id": "b1206", "name": "Jade Wok", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 129, "is_open": 0, "categories": "Chinese, Noodles, Sushi Bars"}
+{"business_id": "b1267", "name": "Downtown Sandwich Shop", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 843, "is_open": 1, "categories": "Fries, Fast Food, Sandwiches"}
+{"business_id": "b1007", "name": "Bean Bakery", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 331, "is_open": 1, "categories": "Coffee & Tea, Bakeries, Donuts, Cafes"}
+{"business_id": "b1509", "name": "Pulse Crossfit", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 68, "is_open": 1, "categories": "Active Life, Pilates, Cycling Classes"}
+{"business_id": "b1606", "name": "All Plumbing", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 490, "is_open": 1, "categories": "Home Services, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1716", "name": "Park Hotel", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 329, "is_open": 1, "categories": "Hotels & Travel, Event Planning & Services, Resorts, Hotels"}
+{"business_id": "b1431", "name": "Express Auto Repair", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 55, "is_open": 1, "categories": "Tires, Auto Parts, Automotive"}
+{"business_id": "b1404", "name": "Express Car Wash", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 820, "is_open": 0, "categories": "Car Wash, Auto Parts, Tires"}
+{"business_id": "b1497", "name": "Peak Yoga Studio", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 820, "is_open": 1, "categories": "Fitness & Instruction, Pilates"}
+{"business_id": "b1447", "name": "Modern Health Group", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 278, "is_open": 0, "categories": "Doctors, Health & Medical, Chiropractors, Physical Therapy"}
+{"business_id": "b1298", "name": "Iron Alehouse", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 63, "is_open": 1, "categories": "Bars, Nightlife"}
+{"business_id": "b1100", "name": "Mama Pizza", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 616, "is_open": 1, "categories": "Pasta, Wine Bars, Restaurants"}
+{"business_id": "b1751", "name": "Park Resort", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 748, "is_open": 1, "categories": "Event Planning & Services, Resorts, Hotels & Travel"}
+{"business_id": "b1679", "name": "Cozy Pet Grooming", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 396, "is_open": 1, "categories": "Pets, Veterinarians"}
+{"business_id": "b1257", "name": "Downtown Eatery", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 126, "is_open": 1, "categories": "Fast Food, Burgers, Restaurants, Hot Dogs"}
+{"business_id": "b1039", "name": "Corner Bakery", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 449, "is_open": 1, "categories": "Juice Bars & Smoothies, Breakfast & Brunch"}
+{"business_id": "b1329", "name": "The Alehouse", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 659, "is_open": 0, "categories": "Nightlife, Cocktail Bars, Breweries"}
+{"business_id": "b1012", "name": "Corner Beans", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 621, "is_open": 1, "categories": "Donuts, Breakfast & Brunch, Juice Bars & Smoothies"}
+{"business_id": "b1225", "name": "Classic Diner", "city": "Portland", "state": "OR", "stars": 3.0, "review_count": 743, "is_open": 1, "categories": "Restaurants, Burgers, Hot Dogs"}
+{"business_id": "b1392", "name": "All-Star Garage", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 432, "is_open": 1, "categories": "Automotive, Auto Repair, Oil Change Stations, Car Wash"}
+{"business_id": "b1422", "name": "Master Auto Body", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 713, "is_open": 1, "categories": "Automotive, Auto Parts, Auto Repair"}
+{"business_id": "b1406", "name": "Master Tire Center", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 720, "is_open": 0, "categories": "Auto Parts, Tires, Oil Change Stations"}
+{"business_id": "b1523", "name": "Summit Training Lab", "city": "Nashville", "state": "TN", "stars": 3.0, "review_count": 564, "is_open": 1, "categories": "Fitness & Instruction, Yoga, Active Life, Pilates"}
+{"business_id": "b1622", "name": "All Plumbing", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 672, "is_open": 1, "categories": "Home Services, Contractors, Plumbing, Roofing"}
+{"business_id": "b1644", "name": "All Heating & Cooling", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 15, "is_open": 1, "categories": "Plumbing, Heating & Air Conditioning/HVAC, Roofing"}
+{"business_id": "b1610", "name": "Hometown Electric", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 658, "is_open": 1, "categories": "Plumbing, Electricians, Contractors, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1601", "name": "Family Grocery", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 31, "is_open": 1, "categories": "Farmers Market, Organic Stores"}
+{"business_id": "b1342", "name": "Pure Hair Studio", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 614, "is_open": 1, "categories": "Beauty & Spas, Waxing, Day Spas"}
+{"business_id": "b1175", "name": "Red Sushi", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 410, "is_open": 1, "categories": "Japanese, Restaurants"}
+{"business_id": "b1221", "name": "Classic Burgers", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 479, "is_open": 1, "categories": "Sandwiches, American (Traditional), Fries"}
+{"business_id": "b1256", "name": "Route Grill", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 824, "is_open": 1, "categories": "Fast Food, Fries"}
+{"business_id": "b1706", "name": "Happy Pet Care", "city": "Madison", "state": "WI", "stars": 3.0, "review_count": 748, "is_open": 1, "categories": "Dog Walkers, Pet Groomers, Veterinarians"}
+{"business_id": "b1483", "name": "Community Dental", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 402, "is_open": 1, "categories": "Dentists, Physical Therapy, Optometrists"}
+{"business_id": "b1465", "name": "Family Health Group", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 176, "is_open": 0, "categories": "Chiropractors, Health & Medical, Physical Therapy, Optometrists"}
+{"business_id": "b1723", "name": "Heritage Inn", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 769, "is_open": 1, "categories": "Event Planning & Services, Resorts, Bed & Breakfast"}
+{"business_id": "b1511", "name": "Peak Crossfit", "city": "Nashville", "state": "TN", "stars": 4.5, "review_count": 138, "is_open": 0, "categories": "Active Life, Trainers, Pilates, Gyms"}
+{"business_id": "b1119", "name": "Taco Tacos", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 742, "is_open": 1, "categories": "Tex-Mex, Latin American"}
+{"business_id": "b1048", "name": "Urban Coffee", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 759, "is_open": 1, "categories": "Cafes, Breakfast & Brunch"}
+{"business_id": "b1579", "name": "Daily Mart", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 70, "is_open": 1, "categories": "Grocery, Convenience Stores, Farmers Market, Specialty Food"}
+{"business_id": "b1516", "name": "Iron Training Lab", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 20, "is_open": 0, "categories": "Cycling Classes, Trainers, Fitness & Instruction, Yoga"}
+{"business_id": "b1031", "name": "Bean Bakery", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 610, "is_open": 1, "categories": "Juice Bars & Smoothies, Coffee & Tea, Breakfast & Brunch"}
+{"business_id": "b1467", "name": "Family Family Clinic", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 680, "is_open": 1, "categories": "Physical Therapy, Optometrists, Dentists, Chiropractors"}
+{"business_id": "b1194", "name": "Tokyo Dragon", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 319, "is_open": 1, "categories": "Chinese, Ramen, Thai"}
+{"business_id": "b1291", "name": "Copper Saloon", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 256, "is_open": 1, "categories": "Beer, Nightlife, Cocktail Bars"}
+{"business_id": "b1219", "name": "Tokyo Sushi", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 713, "is_open": 1, "categories": "Japanese, Thai, Chinese"}
+{"business_id": "b1117", "name": "El Cocina", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 114, "is_open": 1, "categories": "Burritos, Restaurants"}
+{"business_id": "b1202", "name": "Red Dragon", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 367, "is_open": 0, "categories": "Chinese, Restaurants"}
+{"business_id": "b1636", "name": "Reliable Contractors", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 776, "is_open": 1, "categories": "Roofing, Electricians, Heating & Air Conditioning/HVAC, Home Services"}
+{"business_id": "b1074", "name": "Original Trattoria", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 332, "is_open": 1, "categories": "Pizza, Wine Bars"}
+{"business_id": "b1144", "name": "El Taqueria", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 285, "is_open": 1, "categories": "Latin American, Burritos, Tacos, Restaurants"}
+{"business_id": "b1619", "name": "Premier Home Services", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 271, "is_open": 1, "categories": "Heating & Air Conditioning/HVAC, Contractors, Roofing"}
+{"business_id": "b1688", "name": "Loyal Animal Hospital", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 163, "is_open": 0, "categories": "Animal Shelters, Pet Stores, Veterinarians"}
+{"business_id": "b1662", "name": "Whiskers Veterinary Clinic", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 106, "is_open": 0, "categories": "Animal Shelters, Pets, Pet Groomers, Pet Stores"}
+{"business_id": "b1602", "name": "Nature Foods", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 785, "is_open": 1, "categories": "Specialty Food, Convenience Stores, Grocery"}
+{"business_id": "b1094", "name": "Mama Pizza", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 607, "is_open": 1, "categories": "Pizza, Restaurants, Pasta"}
+{"business_id": "b1352", "name": "Serene Barbershop", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 306, "is_open": 1, "categories": "Hair Salons, Waxing, Nail Salons, Beauty & Spas"}
+{"business_id": "b1299", "name": "Tap Alehouse", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 213, "is_open": 0, "categories": "Beer, Lounges"}
+{"business_id": "b1017", "name": "Daily Cafe", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 111, "is_open": 0, "categories": "Coffee & Tea, Donuts, Cafes, Bakeries"}
+{"business_id": "b1760", "name": "Grand Bed & Breakfast", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 370, "is_open": 1, "categories": "Bed & Breakfast, Hotels & Travel, Resorts, Hotels"}
+{"business_id": "b1131", "name": "Agave Burrito Bar", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 763, "is_open": 1, "categories": "Mexican, Tacos, Burritos, Restaurants"}
+{"business_id": "b1539", "name": "Elevate Gym", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 664, "is_open": 0, "categories": "Fitness & Instruction, Active Life"}
+{"business_id": "b1673", "name": "Paws Pet Grooming", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 34, "is_open": 1, "categories": "Dog Walkers, Pet Groomers, Veterinarians, Animal Shelters"}
+{"business_id": "b1317", "name": "Copper Alehouse", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 455, "is_open": 1, "categories": "Lounges, Bars, Sports Bars, Breweries"}
+{"business_id": "b1069", "name": "Nonna Trattoria", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 205, "is_open": 1, "categories": "Restaurants, Pizza, Italian"}
+{"business_id": "b1237", "name": "Smash Grill", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 249, "is_open": 1, "categories": "American (Traditional), Burgers"}
+{"business_id": "b1228", "name": "Hungry Eatery", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 481, "is_open": 1, "categories": "Sandwiches, Fast Food, Restaurants"}
+{"business_id": "b1528", "name": "Elevate Yoga Studio", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 91, "is_open": 1, "categories": "Yoga, Fitness & Instruction"}
+{"business_id": "b1275", "name": "Route Sandwich Shop", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 718, "is_open": 1, "categories": "Hot Dogs, Sandwiches"}
+{"business_id": "b1466", "name": "Family Dental", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 843, "is_open": 0, "categories": "Chiropractors, Optometrists, Physical Therapy, Dentists"}
+{"business_id": "b1572", "name": "Market Pantry", "city": "Nashville", "state": "TN", "stars": 3.5, "review_count": 813, "is_open": 0, "categories": "Specialty Food, Convenience Stores, Farmers Market, Shopping"}
+{"business_id": "b1142", "name": "Agave Cocina", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 305, "is_open": 0, "categories": "Restaurants, Burritos"}
+{"business_id": "b1691", "name": "Loyal Veterinary Clinic", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 478, "is_open": 0, "categories": "Pets, Animal Shelters"}
+{"business_id": "b1761", "name": "Plaza Lodge", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 178, "is_open": 1, "categories": "Hotels & Travel, Hotels, Bed & Breakfast, Event Planning & Services"}
+{"business_id": "b1658", "name": "Hometown Electric", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 118, "is_open": 1, "categories": "Heating & Air Conditioning/HVAC, Home Services, Plumbing, Contractors"}
+{"business_id": "b1650", "name": "Trusted HVAC", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 221, "is_open": 0, "categories": "Contractors, Plumbing"}
+{"business_id": "b1354", "name": "Bliss Nails", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 543, "is_open": 1, "categories": "Hair Salons, Nail Salons, Waxing, Barbers"}
+{"business_id": "b1326", "name": "Copper Saloon", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 264, "is_open": 1, "categories": "Lounges, Sports Bars"}
+{"business_id": "b1505", "name": "Iron Training Lab", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 145, "is_open": 1, "categories": "Cycling Classes, Trainers, Gyms"}
+{"business_id": "b1168", "name": "Lucky Ramen", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 173, "is_open": 0, "categories": "Japanese, Noodles"}
+{"business_id": "b1561", "name": "Market Market", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 377, "is_open": 1, "categories": "Convenience Stores, Shopping, Specialty Food, Farmers Market"}
+{"business_id": "b1699", "name": "Whiskers Pet Grooming", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 300, "is_open": 1, "categories": "Pet Groomers, Dog Walkers, Pet Stores"}
+{"business_id": "b1630", "name": "Hometown HVAC", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 439, "is_open": 1, "categories": "Contractors, Roofing, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1179", "name": "Lucky Kitchen", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 495, "is_open": 1, "categories": "Japanese, Noodles, Thai, Asian Fusion"}
+{"business_id": "b1698", "name": "Whiskers Pet Shop", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 773, "is_open": 1, "categories": "Pet Groomers, Animal Shelters"}
+{"business_id": "b1207", "name": "Bamboo Dragon", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 192, "is_open": 0, "categories": "Noodles, Thai, Restaurants"}
+{"business_id": "b1132", "name": "Taco Cantina", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 364, "is_open": 1, "categories": "Tex-Mex, Tacos"}
+{"business_id": "b1227", "name": "Route Burgers", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 257, "is_open": 0, "categories": "Sandwiches, Fast Food, American (Traditional)"}
+{"business_id": "b1434", "name": "Master Car Wash", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 173, "is_open": 1, "categories": "Body Shops, Car Wash, Auto Parts"}
+{"business_id": "b1544", "name": "Peak Fitness", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 61, "is_open": 1, "categories": "Pilates, Gyms"}
+{"business_id": "b1011", "name": "Urban Espresso", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 246, "is_open": 1, "categories": "Coffee & Tea, Cafes"}
+{"business_id": "b1035", "name": "Bean Beans", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 829, "is_open": 1, "categories": "Donuts, Cafes"}
+{"business_id": "b1096", "name": "Nonna Ristorante", "city": "Nashville", "state": "TN", "stars": 4.5, "review_count": 288, "is_open": 1, "categories": "Calzones, Restaurants, Pasta"}
+{"business_id": "b1635", "name": "Hometown Home Services", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 190, "is_open": 1, "categories": "Heating & Air Conditioning/HVAC, Electricians, Plumbing, Contractors"}
+{"business_id": "b1152", "name": "La Cantina", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 786, "is_open": 1, "categories": "Burritos, Tex-Mex"}
+{"business_id": "b1278", "name": "Iron Alehouse", "city": "Phoenix", "state": "AZ", "stars": 5.0, "review_count": 576, "is_open": 1, "categories": "Lounges, Bars, Sports Bars"}
+{"business_id": "b1676", "name": "Loyal Pet Shop", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 835, "is_open": 1, "categories": "Veterinarians, Animal Shelters, Pet Groomers, Dog Walkers"}
+{"business_id": "b1118", "name": "Fiesta Grill", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 287, "is_open": 0, "categories": "Tex-Mex, Latin American, Restaurants, Tacos"}
+{"business_id": "b1675", "name": "Loyal Pet Grooming", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 600, "is_open": 1, "categories": "Dog Walkers, Pet Stores"}
+{"business_id": "b1351", "name": "Radiant Hair Studio", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 177, "is_open": 1, "categories": "Day Spas, Barbers, Waxing, Hair Salons"}
+{"business_id": "b1073", "name": "Bella Pasta House", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 413, "is_open": 1, "categories": "Wine Bars, Calzones, Pasta, Italian"}
+{"business_id": "b1436", "name": "Highway Service Center", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 121, "is_open": 1, "categories": "Body Shops, Automotive, Auto Repair"}
+{"business_id": "b1332", "name": "Polished Barbershop", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 614, "is_open": 1, "categories": "Nail Salons, Waxing"}
+{"business_id": "b1026", "name": "Roasted Espresso", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 633, "is_open": 1, "categories": "Coffee & Tea, Tea Rooms"}
+{"business_id": "b1210", "name": "Golden Ramen", "city": "Portland", "state": "OR", "stars": 3.0, "review_count": 736, "is_open": 1, "categories": "Noodles, Restaurants"}
+{"business_id": "b1052", "name": "Sunrise Roasters", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 45, "is_open": 1, "categories": "Donuts, Tea Rooms, Bakeries, Juice Bars & Smoothies"}
+{"business_id": "b1568", "name": "Family Grocery", "city": "Nashville", "state": "TN", "stars": 3.0, "review_count": 670, "is_open": 1, "categories": "Specialty Food, Shopping"}
+{"business_id": "b1670", "name": "Happy Pet Care", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 472, "is_open": 1, "categories": "Pet Groomers, Pets"}
+{"business_id": "b1553", "name": "Green Mart", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 618, "is_open": 1, "categories": "Organic Stores, Farmers Market"}
+{"business_id": "b1753", "name": "Heritage Suites", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 397, "is_open": 1, "categories": "Resorts, Event Planning & Services, Hotels, Hotels & Travel"}
+{"business_id": "b1361", "name": "Bliss Barbershop", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 829, "is_open": 1, "categories": "Waxing, Day Spas, Barbers"}
+{"business_id": "b1231", "name": "Downtown Sandwich Shop", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 625, "is_open": 1, "categories": "Fast Food, Hot Dogs"}
+{"business_id": "b1490", "name": "Community Health Group", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 284, "is_open": 1, "categories": "Doctors, Health & Medical, Chiropractors"}
+{"business_id": "b1246", "name": "Smash Burger Joint", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 191, "is_open": 1, "categories": "Hot Dogs, Sandwiches"}
+{"business_id": "b1022", "name": "Roasted Beans", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 127, "is_open": 1, "categories": "Coffee & Tea, Cafes, Donuts, Breakfast & Brunch"}
+{"business_id": "b1279", "name": "Iron Brewery", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 250, "is_open": 1, "categories": "Sports Bars, Pubs"}
+{"business_id": "b1463", "name": "Community Dentistry", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 333, "is_open": 0, "categories": "Physical Therapy, Optometrists, Doctors, Dentists"}
+{"business_id": "b1631", "name": "Trusted Electric", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 26, "is_open": 1, "categories": "Contractors, Home Services"}
+{"business_id": "b1556", "name": "Harvest Grocery", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 422, "is_open": 1, "categories": "Farmers Market, Convenience Stores"}
+{"business_id": "b1263", "name": "Downtown Burgers", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 238, "is_open": 1, "categories": "Restaurants, Sandwiches"}
+{"business_id": "b1502", "name": "Elevate Training Lab", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 110, "is_open": 1, "categories": "Cycling Classes, Yoga"}
+{"business_id": "b1126", "name": "Fiesta Tacos", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 305, "is_open": 1, "categories": "Restaurants, Tacos"}
+{"business_id": "b1272", "name": "Hungry Diner", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 501, "is_open": 1, "categories": "Burgers, Sandwiches, Fast Food"}
+{"business_id": "b1478", "name": "Lakeside Health Group", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 675, "is_open": 1, "categories": "Doctors, Chiropractors"}
+{"business_id": "b1616", "name": "Trusted Heating & Cooling", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 601, "is_open": 1, "categories": "Roofing, Electricians"}
+{"business_id": "b1587", "name": "Market Mart", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 319, "is_open": 1, "categories": "Convenience Stores, Shopping, Farmers Market"}
+{"business_id": "b1517", "name": "Iron Gym", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 262, "is_open": 1, "categories": "Pilates, Cycling Classes, Trainers, Yoga"}
+{"business_id": "b1109", "name": "Rustic Pizza", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 410, "is_open": 0, "categories": "Restaurants, Pasta, Pizza, Calzones"}
+{"business_id": "b1633", "name": "Apex Plumbing", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 9, "is_open": 1, "categories": "Electricians, Roofing, Home Services"}
+{"business_id": "b1487", "name": "Bright Medical Center", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 567, "is_open": 1, "categories": "Doctors, Health & Medical"}
+{"business_id": "b1543", "name": "Iron Wellness", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 595, "is_open": 1, "categories": "Fitness & Instruction, Trainers, Yoga"}
+{"business_id": "b1689", "name": "Paws Veterinary Clinic", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 850, "is_open": 1, "categories": "Pet Stores, Animal Shelters, Veterinarians, Dog Walkers"}
+{"business_id": "b1390", "name": "Precision Motors", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 253, "is_open": 0, "categories": "Auto Parts, Automotive"}
+{"business_id": "b1595", "name": "Daily Grocery", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 597, "is_open": 0, "categories": "Specialty Food, Grocery, Organic Stores, Farmers Market"}
+{"business_id": "b1183", "name": "Lucky Sushi", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 785, "is_open": 1, "categories": "Asian Fusion, Sushi Bars"}
+{"business_id": "b1651", "name": "Trusted Electric", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 118, "is_open": 1, "categories": "Roofing, Home Services"}
+{"business_id": "b1282", "name": "Tap Pub", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 184, "is_open": 1, "categories": "Bars, Cocktail Bars"}
+{"business_id": "b1187", "name": "Tokyo Bistro", "city": "Madison", "state": "WI", "stars": 4.0, "review_count": 849, "is_open": 1, "categories": "Thai, Ramen, Asian Fusion, Noodles"}
+{"business_id": "b1335", "name": "Glow Salon", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 641, "is_open": 1, "categories": "Hair Salons, Nail Salons"}
+{"business_id": "b1518", "name": "Pulse Fitness", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 75, "is_open": 1, "categories": "Pilates, Yoga, Gyms"}
+{"business_id": "b1456", "name": "Bright Dental", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 202, "is_open": 1, "categories": "Health & Medical, Chiropractors, Physical Therapy"}
+{"business_id": "b1660", "name": "Reliable Home Services", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 210, "is_open": 1, "categories": "Electricians, Heating & Air Conditioning/HVAC, Contractors"}
+{"business_id": "b1460", "name": "Family Medical Center", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 728, "is_open": 1, "categories": "Physical Therapy, Dentists, Health & Medical, Doctors"}
+{"business_id": "b1356", "name": "Radiant Beauty Bar", "city": "Austin", "state": "TX", "stars": 4.0, "review_count": 403, "is_open": 1, "categories": "Nail Salons, Skin Care, Day Spas, Beauty & Spas"}
+{"business_id": "b1348", "name": "Radiant Hair Studio", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 152, "is_open": 0, "categories": "Beauty & Spas, Nail Salons, Hair Salons"}
+{"business_id": "b1380", "name": "Luxe Nails", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 66, "is_open": 1, "categories": "Beauty & Spas, Day Spas"}
+{"business_id": "b1520", "name": "Elevate Fitness", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 314, "is_open": 0, "categories": "Yoga, Cycling Classes, Active Life, Trainers"}
+{"business_id": "b1308", "name": "Old Saloon", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 316, "is_open": 0, "categories": "Nightlife, Beer, Bars, Sports Bars"}
+{"business_id": "b1486", "name": "Family Health Group", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 117, "is_open": 1, "categories": "Health & Medical, Optometrists"}
+{"business_id": "b1208", "name": "Jade Dragon", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 281, "is_open": 1, "categories": "Noodles, Chinese"}
+{"business_id": "b1577", "name": "Fresh Grocery", "city": "Columbus", "state": "OH", "stars": 3.0, "review_count": 747, "is_open": 1, "categories": "Grocery, Organic Stores, Convenience Stores"}
+{"business_id": "b1271", "name": "Smash Burgers", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 148, "is_open": 1, "categories": "Fast Food, Restaurants"}
+{"business_id": "b1489", "name": "Lakeside Medical Center", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 306, "is_open": 1, "categories": "Chiropractors, Health & Medical, Optometrists"}
+{"business_id": "b1004", "name": "Morning Bakery", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 648, "is_open": 1, "categories": "Coffee & Tea, Juice Bars & Smoothies, Cafes"}
+{"business_id": "b1591", "name": "Green Pantry", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 76, "is_open": 1, "categories": "Specialty Food, Convenience Stores"}
+{"business_id": "b1708", "name": "Cozy Pet Care", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 100, "is_open": 0, "categories": "Pets, Dog Walkers, Animal Shelters"}
+{"business_id": "b1143", "name": "Fiesta Tacos", "city": "Tucson", "state": "AZ", "stars": 3.5, "review_count": 524, "is_open": 0, "categories": "Restaurants, Mexican, Burritos"}
+{"business_id": "b1640", "name": "Guardian Electric", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 375, "is_open": 0, "categories": "Electricians, Heating & Air Conditioning/HVAC, Plumbing"}
+{"business_id": "b1740", "name": "Royal Suites", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 450, "is_open": 1, "categories": "Bed & Breakfast, Resorts, Event Planning & Services"}
+{"business_id": "b1135", "name": "Casa Cantina", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 332, "is_open": 1, "categories": "Mexican, Latin American, Tex-Mex, Tacos"}
+{"business_id": "b1347", "name": "Serene Spa", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 567, "is_open": 1, "categories": "Beauty & Spas, Hair Salons, Barbers"}
+{"business_id": "b1121", "name": "La Cocina", "city": "Austin", "state": "TX", "stars": 4.5, "review_count": 189, "is_open": 1, "categories": "Restaurants, Tacos"}
+{"business_id": "b1562", "name": "Daily Grocery", "city": "Boulder", "state": "CO", "stars": 3.0, "review_count": 248, "is_open": 1, "categories": "Convenience Stores, Shopping, Grocery"}
+{"business_id": "b1373", "name": "Polished Salon", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 495, "is_open": 1, "categories": "Nail Salons, Waxing, Day Spas"}
+{"business_id": "b1197", "name": "Jade Ramen", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 21, "is_open": 0, "categories": "Ramen, Chinese"}
+{"business_id": "b1558", "name": "Green Grocery", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 80, "is_open": 0, "categories": "Grocery, Specialty Food"}
+{"business_id": "b1732", "name": "Lakeview Bed & Breakfast", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 390, "is_open": 1, "categories": "Hotels & Travel, Resorts, Bed & Breakfast, Hotels"}
+{"business_id": "b1443", "name": "Advanced Chiropractic", "city": "Portland", "state": "OR", "stars": 4.5, "review_count": 183, "is_open": 1, "categories": "Chiropractors, Optometrists, Health & Medical, Doctors"}
+{"business_id": "b1339", "name": "Bliss Spa", "city": "Reno", "state": "NV", "stars": 4.5, "review_count": 814, "is_open": 1, "categories": "Waxing, Day Spas"}
+{"business_id": "b1229", "name": "Downtown Burger Joint", "city": "Phoenix", "state": "AZ", "stars": 3.5, "review_count": 115, "is_open": 1, "categories": "Hot Dogs, Fast Food, Sandwiches"}
+{"business_id": "b1288", "name": "Blue Tavern", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 151, "is_open": 0, "categories": "Bars, Cocktail Bars, Pubs"}
+{"business_id": "b1410", "name": "Pro Auto Body", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 569, "is_open": 0, "categories": "Oil Change Stations, Automotive"}
+{"business_id": "b1140", "name": "Taco Cocina", "city": "Columbus", "state": "OH", "stars": 5.0, "review_count": 321, "is_open": 0, "categories": "Tacos, Restaurants"}
+{"business_id": "b1391", "name": "Pro Tire Center", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 216, "is_open": 1, "categories": "Tires, Oil Change Stations"}
+{"business_id": "b1295", "name": "Blue Cocktail Bar", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 6, "is_open": 1, "categories": "Sports Bars, Nightlife, Pubs, Bars"}
+{"business_id": "b1090", "name": "Mama Pizza", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 227, "is_open": 1, "categories": "Wine Bars, Pizza, Restaurants"}
+{"business_id": "b1504", "name": "Pulse Yoga Studio", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 243, "is_open": 1, "categories": "Fitness & Instruction, Pilates, Gyms, Yoga"}
+{"business_id": "b1108", "name": "Nonna Pasta House", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 280, "is_open": 1, "categories": "Pasta, Pizza, Wine Bars, Calzones"}
+{"business_id": "b1534", "name": "Pulse Gym", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 601, "is_open": 1, "categories": "Trainers, Fitness & Instruction"}
+{"business_id": "b1349", "name": "Radiant Beauty Bar", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 497, "is_open": 1, "categories": "Hair Salons, Skin Care"}
+{"business_id": "b1592", "name": "Daily Provisions", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 192, "is_open": 1, "categories": "Organic Stores, Convenience Stores"}
+{"business_id": "b1527", "name": "Summit Fitness", "city": "Reno", "state": "NV", "stars": 3.0, "review_count": 220, "is_open": 1, "categories": "Trainers, Active Life, Pilates, Cycling Classes"}
+{"business_id": "b1626", "name": "Trusted Home Services", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 745, "is_open": 1, "categories": "Plumbing, Roofing, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1146", "name": "Fiesta Tacos", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 758, "is_open": 1, "categories": "Mexican, Burritos, Restaurants, Latin American"}
+{"business_id": "b1359", "name": "Bliss Barbershop", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 36, "is_open": 0, "categories": "Waxing, Skin Care, Beauty & Spas, Day Spas"}
+{"business_id": "b1637", "name": "Reliable Home Services", "city": "Nashville", "state": "TN", "stars": 3.5, "review_count": 175, "is_open": 0, "categories": "Heating & Air Conditioning/HVAC, Roofing, Contractors"}
+{"business_id": "b1620", "name": "Reliable Plumbing", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 34, "is_open": 1, "categories": "Electricians, Home Services, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1718", "name": "Garden Resort", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 345, "is_open": 1, "categories": "Hotels & Travel, Hotels, Resorts, Bed & Breakfast"}
+{"business_id": "b1500", "name": "Iron Wellness", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 345, "is_open": 1, "categories": "Trainers, Gyms, Pilates"}
+{"business_id": "b1667", "name": "Whiskers Pet Grooming", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 692, "is_open": 1, "categories": "Veterinarians, Animal Shelters, Pet Stores"}
+{"business_id": "b1388", "name": "Pro Motors", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 438, "is_open": 1, "categories": "Tires, Car Wash, Auto Repair"}
+{"business_id": "b1077", "name": "Little Trattoria", "city": "Columbus", "state": "OH", "stars": 3.0, "review_count": 637, "is_open": 1, "categories": "Pasta, Pizza, Italian, Wine Bars"}
+{"business_id": "b1276", "name": "Tap Lounge", "city": "Boulder", "state": "CO", "stars": 3.5, "review_count": 136, "is_open": 1, "categories": "Cocktail Bars, Beer"}
+{"business_id": "b1218", "name": "Golden Wok", "city": "Reno", "state": "NV", "stars": 3.5, "review_count": 418, "is_open": 1, "categories": "Noodles, Thai, Japanese, Sushi Bars"}
+{"business_id": "b1452", "name": "Bright Chiropractic", "city": "Nashville", "state": "TN", "stars": 4.5, "review_count": 658, "is_open": 1, "categories": "Optometrists, Doctors"}
+{"business_id": "b1128", "name": "La Tacos", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 46, "is_open": 1, "categories": "Burritos, Latin American, Tacos, Mexican"}
+{"business_id": "b1330", "name": "Old Cocktail Bar", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 122, "is_open": 1, "categories": "Nightlife, Pubs"}
+{"business_id": "b1752", "name": "Plaza Inn", "city": "Tucson", "state": "AZ", "stars": 5.0, "review_count": 208, "is_open": 0, "categories": "Hotels, Event Planning & Services, Resorts"}
+{"business_id": "b1260", "name": "Prime Grill", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 603, "is_open": 0, "categories": "Hot Dogs, American (Traditional)"}
+{"business_id": "b1745", "name": "Grand Suites", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 353, "is_open": 0, "categories": "Hotels & Travel, Hotels"}
+{"business_id": "b1198", "name": "Tokyo Noodle House", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 58, "is_open": 1, "categories": "Chinese, Japanese, Sushi Bars, Ramen"}
+{"business_id": "b1385", "name": "Luxe Barbershop", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 441, "is_open": 1, "categories": "Barbers, Hair Salons, Skin Care, Waxing"}
+{"business_id": "b1570", "name": "Nature Pantry", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 272, "is_open": 1, "categories": "Organic Stores, Specialty Food, Shopping"}
+{"business_id": "b1045", "name": "Bean Coffee", "city": "Nashville", "state": "TN", "stars": 4.5, "review_count": 636, "is_open": 0, "categories": "Donuts, Breakfast & Brunch, Coffee & Tea"}
+{"business_id": "b1027", "name": "Sunrise Espresso", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 189, "is_open": 0, "categories": "Juice Bars & Smoothies, Breakfast & Brunch"}
+{"business_id": "b1245", "name": "Hungry Burgers", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 485, "is_open": 0, "categories": "American (Traditional), Hot Dogs, Burgers, Sandwiches"}
+{"business_id": "b1114", "name": "Taco Taqueria", "city": "Reno", "state": "NV", "stars": 4.0, "review_count": 789, "is_open": 1, "categories": "Tex-Mex, Restaurants, Burritos"}
+{"business_id": "b1169", "name": "Jade Kitchen", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 490, "is_open": 1, "categories": "Noodles, Ramen, Japanese"}
+{"business_id": "b1697", "name": "Paws Veterinary Clinic", "city": "Columbus", "state": "OH", "stars": 3.5, "review_count": 71, "is_open": 1, "categories": "Pets, Animal Shelters, Veterinarians, Pet Stores"}
+{"business_id": "b1469", "name": "Community Dentistry", "city": "Tampa", "state": "FL", "stars": 4.0, "review_count": 261, "is_open": 0, "categories": "Health & Medical, Physical Therapy, Optometrists"}
+{"business_id": "b1266", "name": "Classic Burgers", "city": "Tampa", "state": "FL", "stars": 3.0, "review_count": 360, "is_open": 0, "categories": "Restaurants, Hot Dogs, Fries, Fast Food"}
+{"business_id": "b1305", "name": "Copper Alehouse", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 457, "is_open": 1, "categories": "Breweries, Beer, Bars, Nightlife"}
+{"business_id": "b1165", "name": "La Cocina", "city": "Tucson", "state": "AZ", "stars": 4.5, "review_count": 560, "is_open": 1, "categories": "Tex-Mex, Latin American, Restaurants, Tacos"}
+{"business_id": "b1479", "name": "Community Chiropractic", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 366, "is_open": 1, "categories": "Health & Medical, Optometrists, Doctors, Physical Therapy"}
+{"business_id": "b1086", "name": "Little Italian Kitchen", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 209, "is_open": 1, "categories": "Restaurants, Italian"}
+{"business_id": "b1459", "name": "Lakeside Chiropractic", "city": "Tucson", "state": "AZ", "stars": 4.0, "review_count": 352, "is_open": 1, "categories": "Optometrists, Chiropractors, Dentists, Health & Medical"}
+{"business_id": "b1286", "name": "Blue Tavern", "city": "Columbus", "state": "OH", "stars": 4.0, "review_count": 491, "is_open": 1, "categories": "Bars, Beer, Sports Bars, Breweries"}
+{"business_id": "b1522", "name": "Flow Fitness", "city": "Nashville", "state": "TN", "stars": 5.0, "review_count": 835, "is_open": 0, "categories": "Yoga, Gyms, Trainers"}
+{"business_id": "b1571", "name": "Market Pantry", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 476, "is_open": 1, "categories": "Organic Stores, Grocery, Specialty Food, Farmers Market"}
+{"business_id": "b1058", "name": "Bella Ristorante", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 680, "is_open": 0, "categories": "Restaurants, Italian, Wine Bars"}
+{"business_id": "b1262", "name": "Smash Burger Joint", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 78, "is_open": 1, "categories": "American (Traditional), Hot Dogs, Burgers, Fast Food"}
+{"business_id": "b1583", "name": "Harvest Mart", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 667, "is_open": 1, "categories": "Organic Stores, Grocery, Specialty Food"}
+{"business_id": "b1374", "name": "Glow Nails", "city": "Nashville", "state": "TN", "stars": 3.0, "review_count": 703, "is_open": 0, "categories": "Skin Care, Waxing"}
+{"business_id": "b1735", "name": "Plaza Resort", "city": "Portland", "state": "OR", "stars": 3.0, "review_count": 497, "is_open": 1, "categories": "Event Planning & Services, Resorts, Hotels & Travel"}
+{"business_id": "b1541", "name": "Flow Gym", "city": "Madison", "state": "WI", "stars": 5.0, "review_count": 316, "is_open": 1, "categories": "Gyms, Yoga"}
+{"business_id": "b1586", "name": "Nature Provisions", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 214, "is_open": 1, "categories": "Convenience Stores, Grocery"}
+{"business_id": "b1211", "name": "Sakura Wok", "city": "Portland", "state": "OR", "stars": 5.0, "review_count": 824, "is_open": 1, "categories": "Noodles, Sushi Bars, Japanese"}
+{"business_id": "b1084", "name": "Mama Pizza", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 242, "is_open": 1, "categories": "Pasta, Pizza"}
+{"business_id": "b1270", "name": "Smash Burgers", "city": "Austin", "state": "TX", "stars": 5.0, "review_count": 713, "is_open": 1, "categories": "Restaurants, Hot Dogs"}
+{"business_id": "b1050", "name": "Roasted Espresso", "city": "Tampa", "state": "FL", "stars": 3.5, "review_count": 544, "is_open": 1, "categories": "Juice Bars & Smoothies, Tea Rooms, Bakeries, Donuts"}
+{"business_id": "b1741", "name": "Plaza Resort", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 161, "is_open": 0, "categories": "Hotels, Resorts, Hotels & Travel"}
+{"business_id": "b1664", "name": "Wag Pet Shop", "city": "Madison", "state": "WI", "stars": 3.5, "review_count": 123, "is_open": 1, "categories": "Pets, Animal Shelters, Dog Walkers"}
+{"business_id": "b1238", "name": "Smash Burgers", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 685, "is_open": 1, "categories": "Hot Dogs, Burgers, Restaurants"}
+{"business_id": "b1589", "name": "Green Pantry", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 43, "is_open": 1, "categories": "Organic Stores, Farmers Market, Specialty Food, Grocery"}
+{"business_id": "b1249", "name": "Smash Sandwich Shop", "city": "Phoenix", "state": "AZ", "stars": 3.0, "review_count": 705, "is_open": 1, "categories": "Burgers, Fast Food, Fries"}
+{"business_id": "b1383", "name": "Glow Salon", "city": "Tampa", "state": "FL", "stars": 5.0, "review_count": 704, "is_open": 1, "categories": "Barbers, Waxing, Day Spas, Nail Salons"}
+{"business_id": "b1129", "name": "La Grill", "city": "Reno", "state": "NV", "stars": 5.0, "review_count": 450, "is_open": 1, "categories": "Tex-Mex, Tacos, Restaurants"}
+{"business_id": "b1437", "name": "Master Auto Body", "city": "Phoenix", "state": "AZ", "stars": 4.0, "review_count": 453, "is_open": 1, "categories": "Car Wash, Tires, Auto Parts"}
+{"business_id": "b1013", "name": "Daily Roasters", "city": "Nashville", "state": "TN", "stars": 4.0, "review_count": 290, "is_open": 1, "categories": "Juice Bars & Smoothies, Tea Rooms, Bakeries, Coffee & Tea"}
+{"business_id": "b1420", "name": "Precision Auto Repair", "city": "Portland", "state": "OR", "stars": 4.0, "review_count": 472, "is_open": 1, "categories": "Auto Repair, Tires"}
+{"business_id": "b1136", "name": "El Taqueria", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 109, "is_open": 0, "categories": "Tacos, Latin American"}
+{"business_id": "b1687", "name": "Happy Pet Shop", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 798, "is_open": 0, "categories": "Pet Groomers, Veterinarians, Pets"}
+{"business_id": "b1190", "name": "Sakura Sushi", "city": "Portland", "state": "OR", "stars": 3.5, "review_count": 627, "is_open": 1, "categories": "Sushi Bars, Ramen"}
+{"business_id": "b1205", "name": "Jade Ramen", "city": "Austin", "state": "TX", "stars": 3.0, "review_count": 802, "is_open": 1, "categories": "Ramen, Noodles, Thai, Sushi Bars"}
+{"business_id": "b1621", "name": "Premier Home Services", "city": "Austin", "state": "TX", "stars": 3.5, "review_count": 196, "is_open": 0, "categories": "Contractors, Plumbing, Home Services, Heating & Air Conditioning/HVAC"}
+{"business_id": "b1106", "name": "Mama Pizza", "city": "Boulder", "state": "CO", "stars": 4.5, "review_count": 624, "is_open": 1, "categories": "Restaurants, Italian"}
+{"business_id": "b1508", "name": "Core Yoga Studio", "city": "Madison", "state": "WI", "stars": 4.5, "review_count": 24, "is_open": 1, "categories": "Pilates, Trainers, Cycling Classes"}
+{"business_id": "b1209", "name": "Jade Wok", "city": "Phoenix", "state": "AZ", "stars": 4.5, "review_count": 106, "is_open": 1, "categories": "Thai, Ramen, Noodles"}
+{"business_id": "b1029", "name": "Cozy Coffee", "city": "Tampa", "state": "FL", "stars": 4.5, "review_count": 727, "is_open": 1, "categories": "Donuts, Cafes, Juice Bars & Smoothies"}
+{"business_id": "b1560", "name": "Fresh Pantry", "city": "Boulder", "state": "CO", "stars": 5.0, "review_count": 68, "is_open": 0, "categories": "Farmers Market, Grocery"}
+{"business_id": "b1334", "name": "Bliss Nails", "city": "Columbus", "state": "OH", "stars": 4.5, "review_count": 51, "is_open": 1, "categories": "Barbers, Beauty & Spas, Waxing"}
+{"business_id": "b1182", "name": "Bamboo Noodle House", "city": "Boulder", "state": "CO", "stars": 4.0, "review_count": 224, "is_open": 0, "categories": "Asian Fusion, Restaurants, Ramen, Thai"}

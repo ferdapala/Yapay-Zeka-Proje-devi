@@ -1,0 +1,17 @@
+﻿model,keyword,top5_neighbours
+word2vec_lemmatized_cbow_win2_dim100,coffee,cafe (0.986); morning (0.985); roasted (0.985); donut (0.984); room (0.983)
+word2vec_lemmatized_skipgram_win2_dim100,coffee,roasted (0.979); urban (0.976); morning (0.976); cafe (0.976); room (0.975)
+word2vec_lemmatized_cbow_win4_dim100,coffee,donut (0.989); cafe (0.989); tea (0.988); bakery (0.986); roasted (0.986)
+word2vec_lemmatized_skipgram_win4_dim100,coffee,room (0.985); bakery (0.981); cafe (0.981); bean (0.980); corner (0.979)
+word2vec_lemmatized_cbow_win2_dim300,coffee,cafe (0.989); morning (0.988); roasted (0.988); donut (0.988); bakery (0.986)
+word2vec_lemmatized_skipgram_win2_dim300,coffee,roasted (0.985); urban (0.981); morning (0.980); cafe (0.979); sunrise (0.978)
+word2vec_lemmatized_cbow_win4_dim300,coffee,donut (0.991); tea (0.991); cafe (0.990); roasted (0.988); bakery (0.988)
+word2vec_lemmatized_skipgram_win4_dim300,coffee,room (0.986); bakery (0.985); cafe (0.983); bean (0.983); corner (0.983)
+word2vec_stemmed_cbow_win2_dim100,coffee,[kelime hazinesinde yok]
+word2vec_stemmed_skipgram_win2_dim100,coffee,[kelime hazinesinde yok]
+word2vec_stemmed_cbow_win4_dim100,coffee,[kelime hazinesinde yok]
+word2vec_stemmed_skipgram_win4_dim100,coffee,[kelime hazinesinde yok]
+word2vec_stemmed_cbow_win2_dim300,coffee,[kelime hazinesinde yok]
+word2vec_stemmed_skipgram_win2_dim300,coffee,[kelime hazinesinde yok]
+word2vec_stemmed_cbow_win4_dim300,coffee,[kelime hazinesinde yok]
+word2vec_stemmed_skipgram_win4_dim300,coffee,[kelime hazinesinde yok]

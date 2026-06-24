@@ -1,0 +1,17 @@
+﻿,lemmatized_cbow_win2_dim100,lemmatized_skipgram_win2_dim100,lemmatized_cbow_win4_dim100,lemmatized_skipgram_win4_dim100,lemmatized_cbow_win2_dim300,lemmatized_skipgram_win2_dim300,lemmatized_cbow_win4_dim300,lemmatized_skipgram_win4_dim300,stemmed_cbow_win2_dim100,stemmed_skipgram_win2_dim100,stemmed_cbow_win4_dim100,stemmed_skipgram_win4_dim100,stemmed_cbow_win2_dim300,stemmed_skipgram_win2_dim300,stemmed_cbow_win4_dim300,stemmed_skipgram_win4_dim300
+lemmatized_cbow_win2_dim100,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+lemmatized_skipgram_win2_dim100,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+lemmatized_cbow_win4_dim100,0.667,0.667,1.0,0.667,0.667,0.667,1.0,1.0,0.667,0.667,0.667,0.667,0.667,0.667,0.667,0.667
+lemmatized_skipgram_win4_dim100,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+lemmatized_cbow_win2_dim300,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+lemmatized_skipgram_win2_dim300,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+lemmatized_cbow_win4_dim300,0.667,0.667,1.0,0.667,0.667,0.667,1.0,1.0,0.667,0.667,0.667,0.667,0.667,0.667,0.667,0.667
+lemmatized_skipgram_win4_dim300,0.667,0.667,1.0,0.667,0.667,0.667,1.0,1.0,0.667,0.667,0.667,0.667,0.667,0.667,0.667,0.667
+stemmed_cbow_win2_dim100,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stemmed_skipgram_win2_dim100,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stemmed_cbow_win4_dim100,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stemmed_skipgram_win4_dim100,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stemmed_cbow_win2_dim300,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stemmed_skipgram_win2_dim300,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stemmed_cbow_win4_dim300,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+stemmed_skipgram_win4_dim300,1.0,1.0,0.667,1.0,1.0,1.0,0.667,0.667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

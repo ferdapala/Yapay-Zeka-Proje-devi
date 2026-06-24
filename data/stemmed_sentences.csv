@@ -1,0 +1,771 @@
+business_id;name;categories;city;stars;text
+b1453;Family Chiropractic;Health & Medical, Chiropractors, Optometrists;Nashville;3.0;famili chiropract health medic chiropractor optometrist
+b1127;El Cocina;Mexican, Restaurants, Tacos;Tucson;4.0;el cocina mexican restaur taco
+b1204;Golden Sushi;Asian Fusion, Japanese;Madison;4.5;golden sushi asian fusion japanes
+b1603;Market Provisions;Farmers Market, Organic Stores;Austin;3.5;market provis farmer market organ store
+b1304;Blue Lounge;Lounges, Cocktail Bars, Beer, Sports Bars;Tampa;5.0;blue loung loung cocktail bar beer sport bar
+b1250;Big Burger Joint;American (Traditional), Sandwiches, Fries;Madison;4.5;big burger joint american tradit sandwich fri
+b1681;Cozy Animal Hospital;Pet Stores, Pets, Dog Walkers;Portland;3.5;cozi anim hospit pet store pet dog walker
+b1412;Quick Motors;Oil Change Stations, Car Wash, Auto Parts;Reno;4.5;quick motor oil chang station car wash auto part
+b1736;Park Resort;Hotels, Hotels & Travel, Bed & Breakfast, Resorts;Boulder;3.0;park resort hotel hotel travel bed breakfast resort
+b1133;El Tacos;Restaurants, Mexican, Burritos;Boulder;4.0;el taco restaur mexican burrito
+b1663;Happy Veterinary Clinic;Animal Shelters, Pet Stores;Portland;5.0;happi veterinari clinic anim shelter pet store
+b1653;Premier Electric;Electricians, Heating & Air Conditioning/HVAC;Reno;5.0;premier electr electrician heat air
+b1150;Casa Taqueria;Latin American, Tex-Mex;Boulder;3.5;casa taqueria latin american
+b1569;Nature Mart;Grocery, Specialty Food, Convenience Stores;Tampa;4.0;natur mart groceri specialti food conveni store
+b1056;Little Pasta House;Calzones, Wine Bars, Pasta, Italian;Tampa;4.0;littl pasta hous calzon wine bar pasta italian
+b1536;Iron Gym;Active Life, Pilates;Tucson;5.0;iron gym activ life pilat
+b1656;Premier Heating & Cooling;Plumbing, Heating & Air Conditioning/HVAC;Nashville;3.5;premier heat cool plumb heat air
+b1369;Serene Barbershop;Hair Salons, Skin Care;Tampa;4.0;seren barbershop hair salon skin care
+b1540;Iron Gym;Fitness & Instruction, Yoga;Madison;5.0;iron gym fit instruct yoga
+b1548;Summit Wellness;Pilates, Fitness & Instruction, Active Life;Phoenix;4.0;summit well pilat fit instruct activ life
+b1725;Park Hotel;Resorts, Bed & Breakfast;Tampa;4.5;park hotel resort bed breakfast
+b1473;Community Family Clinic;Chiropractors, Dentists, Optometrists;Boulder;5.0;commun famili clinic chiropractor dentist optometrist
+b1110;Original Pasta House;Restaurants, Pasta, Calzones;Portland;4.0;origin pasta hous restaur pasta calzon
+b1639;Apex HVAC;Plumbing, Electricians, Contractors, Roofing;Reno;5.0;apex hvac plumb electrician contractor roof
+b1188;Red Noodle House;Noodles, Restaurants;Reno;5.0;red noodl hous noodl restaur
+b1212;Golden Dragon;Sushi Bars, Noodles, Thai, Ramen;Columbus;3.5;golden dragon sushi bar noodl thai ramen
+b1632;Apex Plumbing;Plumbing, Roofing, Electricians, Heating & Air Conditioning/HVAC;Tucson;4.0;apex plumb plumb roof electrician heat air
+b1360;Serene Spa;Waxing, Skin Care;Phoenix;4.5;seren spa wax skin care
+b1634;Reliable Electric;Contractors, Electricians, Home Services;Phoenix;3.0;reliabl electr contractor electrician home servic
+b1393;Pro Car Wash;Oil Change Stations, Body Shops, Auto Parts, Auto Repair;Reno;3.5;pro car wash oil chang station bodi shop auto part auto repair
+b1240;Hungry Eatery;Fries, Fast Food, Hot Dogs;Portland;4.0;hungri eateri fri fast food hot dog
+b1148;Casa Cocina;Burritos, Tex-Mex, Mexican, Latin American;Austin;4.5;casa cocina burrito mexican latin american
+b1594;Fresh Provisions;Convenience Stores, Shopping, Grocery;Madison;4.0;fresh provis conveni store shop groceri
+b1248;Route Burger Joint;Burgers, Fries;Nashville;5.0;rout burger joint burger fri
+b1474;Bright Family Clinic;Optometrists, Chiropractors, Physical Therapy, Health & Medical;Tucson;5.0;bright famili clinic optometrist chiropractor physic therapi health medic
+b1564;Fresh Provisions;Specialty Food, Farmers Market, Convenience Stores, Grocery;Portland;4.5;fresh provis specialti food farmer market conveni store groceri
+b1151;Fiesta Tacos;Restaurants, Tex-Mex, Tacos, Mexican;Boulder;4.5;fiesta taco restaur taco mexican
+b1757;Royal Hotel;Bed & Breakfast, Resorts, Hotels, Hotels & Travel;Tucson;4.5;royal hotel bed breakfast resort hotel hotel travel
+b1419;Quick Garage;Automotive, Auto Parts;Columbus;4.5;quick garag automot auto part
+b1696;Loyal Animal Hospital;Pet Groomers, Pets, Veterinarians;Reno;4.5;loyal anim hospit pet groomer pet veterinarian
+b1416;Express Tire Center;Tires, Body Shops, Auto Parts;Tucson;3.0;express tire center tire bodi shop auto part
+b1611;Apex Plumbing;Electricians, Heating & Air Conditioning/HVAC;Madison;4.0;apex plumb electrician heat air
+b1364;Bliss Beauty Bar;Skin Care, Day Spas, Waxing;Austin;3.5;bliss beauti bar skin care day spa wax
+b1006;Corner Bakery;Juice Bars & Smoothies, Cafes;Madison;4.0;corner bakeri juic bar smoothi cafe
+b1498;Pulse Fitness;Active Life, Trainers;Madison;4.0;puls fit activ life trainer
+b1116;El Grill;Latin American, Mexican, Restaurants, Tex-Mex;Tampa;4.5;el grill latin american mexican restaur
+b1720;Plaza Lodge;Resorts, Bed & Breakfast, Hotels, Hotels & Travel;Columbus;4.5;plaza lodg resort bed breakfast hotel hotel travel
+b1306;Tap Saloon;Beer, Pubs, Lounges, Sports Bars;Phoenix;4.5;tap saloon beer pub loung sport bar
+b1163;Sol Cocina;Latin American, Restaurants, Burritos, Mexican;Columbus;4.0;sol cocina latin american restaur burrito mexican
+b1159;Sol Grill;Mexican, Latin American, Tex-Mex;Tampa;4.5;sol grill mexican latin american
+b1016;Urban Bakery;Cafes, Tea Rooms, Breakfast & Brunch, Juice Bars & Smoothies;Columbus;3.5;urban bakeri cafe tea room breakfast brunch juic bar smoothi
+b1113;Sol Cocina;Tex-Mex, Restaurants, Tacos;Reno;4.0;sol cocina restaur taco
+b1217;Golden Wok;Restaurants, Thai, Japanese;Boulder;4.0;golden wok restaur thai japanes
+b1293;Old Saloon;Pubs, Cocktail Bars;Tucson;3.5;old saloon pub cocktail bar
+b1729;Park Hotel;Bed & Breakfast, Hotels & Travel, Resorts, Hotels;Phoenix;4.5;park hotel bed breakfast hotel travel resort hotel
+b1138;El Cantina;Latin American, Tacos, Burritos, Tex-Mex;Madison;4.5;el cantina latin american taco burrito
+b1471;Gentle Health Group;Optometrists, Doctors, Health & Medical;Portland;3.5;gentl health group optometrist doctor health medic
+b1668;Paws Pet Care;Pet Stores, Dog Walkers;Columbus;4.5;paw pet care pet store dog walker
+b1024;Sunrise Brew House;Donuts, Coffee & Tea;Phoenix;4.0;sunris brew hous donut coffe tea
+b1655;Reliable Electric;Electricians, Plumbing, Roofing;Boulder;4.0;reliabl electr electrician plumb roof
+b1574;Market Grocery;Shopping, Organic Stores, Specialty Food, Convenience Stores;Tampa;4.0;market groceri shop organ store specialti food conveni store
+b1449;Advanced Dentistry;Health & Medical, Optometrists, Chiropractors;Boulder;4.5;advanc dentistri health medic optometrist chiropractor
+b1036;Bean Roasters;Bakeries, Cafes, Breakfast & Brunch, Tea Rooms;Tucson;3.5;bean roaster bakeri cafe breakfast brunch tea room
+b1552;Fresh Market;Convenience Stores, Organic Stores, Grocery, Specialty Food;Columbus;4.5;fresh market conveni store organ store groceri specialti food
+b1319;Hop Lounge;Cocktail Bars, Beer;Tucson;5.0;hop loung cocktail bar beer
+b1292;Old Saloon;Bars, Lounges, Breweries, Cocktail Bars;Portland;3.5;old saloon bar loung breweri cocktail bar
+b1493;Lakeside Family Clinic;Optometrists, Physical Therapy;Boulder;3.0;lakesid famili clinic optometrist physic therapi
+b1381;Pure Hair Studio;Hair Salons, Skin Care, Beauty & Spas, Nail Salons;Tampa;5.0;pure hair studio hair salon skin care beauti spa nail salon
+b1030;Daily Cafe;Donuts, Cafes, Juice Bars & Smoothies;Phoenix;4.0;daili cafe donut cafe juic bar smoothi
+b1066;Rustic Pizza;Restaurants, Calzones;Madison;4.0;rustic pizza restaur calzon
+b1309;Iron Tavern;Breweries, Pubs;Reno;3.0;iron tavern breweri pub
+b1607;Trusted Plumbing;Electricians, Contractors, Plumbing;Austin;4.5;trust plumb electrician contractor plumb
+b1032;Bean Roasters;Tea Rooms, Bakeries;Reno;4.5;bean roaster tea room bakeri
+b1641;All Heating & Cooling;Electricians, Plumbing;Austin;4.0;heat cool electrician plumb
+b1239;Hungry Burger Joint;Sandwiches, Hot Dogs, Restaurants, American (Traditional);Tucson;4.5;hungri burger joint sandwich hot dog restaur american tradit
+b1695;Cozy Pet Grooming;Veterinarians, Pet Groomers, Animal Shelters;Tampa;3.0;cozi pet groom veterinarian pet groomer anim shelter
+b1411;Highway Tire Center;Oil Change Stations, Body Shops, Automotive, Tires;Tampa;3.0;highway tire center oil chang station bodi shop automot tire
+b1754;Plaza Suites;Event Planning & Services, Hotels & Travel, Hotels;Madison;4.0;plaza suit event plan servic hotel travel hotel
+b1448;Advanced Health Group;Doctors, Chiropractors;Phoenix;5.0;advanc health group doctor chiropractor
+b1088;Rustic Trattoria;Calzones, Restaurants, Pizza;Austin;5.0;rustic trattoria calzon restaur pizza
+b1598;Market Pantry;Grocery, Organic Stores;Portland;4.5;market pantri groceri organ store
+b1345;Luxe Hair Studio;Hair Salons, Beauty & Spas;Tampa;4.5;lux hair studio hair salon beauti spa
+b1762;Garden Suites;Resorts, Event Planning & Services, Bed & Breakfast;Boulder;3.0;garden suit resort event plan servic bed breakfast
+b1530;Flow Fitness;Fitness & Instruction, Trainers;Nashville;4.0;flow fit fit instruct trainer
+b1215;Lucky Wok;Noodles, Asian Fusion;Boulder;5.0;lucki wok noodl asian fusion
+b1233;Classic Burgers;Burgers, Fries, Fast Food;Portland;3.5;classic burger burger fri fast food
+b1078;Famous Pizza;Italian, Wine Bars, Calzones;Reno;3.5;famou pizza italian wine bar calzon
+b1403;Precision Car Wash;Auto Parts, Automotive;Tampa;4.0;precis car wash auto part automot
+b1044;Bean Cafe;Donuts, Cafes, Juice Bars & Smoothies, Tea Rooms;Austin;4.5;bean cafe donut cafe juic bar smoothi tea room
+b1028;Bean Cafe;Donuts, Tea Rooms;Phoenix;3.0;bean cafe donut tea room
+b1038;Corner Bakery;Tea Rooms, Juice Bars & Smoothies;Boulder;3.0;corner bakeri tea room juic bar smoothi
+b1173;Lucky Ramen;Japanese, Asian Fusion, Ramen;Columbus;5.0;lucki ramen japanes asian fusion ramen
+b1363;Radiant Nails;Hair Salons, Day Spas;Portland;5.0;radiant nail hair salon day spa
+b1438;Quick Auto Body;Automotive, Car Wash, Auto Repair;Madison;4.5;quick auto bodi automot car wash auto repair
+b1322;Copper Saloon;Pubs, Sports Bars, Lounges;Tampa;4.0;copper saloon pub sport bar loung
+b1047;Morning Beans;Breakfast & Brunch, Juice Bars & Smoothies, Bakeries, Tea Rooms;Tucson;4.0;morn bean breakfast brunch juic bar smoothi bakeri tea room
+b1768;Park Suites;Bed & Breakfast, Hotels & Travel;Austin;4.0;park suit bed breakfast hotel travel
+b1462;Modern Medical Center;Dentists, Doctors;Phoenix;4.0;modern medic center dentist doctor
+b1442;Modern Medical Center;Physical Therapy, Optometrists, Health & Medical;Columbus;4.5;modern medic center physic therapi optometrist health medic
+b1156;Sol Cocina;Restaurants, Burritos;Boulder;4.0;sol cocina restaur burrito
+b1201;Jade Dragon;Japanese, Ramen, Noodles, Sushi Bars;Phoenix;5.0;jade dragon japanes ramen noodl sushi bar
+b1103;Rustic Pizza;Pasta, Calzones;Madison;4.0;rustic pizza pasta calzon
+b1098;Rustic Pizza;Pizza, Wine Bars, Pasta, Restaurants;Tucson;5.0;rustic pizza pizza wine bar pasta restaur
+b1531;Summit Gym;Pilates, Yoga;Madison;4.5;summit gym pilat yoga
+b1677;Happy Pet Care;Pet Stores, Animal Shelters, Veterinarians;Phoenix;4.5;happi pet care pet store anim shelter veterinarian
+b1584;Daily Market;Convenience Stores, Specialty Food, Shopping, Grocery;Phoenix;4.0;daili market conveni store specialti food shop groceri
+b1638;Premier Electric;Roofing, Electricians;Tucson;3.0;premier electr roof electrician
+b1609;Guardian Plumbing;Electricians, Plumbing;Tampa;4.5;guardian plumb electrician plumb
+b1501;Elevate Yoga Studio;Pilates, Gyms, Active Life, Cycling Classes;Tucson;3.5;elev yoga studio pilat gym activ life cycl class
+b1059;Little Italian Kitchen;Italian, Pasta, Wine Bars, Calzones;Tampa;4.5;littl italian kitchen italian pasta wine bar calzon
+b1180;Golden Kitchen;Chinese, Noodles, Ramen, Asian Fusion;Boulder;4.5;golden kitchen chines noodl ramen asian fusion
+b1499;Core Yoga Studio;Gyms, Trainers, Pilates, Fitness & Instruction;Phoenix;4.0;core yoga studio gym trainer pilat fit instruct
+b1573;Harvest Grocery;Farmers Market, Shopping;Phoenix;4.5;harvest groceri farmer market shop
+b1515;Core Wellness;Cycling Classes, Active Life, Yoga, Fitness & Instruction;Tucson;5.0;core well cycl class activ life yoga fit instruct
+b1738;Garden Suites;Event Planning & Services, Hotels & Travel, Bed & Breakfast, Resorts;Tampa;4.0;garden suit event plan servic hotel travel bed breakfast resort
+b1472;Bright Chiropractic;Health & Medical, Optometrists, Chiropractors;Madison;5.0;bright chiropract health medic optometrist chiropractor
+b1721;Grand Inn;Resorts, Bed & Breakfast, Hotels, Hotels & Travel;Nashville;3.0;grand inn resort bed breakfast hotel hotel travel
+b1709;Cozy Pet Shop;Animal Shelters, Pet Stores;Columbus;4.0;cozi pet shop anim shelter pet store
+b1550;Summit Fitness;Fitness & Instruction, Active Life, Cycling Classes;Tucson;3.0;summit fit fit instruct activ life cycl class
+b1018;Daily Roasters;Juice Bars & Smoothies, Donuts;Phoenix;3.0;daili roaster juic bar smoothi donut
+b1395;Pro Motors;Auto Parts, Body Shops;Columbus;3.0;pro motor auto part bodi shop
+b1617;Apex HVAC;Plumbing, Heating & Air Conditioning/HVAC, Contractors;Tucson;4.0;apex hvac plumb heat air contractor
+b1158;Fiesta Cantina;Tacos, Latin American;Tampa;3.5;fiesta cantina taco latin american
+b1071;Mama Pizza;Pizza, Italian, Restaurants, Wine Bars;Madison;4.5;mama pizza pizza italian restaur wine bar
+b1312;Iron Brewery;Cocktail Bars, Lounges;Portland;4.0;iron breweri cocktail bar loung
+b1053;Urban Coffee;Cafes, Tea Rooms, Bakeries;Boulder;4.0;urban coffe cafe tea room bakeri
+b1728;Park Inn;Bed & Breakfast, Resorts, Hotels, Hotels & Travel;Phoenix;4.0;park inn bed breakfast resort hotel hotel travel
+b1551;Fresh Provisions;Farmers Market, Specialty Food;Phoenix;3.5;fresh provis farmer market specialti food
+b1318;Copper Saloon;Nightlife, Pubs;Austin;5.0;copper saloon nightlif pub
+b1253;Smash Grill;Restaurants, American (Traditional), Fast Food;Phoenix;4.5;smash grill restaur american tradit fast food
+b1704;Cozy Pet Shop;Animal Shelters, Pet Stores;Portland;4.5;cozi pet shop anim shelter pet store
+b1065;Nonna Trattoria;Italian, Restaurants;Tucson;4.0;nonna trattoria italian restaur
+b1394;All-Star Tire Center;Tires, Automotive, Oil Change Stations, Auto Repair;Reno;4.5;tire center tire automot oil chang station auto repair
+b1427;Pro Tire Center;Oil Change Stations, Car Wash;Tampa;3.0;pro tire center oil chang station car wash
+b1185;Red Sushi;Thai, Chinese;Austin;3.0;red sushi thai chines
+b1440;Highway Car Wash;Oil Change Stations, Body Shops, Auto Repair;Nashville;4.0;highway car wash oil chang station bodi shop auto repair
+b1686;Wag Veterinary Clinic;Veterinarians, Animal Shelters;Madison;5.0;wag veterinari clinic veterinarian anim shelter
+b1475;Bright Family Clinic;Doctors, Chiropractors, Optometrists;Portland;4.0;bright famili clinic doctor chiropractor optometrist
+b1512;Peak Yoga Studio;Pilates, Gyms, Cycling Classes, Active Life;Portland;3.0;peak yoga studio pilat gym cycl class activ life
+b1765;Park Suites;Hotels & Travel, Resorts, Bed & Breakfast;Phoenix;4.5;park suit hotel travel resort bed breakfast
+b1254;Route Sandwich Shop;Restaurants, Sandwiches, Fast Food, Fries;Nashville;4.5;rout sandwich shop restaur sandwich fast food fri
+b1301;Iron Alehouse;Cocktail Bars, Pubs;Reno;5.0;iron alehous cocktail bar pub
+b1139;La Cantina;Tex-Mex, Restaurants;Phoenix;4.5;la cantina restaur
+b1174;Lucky Bistro;Chinese, Ramen, Sushi Bars, Asian Fusion;Boulder;4.5;lucki bistro chines ramen sushi bar asian fusion
+b1037;Cozy Beans;Breakfast & Brunch, Donuts;Phoenix;3.0;cozi bean breakfast brunch donut
+b1748;Heritage Suites;Hotels, Resorts, Hotels & Travel;Boulder;4.5;heritag suit hotel resort hotel travel
+b1454;Family Dentistry;Physical Therapy, Health & Medical, Chiropractors;Tucson;3.0;famili dentistri physic therapi health medic chiropractor
+b1445;Lakeside Health Group;Optometrists, Health & Medical, Doctors;Madison;4.0;lakesid health group optometrist health medic doctor
+b1082;Original Trattoria;Restaurants, Wine Bars;Phoenix;3.5;origin trattoria restaur wine bar
+b1289;Old Cocktail Bar;Bars, Lounges;Reno;3.5;old cocktail bar bar loung
+b1629;Trusted Electric;Roofing, Home Services, Heating & Air Conditioning/HVAC, Contractors;Columbus;3.5;trust electr roof home servic heat air contractor
+b1599;Harvest Market;Shopping, Organic Stores;Madison;3.5;harvest market shop organ store
+b1379;Polished Spa;Barbers, Nail Salons;Reno;4.5;polish spa barber nail salon
+b1057;Nonna Pizzeria;Pasta, Calzones, Wine Bars;Tucson;5.0;nonna pizzeria pasta calzon wine bar
+b1654;Hometown Heating & Cooling;Contractors, Plumbing, Heating & Air Conditioning/HVAC;Madison;3.0;hometown heat cool contractor plumb heat air
+b1296;Copper Saloon;Breweries, Nightlife, Pubs, Sports Bars;Tampa;4.5;copper saloon breweri nightlif pub sport bar
+b1743;Grand Inn;Resorts, Event Planning & Services, Hotels & Travel;Austin;5.0;grand inn resort event plan servic hotel travel
+b1415;Highway Auto Repair;Automotive, Oil Change Stations, Auto Repair, Auto Parts;Tampa;5.0;highway auto repair automot oil chang station auto repair auto part
+b1093;Original Pizza;Calzones, Wine Bars, Italian, Restaurants;Reno;3.0;origin pizza calzon wine bar italian restaur
+b1274;Downtown Sandwich Shop;Fries, Restaurants;Tampa;4.5;downtown sandwich shop fri restaur
+b1458;Lakeside Health Group;Dentists, Physical Therapy;Tampa;3.0;lakesid health group dentist physic therapi
+b1430;All-Star Auto Body;Tires, Auto Repair, Car Wash;Tampa;4.0;auto bodi tire auto repair car wash
+b1627;Apex Electric;Roofing, Contractors;Columbus;4.0;apex electr roof contractor
+b1105;Nonna Pizza;Calzones, Restaurants, Pasta;Nashville;4.0;nonna pizza calzon restaur pasta
+b1287;Iron Lounge;Lounges, Beer, Pubs, Nightlife;Tampa;4.0;iron loung loung beer pub nightlif
+b1303;Iron Pub;Bars, Breweries, Beer;Columbus;4.0;iron pub bar breweri beer
+b1167;Golden Kitchen;Restaurants, Noodles, Thai, Ramen;Reno;3.5;golden kitchen restaur noodl thai ramen
+b1756;Garden Hotel;Bed & Breakfast, Hotels & Travel;Boulder;4.0;garden hotel bed breakfast hotel travel
+b1192;Sakura Sushi;Sushi Bars, Noodles, Ramen;Phoenix;4.0;sakura sushi sushi bar noodl ramen
+b1612;Hometown Home Services;Home Services, Roofing, Contractors;Madison;3.0;hometown home servic home servic roof contractor
+b1141;Agave Cocina;Restaurants, Latin American, Burritos, Tacos;Nashville;4.0;agav cocina restaur latin american burrito taco
+b1040;Daily Espresso;Juice Bars & Smoothies, Breakfast & Brunch;Portland;3.0;daili espresso juic bar smoothi breakfast brunch
+b1702;Whiskers Pet Care;Pets, Animal Shelters, Pet Stores, Veterinarians;Tampa;4.5;whisker pet care pet anim shelter pet store veterinarian
+b1164;Taco Burrito Bar;Burritos, Latin American, Tacos, Restaurants;Tampa;4.0;taco burrito bar burrito latin american taco restaur
+b1337;Polished Nails;Hair Salons, Day Spas;Austin;4.5;polish nail hair salon day spa
+b1170;Jade Bistro;Sushi Bars, Thai;Tampa;4.0;jade bistro sushi bar thai
+b1549;Peak Gym;Gyms, Fitness & Instruction;Portland;4.5;peak gym gym fit instruct
+b1707;Whiskers Veterinary Clinic;Pets, Veterinarians;Reno;4.5;whisker veterinari clinic pet veterinarian
+b1719;Plaza Bed & Breakfast;Bed & Breakfast, Hotels;Portland;4.0;plaza bed breakfast bed breakfast hotel
+b1252;Route Eatery;Restaurants, Burgers, Hot Dogs, Sandwiches;Tampa;5.0;rout eateri restaur burger hot dog sandwich
+b1576;Nature Pantry;Specialty Food, Grocery, Organic Stores;Reno;3.0;natur pantri specialti food groceri organ store
+b1525;Elevate Wellness;Fitness & Instruction, Gyms;Tucson;5.0;elev well fit instruct gym
+b1559;Fresh Grocery;Farmers Market, Grocery, Organic Stores, Convenience Stores;Madison;3.0;fresh groceri farmer market groceri organ store conveni store
+b1315;Old Lounge;Lounges, Sports Bars, Breweries, Beer;Phoenix;4.5;old loung loung sport bar breweri beer
+b1758;Lakeview Hotel;Hotels & Travel, Bed & Breakfast;Madison;4.5;lakeview hotel hotel travel bed breakfast
+b1407;Pro Auto Body;Auto Parts, Body Shops, Auto Repair, Car Wash;Boulder;4.5;pro auto bodi auto part bodi shop auto repair car wash
+b1749;Lakeview Inn;Hotels & Travel, Event Planning & Services, Hotels;Columbus;4.0;lakeview inn hotel travel event plan servic hotel
+b1435;Highway Tire Center;Automotive, Car Wash, Auto Parts;Tampa;3.0;highway tire center automot car wash auto part
+b1593;Daily Grocery;Grocery, Farmers Market, Specialty Food;Austin;5.0;daili groceri groceri farmer market specialti food
+b1015;Cozy Beans;Cafes, Coffee & Tea;Phoenix;4.5;cozi bean cafe coffe tea
+b1313;Iron Brewery;Breweries, Cocktail Bars;Tucson;4.5;iron breweri breweri cocktail bar
+b1311;Copper Lounge;Pubs, Nightlife, Cocktail Bars, Lounges;Nashville;5.0;copper loung pub nightlif cocktail bar loung
+b1070;Mama Pizzeria;Pizza, Pasta, Wine Bars, Calzones;Reno;4.5;mama pizzeria pizza pasta wine bar calzon
+b1333;Luxe Spa;Barbers, Waxing, Beauty & Spas, Hair Salons;Boulder;4.0;lux spa barber wax beauti spa hair salon
+b1362;Polished Nails;Nail Salons, Barbers;Reno;4.0;polish nail nail salon barber
+b1457;Gentle Chiropractic;Optometrists, Dentists, Doctors, Chiropractors;Reno;5.0;gentl chiropract optometrist dentist doctor chiropractor
+b1537;Summit Fitness;Pilates, Cycling Classes, Fitness & Instruction;Portland;4.5;summit fit pilat cycl class fit instruct
+b1623;Reliable HVAC;Electricians, Heating & Air Conditioning/HVAC, Plumbing, Roofing;Phoenix;3.5;reliabl hvac electrician heat air plumb roof
+b1371;Polished Salon;Beauty & Spas, Hair Salons, Day Spas, Waxing;Tampa;5.0;polish salon beauti spa hair salon day spa wax
+b1130;La Cocina;Mexican, Tacos, Burritos, Restaurants;Reno;4.5;la cocina mexican taco burrito restaur
+b1213;Lucky Dragon;Asian Fusion, Ramen, Restaurants, Sushi Bars;Tucson;3.5;lucki dragon asian fusion ramen restaur sushi bar
+b1657;Reliable Electric;Roofing, Heating & Air Conditioning/HVAC, Contractors;Portland;4.0;reliabl electr roof heat air contractor
+b1604;Nature Foods;Convenience Stores, Specialty Food, Farmers Market;Phoenix;4.5;natur food conveni store specialti food farmer market
+b1739;Park Hotel;Event Planning & Services, Resorts, Bed & Breakfast, Hotels;Portland;4.0;park hotel event plan servic resort bed breakfast hotel
+b1153;Taco Cocina;Mexican, Restaurants, Latin American, Burritos;Phoenix;5.0;taco cocina mexican restaur latin american burrito
+b1307;Old Lounge;Sports Bars, Pubs;Boulder;3.5;old loung sport bar pub
+b1321;Blue Cocktail Bar;Lounges, Bars, Nightlife, Cocktail Bars;Boulder;3.0;blue cocktail bar loung bar nightlif cocktail bar
+b1510;Summit Yoga Studio;Gyms, Fitness & Instruction, Trainers;Austin;3.0;summit yoga studio gym fit instruct trainer
+b1428;Pro Garage;Auto Parts, Tires, Automotive, Auto Repair;Tucson;3.0;pro garag auto part tire automot auto repair
+b1157;Agave Tacos;Mexican, Restaurants, Burritos, Latin American;Madison;3.0;agav taco mexican restaur burrito latin american
+b1378;Serene Nails;Beauty & Spas, Nail Salons, Barbers, Waxing;Tampa;4.5;seren nail beauti spa nail salon barber wax
+b1585;Fresh Grocery;Specialty Food, Convenience Stores, Organic Stores, Grocery;Columbus;4.0;fresh groceri specialti food conveni store organ store groceri
+b1172;Red Sushi;Chinese, Thai, Asian Fusion, Restaurants;Nashville;4.0;red sushi chines thai asian fusion restaur
+b1085;Little Ristorante;Restaurants, Calzones, Pasta;Phoenix;5.0;littl ristorant restaur calzon pasta
+b1464;Advanced Medical Center;Health & Medical, Dentists, Doctors;Tucson;3.0;advanc medic center health medic dentist doctor
+b1402;Express Tire Center;Auto Parts, Auto Repair, Tires;Tampa;5.0;express tire center auto part auto repair tire
+b1744;Park Inn;Hotels & Travel, Resorts;Boulder;4.5;park inn hotel travel resort
+b1588;Fresh Provisions;Farmers Market, Shopping, Convenience Stores, Specialty Food;Austin;4.5;fresh provis farmer market shop conveni store specialti food
+b1019;Corner Brew House;Cafes, Breakfast & Brunch, Bakeries;Madison;3.5;corner brew hous cafe breakfast brunch bakeri
+b1178;Bamboo Noodle House;Thai, Restaurants, Ramen;Austin;5.0;bamboo noodl hous thai restaur ramen
+b1563;Fresh Provisions;Convenience Stores, Organic Stores, Specialty Food, Grocery;Portland;4.0;fresh provis conveni store organ store specialti food groceri
+b1102;Bella Pizza;Restaurants, Calzones, Pasta, Italian;Boulder;3.0;bella pizza restaur calzon pasta italian
+b1343;Serene Barbershop;Day Spas, Skin Care;Reno;3.0;seren barbershop day spa skin care
+b1441;Advanced Health Group;Health & Medical, Dentists, Doctors;Austin;4.0;advanc health group health medic dentist doctor
+b1124;Sol Cocina;Tacos, Burritos, Latin American, Mexican;Phoenix;4.5;sol cocina taco burrito latin american mexican
+b1316;Blue Tavern;Sports Bars, Beer, Breweries, Lounges;Reno;4.0;blue tavern sport bar beer breweri loung
+b1476;Family Chiropractic;Optometrists, Physical Therapy;Boulder;5.0;famili chiropract optometrist physic therapi
+b1711;Paws Pet Grooming;Pet Groomers, Pets, Veterinarians;Austin;3.5;paw pet groom pet groomer pet veterinarian
+b1703;Cozy Veterinary Clinic;Animal Shelters, Pet Stores;Columbus;3.5;cozi veterinari clinic anim shelter pet store
+b1344;Luxe Salon;Hair Salons, Waxing, Beauty & Spas, Nail Salons;Tucson;4.5;lux salon hair salon wax beauti spa nail salon
+b1377;Bliss Beauty Bar;Barbers, Waxing, Skin Care, Nail Salons;Madison;5.0;bliss beauti bar barber wax skin care nail salon
+b1596;Harvest Mart;Shopping, Specialty Food, Farmers Market, Convenience Stores;Boulder;5.0;harvest mart shop specialti food farmer market conveni store
+b1184;Tokyo Wok;Sushi Bars, Thai;Phoenix;5.0;tokyo wok sushi bar thai
+b1372;Bliss Salon;Day Spas, Waxing;Reno;3.0;bliss salon day spa wax
+b1643;Premier Home Services;Plumbing, Home Services;Tampa;4.0;premier home servic plumb home servic
+b1746;Royal Lodge;Event Planning & Services, Hotels & Travel, Hotels;Columbus;4.0;royal lodg event plan servic hotel travel hotel
+b1529;Core Crossfit;Pilates, Cycling Classes;Tampa;4.5;core crossfit pilat cycl class
+b1446;Family Chiropractic;Health & Medical, Doctors, Physical Therapy, Optometrists;Columbus;4.0;famili chiropract health medic doctor physic therapi optometrist
+b1424;Quick Auto Repair;Body Shops, Automotive;Tucson;4.0;quick auto repair bodi shop automot
+b1685;Loyal Veterinary Clinic;Dog Walkers, Pet Groomers, Pet Stores, Animal Shelters;Columbus;3.5;loyal veterinari clinic dog walker pet groomer pet store anim shelter
+b1297;Old Brewery;Cocktail Bars, Lounges;Phoenix;4.0;old breweri cocktail bar loung
+b1608;Trusted Electric;Plumbing, Contractors, Heating & Air Conditioning/HVAC;Boulder;4.0;trust electr plumb contractor heat air
+b1216;Sakura Ramen;Chinese, Ramen;Madison;4.0;sakura ramen chines ramen
+b1533;Iron Training Lab;Yoga, Pilates, Trainers, Cycling Classes;Austin;4.0;iron train lab yoga pilat trainer cycl class
+b1705;Cozy Pet Grooming;Pet Groomers, Animal Shelters;Austin;4.5;cozi pet groom pet groomer anim shelter
+b1399;Express Motors;Tires, Body Shops;Reno;4.5;express motor tire bodi shop
+b1770;Garden Lodge;Event Planning & Services, Hotels & Travel, Bed & Breakfast, Resorts;Phoenix;4.0;garden lodg event plan servic hotel travel bed breakfast resort
+b1101;Bella Pasta House;Restaurants, Calzones;Columbus;3.0;bella pasta hous restaur calzon
+b1712;Cozy Animal Hospital;Veterinarians, Pets, Pet Stores, Pet Groomers;Columbus;3.0;cozi anim hospit veterinarian pet pet store pet groomer
+b1503;Core Wellness;Active Life, Pilates, Cycling Classes;Reno;4.5;core well activ life pilat cycl class
+b1064;Rustic Pizzeria;Italian, Wine Bars, Restaurants;Madison;5.0;rustic pizzeria italian wine bar restaur
+b1480;Family Dental;Optometrists, Doctors;Portland;4.0;famili dental optometrist doctor
+b1693;Wag Pet Shop;Dog Walkers, Veterinarians;Columbus;4.5;wag pet shop dog walker veterinarian
+b1426;Precision Auto Body;Auto Parts, Tires, Body Shops, Auto Repair;Nashville;4.0;precis auto bodi auto part tire bodi shop auto repair
+b1251;Hungry Burgers;Fast Food, Sandwiches;Reno;5.0;hungri burger fast food sandwich
+b1384;Radiant Beauty Bar;Skin Care, Nail Salons;Madison;4.0;radiant beauti bar skin care nail salon
+b1285;Blue Brewery;Nightlife, Breweries, Bars;Portland;3.0;blue breweri nightlif breweri bar
+b1302;Old Tavern;Cocktail Bars, Breweries;Portland;4.5;old tavern cocktail bar breweri
+b1328;The Saloon;Sports Bars, Breweries;Austin;3.5;saloon sport bar breweri
+b1652;Apex Heating & Cooling;Contractors, Plumbing;Portland;4.0;apex heat cool contractor plumb
+b1261;Big Grill;Fast Food, Burgers, Sandwiches, Restaurants;Madison;4.0;big grill fast food burger sandwich restaur
+b1001;Urban Beans;Breakfast & Brunch, Juice Bars & Smoothies, Bakeries, Cafes;Tucson;4.5;urban bean breakfast brunch juic bar smoothi bakeri cafe
+b1340;Serene Beauty Bar;Barbers, Day Spas, Skin Care, Nail Salons;Nashville;5.0;seren beauti bar barber day spa skin care nail salon
+b1665;Whiskers Pet Care;Veterinarians, Pets, Pet Groomers;Phoenix;3.0;whisker pet care veterinarian pet pet groomer
+b1734;Royal Bed & Breakfast;Hotels & Travel, Hotels, Event Planning & Services;Columbus;3.5;royal bed breakfast hotel travel hotel event plan servic
+b1120;Taco Taqueria;Restaurants, Tex-Mex, Latin American;Tampa;5.0;taco taqueria restaur latin american
+b1273;Classic Burgers;American (Traditional), Restaurants;Portland;4.0;classic burger american tradit restaur
+b1724;Garden Lodge;Hotels & Travel, Bed & Breakfast, Event Planning & Services, Resorts;Portland;3.5;garden lodg hotel travel bed breakfast event plan servic resort
+b1526;Summit Wellness;Trainers, Gyms, Fitness & Instruction, Pilates;Columbus;4.5;summit well trainer gym fit instruct pilat
+b1160;Casa Cantina;Tex-Mex, Tacos, Mexican, Latin American;Phoenix;4.0;casa cantina taco mexican latin american
+b1177;Golden Dragon;Ramen, Restaurants, Asian Fusion, Sushi Bars;Portland;4.5;golden dragon ramen restaur asian fusion sushi bar
+b1408;Master Auto Repair;Tires, Oil Change Stations, Auto Repair;Reno;4.0;master auto repair tire oil chang station auto repair
+b1567;Daily Pantry;Farmers Market, Organic Stores, Convenience Stores;Boulder;3.0;daili pantri farmer market organ store conveni store
+b1382;Glow Hair Studio;Barbers, Beauty & Spas, Day Spas, Waxing;Madison;3.5;glow hair studio barber beauti spa day spa wax
+b1414;All-Star Tire Center;Tires, Auto Repair;Madison;4.5;tire center tire auto repair
+b1051;Bean Brew House;Juice Bars & Smoothies, Donuts, Breakfast & Brunch, Cafes;Tucson;3.0;bean brew hous juic bar smoothi donut breakfast brunch cafe
+b1642;Reliable Home Services;Plumbing, Electricians, Home Services, Roofing;Portland;4.5;reliabl home servic plumb electrician home servic roof
+b1191;Jade Noodle House;Asian Fusion, Ramen;Austin;5.0;jade noodl hous asian fusion ramen
+b1376;Bliss Nails;Hair Salons, Beauty & Spas, Barbers;Boulder;3.0;bliss nail hair salon beauti spa barber
+b1083;Mama Pizzeria;Restaurants, Italian;Austin;3.0;mama pizzeria restaur italian
+b1575;Family Provisions;Convenience Stores, Grocery;Reno;5.0;famili provis conveni store groceri
+b1091;Nonna Pizza;Pasta, Wine Bars, Pizza;Madison;4.5;nonna pizza pasta wine bar pizza
+b1350;Serene Hair Studio;Nail Salons, Barbers, Skin Care, Beauty & Spas;Columbus;3.0;seren hair studio nail salon barber skin care beauti spa
+b1021;Urban Cafe;Tea Rooms, Cafes;Madison;3.5;urban cafe tea room cafe
+b1628;Guardian Plumbing;Home Services, Heating & Air Conditioning/HVAC;Madison;4.5;guardian plumb home servic heat air
+b1714;Loyal Veterinary Clinic;Dog Walkers, Pet Groomers, Animal Shelters;Columbus;3.5;loyal veterinari clinic dog walker pet groomer anim shelter
+b1258;Downtown Burger Joint;Fast Food, Fries, Restaurants, Sandwiches;Reno;4.5;downtown burger joint fast food fri restaur sandwich
+b1355;Radiant Beauty Bar;Barbers, Skin Care, Hair Salons, Nail Salons;Boulder;4.5;radiant beauti bar barber skin care hair salon nail salon
+b1134;Taco Grill;Burritos, Tacos;Phoenix;4.5;taco grill burrito taco
+b1535;Core Yoga Studio;Cycling Classes, Active Life, Fitness & Instruction;Boulder;5.0;core yoga studio cycl class activ life fit instruct
+b1766;Grand Inn;Event Planning & Services, Hotels;Austin;5.0;grand inn event plan servic hotel
+b1694;Wag Animal Hospital;Animal Shelters, Pet Groomers, Pets;Columbus;4.0;wag anim hospit anim shelter pet groomer pet
+b1087;Rustic Pizzeria;Italian, Wine Bars, Pizza, Pasta;Tampa;4.5;rustic pizzeria italian wine bar pizza pasta
+b1659;Trusted HVAC;Home Services, Roofing;Austin;4.0;trust hvac home servic roof
+b1193;Lucky Sushi;Asian Fusion, Sushi Bars, Restaurants, Chinese;Boulder;3.5;lucki sushi asian fusion sushi bar restaur chines
+b1678;Happy Pet Shop;Dog Walkers, Animal Shelters, Pets, Pet Groomers;Tucson;5.0;happi pet shop dog walker anim shelter pet pet groomer
+b1425;Express Car Wash;Auto Parts, Car Wash, Tires, Auto Repair;Portland;4.5;express car wash auto part car wash tire auto repair
+b1387;Master Auto Repair;Auto Repair, Tires, Car Wash, Oil Change Stations;Tucson;4.5;master auto repair auto repair tire car wash oil chang station
+b1280;Hop Lounge;Pubs, Beer, Lounges, Breweries;Tucson;4.0;hop loung pub beer loung breweri
+b1137;Sol Cocina;Mexican, Tex-Mex, Burritos;Tucson;4.0;sol cocina mexican burrito
+b1353;Polished Beauty Bar;Skin Care, Day Spas, Hair Salons, Barbers;Tucson;4.5;polish beauti bar skin care day spa hair salon barber
+b1451;Community Dentistry;Chiropractors, Optometrists, Physical Therapy;Portland;5.0;commun dentistri chiropractor optometrist physic therapi
+b1327;Old Alehouse;Bars, Sports Bars;Columbus;4.0;old alehous bar sport bar
+b1264;Hungry Grill;American (Traditional), Burgers;Portland;5.0;hungri grill american tradit burger
+b1089;Rustic Pizza;Italian, Pasta, Pizza;Nashville;4.0;rustic pizza italian pasta pizza
+b1268;Downtown Grill;Fast Food, Restaurants, Sandwiches;Tampa;3.5;downtown grill fast food restaur sandwich
+b1145;El Grill;Restaurants, Tacos, Latin American, Mexican;Columbus;5.0;el grill restaur taco latin american mexican
+b1075;Bella Pasta House;Italian, Pizza;Reno;4.0;bella pasta hous italian pizza
+b1107;Rustic Pizzeria;Pizza, Italian;Boulder;4.0;rustic pizzeria pizza italian
+b1234;Classic Burger Joint;Fries, American (Traditional), Fast Food, Restaurants;Tucson;5.0;classic burger joint fri american tradit fast food restaur
+b1112;El Cocina;Latin American, Burritos, Tacos;Austin;4.0;el cocina latin american burrito taco
+b1034;Morning Roasters;Breakfast & Brunch, Donuts, Cafes;Tucson;4.0;morn roaster breakfast brunch donut cafe
+b1281;Old Saloon;Nightlife, Beer;Portland;5.0;old saloon nightlif beer
+b1492;Gentle Health Group;Doctors, Physical Therapy;Nashville;4.0;gentl health group doctor physic therapi
+b1023;Corner Brew House;Tea Rooms, Coffee & Tea, Breakfast & Brunch, Bakeries;Phoenix;4.0;corner brew hous tea room coffe tea breakfast brunch bakeri
+b1081;Original Pizzeria;Restaurants, Wine Bars, Calzones;Boulder;4.0;origin pizzeria restaur wine bar calzon
+b1461;Bright Dental;Doctors, Dentists, Health & Medical;Columbus;4.5;bright dental doctor dentist health medic
+b1008;Roasted Roasters;Donuts, Juice Bars & Smoothies, Cafes;Nashville;3.5;roast roaster donut juic bar smoothi cafe
+b1358;Glow Spa;Skin Care, Barbers, Nail Salons;Phoenix;4.5;glow spa skin care barber nail salon
+b1674;Cozy Pet Care;Pet Stores, Animal Shelters, Pets, Dog Walkers;Columbus;5.0;cozi pet care pet store anim shelter pet dog walker
+b1097;Original Italian Kitchen;Italian, Restaurants;Boulder;4.0;origin italian kitchen italian restaur
+b1244;Smash Eatery;American (Traditional), Burgers;Madison;4.0;smash eateri american tradit burger
+b1223;Downtown Eatery;Fast Food, Hot Dogs;Madison;3.5;downtown eateri fast food hot dog
+b1581;Fresh Mart;Convenience Stores, Grocery;Tampa;3.5;fresh mart conveni store groceri
+b1320;Hop Brewery;Lounges, Cocktail Bars, Bars;Nashville;5.0;hop breweri loung cocktail bar bar
+b1232;Big Burgers;Sandwiches, American (Traditional), Fast Food, Restaurants;Madison;3.5;big burger sandwich american tradit fast food restaur
+b1455;Bright Chiropractic;Doctors, Optometrists, Physical Therapy;Nashville;5.0;bright chiropract doctor optometrist physic therapi
+b1545;Summit Training Lab;Trainers, Yoga, Active Life, Gyms;Tampa;4.0;summit train lab trainer yoga activ life gym
+b1433;Master Tire Center;Oil Change Stations, Auto Repair, Tires;Austin;3.5;master tire center oil chang station auto repair tire
+b1189;Sakura Kitchen;Sushi Bars, Ramen, Noodles;Austin;4.0;sakura kitchen sushi bar ramen noodl
+b1485;Community Chiropractic;Chiropractors, Doctors, Health & Medical, Dentists;Madison;4.0;commun chiropract chiropractor doctor health medic dentist
+b1397;All-Star Tire Center;Tires, Auto Parts;Nashville;4.0;tire center tire auto part
+b1649;Guardian Heating & Cooling;Contractors, Electricians, Home Services;Boulder;4.0;guardian heat cool contractor electrician home servic
+b1733;Park Resort;Resorts, Hotels & Travel, Event Planning & Services;Nashville;3.5;park resort resort hotel travel event plan servic
+b1429;Quick Auto Body;Oil Change Stations, Body Shops, Automotive;Tucson;4.5;quick auto bodi oil chang station bodi shop automot
+b1519;Elevate Fitness;Active Life, Pilates, Trainers;Nashville;4.0;elev fit activ life pilat trainer
+b1003;Daily Beans;Tea Rooms, Juice Bars & Smoothies, Cafes, Donuts;Columbus;5.0;daili bean tea room juic bar smoothi cafe donut
+b1072;Bella Trattoria;Wine Bars, Pizza;Boulder;4.0;bella trattoria wine bar pizza
+b1099;Rustic Pasta House;Restaurants, Calzones;Madison;3.0;rustic pasta hous restaur calzon
+b1054;Morning Cafe;Bakeries, Breakfast & Brunch, Coffee & Tea, Juice Bars & Smoothies;Tucson;3.0;morn cafe bakeri breakfast brunch coffe tea juic bar smoothi
+b1025;Daily Cafe;Bakeries, Breakfast & Brunch, Cafes;Reno;3.5;daili cafe bakeri breakfast brunch cafe
+b1554;Harvest Pantry;Shopping, Farmers Market;Madison;4.5;harvest pantri shop farmer market
+b1737;Royal Hotel;Resorts, Bed & Breakfast, Hotels;Columbus;4.0;royal hotel resort bed breakfast hotel
+b1242;Smash Burgers;Restaurants, Fast Food;Austin;3.5;smash burger restaur fast food
+b1235;Classic Burgers;American (Traditional), Fries, Fast Food;Nashville;5.0;classic burger american tradit fri fast food
+b1648;Hometown Plumbing;Heating & Air Conditioning/HVAC, Contractors, Electricians, Roofing;Boulder;3.0;hometown plumb heat air contractor electrician roof
+b1061;Rustic Pizza;Pizza, Calzones, Wine Bars;Phoenix;4.0;rustic pizza pizza calzon wine bar
+b1421;Precision Service Center;Car Wash, Auto Repair;Austin;4.0;precis servic center car wash auto repair
+b1222;Route Burger Joint;Burgers, Hot Dogs, Sandwiches, American (Traditional);Madison;4.0;rout burger joint burger hot dog sandwich american tradit
+b1325;Old Tavern;Sports Bars, Nightlife;Columbus;5.0;old tavern sport bar nightlif
+b1731;Park Inn;Bed & Breakfast, Resorts;Tampa;3.5;park inn bed breakfast resort
+b1507;Core Fitness;Yoga, Trainers, Active Life, Cycling Classes;Tampa;4.0;core fit yoga trainer activ life cycl class
+b1692;Wag Pet Grooming;Veterinarians, Pets, Pet Groomers, Dog Walkers;Portland;3.5;wag pet groom veterinarian pet pet groomer dog walker
+b1123;Casa Tacos;Latin American, Tex-Mex, Mexican;Boulder;4.0;casa taco latin american mexican
+b1600;Harvest Pantry;Farmers Market, Grocery, Convenience Stores, Specialty Food;Madison;4.0;harvest pantri farmer market groceri conveni store specialti food
+b1111;Fiesta Burrito Bar;Restaurants, Tex-Mex, Burritos, Latin American;Austin;4.5;fiesta burrito bar restaur burrito latin american
+b1398;Precision Auto Body;Car Wash, Body Shops;Reno;4.0;precis auto bodi car wash bodi shop
+b1680;Whiskers Veterinary Clinic;Veterinarians, Dog Walkers, Animal Shelters;Nashville;4.0;whisker veterinari clinic veterinarian dog walker anim shelter
+b1396;All-Star Garage;Tires, Car Wash, Auto Repair, Oil Change Stations;Madison;4.5;garag tire car wash auto repair oil chang station
+b1566;Nature Foods;Organic Stores, Specialty Food, Grocery, Shopping;Columbus;3.0;natur food organ store specialti food groceri shop
+b1484;Lakeside Medical Center;Optometrists, Dentists, Doctors, Chiropractors;Madison;3.0;lakesid medic center optometrist dentist doctor chiropractor
+b1357;Polished Barbershop;Waxing, Nail Salons, Barbers, Day Spas;Columbus;4.0;polish barbershop wax nail salon barber day spa
+b1764;Park Suites;Resorts, Hotels, Hotels & Travel;Phoenix;5.0;park suit resort hotel hotel travel
+b1265;Big Burgers;American (Traditional), Sandwiches;Nashville;5.0;big burger american tradit sandwich
+b1171;Jade Ramen;Thai, Asian Fusion, Noodles, Restaurants;Boulder;4.0;jade ramen thai asian fusion noodl restaur
+b1294;Blue Cocktail Bar;Breweries, Lounges;Boulder;3.0;blue cocktail bar breweri loung
+b1277;Iron Alehouse;Breweries, Cocktail Bars, Bars;Phoenix;4.5;iron alehous breweri cocktail bar bar
+b1043;Corner Coffee;Donuts, Bakeries;Columbus;4.5;corner coffe donut bakeri
+b1524;Pulse Gym;Trainers, Pilates, Active Life, Cycling Classes;Tucson;3.5;puls gym trainer pilat activ life cycl class
+b1283;The Pub;Beer, Lounges, Breweries;Tampa;3.0;pub beer loung breweri
+b1002;Sunrise Espresso;Donuts, Juice Bars & Smoothies, Bakeries;Tucson;4.5;sunris espresso donut juic bar smoothi bakeri
+b1323;Tap Cocktail Bar;Beer, Lounges;Phoenix;3.0;tap cocktail bar beer loung
+b1582;Daily Foods;Shopping, Convenience Stores, Farmers Market;Reno;3.5;daili food shop conveni store farmer market
+b1413;Highway Motors;Car Wash, Tires;Phoenix;5.0;highway motor car wash tire
+b1666;Whiskers Pet Care;Pet Groomers, Pets, Veterinarians;Tampa;3.0;whisker pet care pet groomer pet veterinarian
+b1247;Big Grill;Restaurants, Fries;Portland;3.0;big grill restaur fri
+b1468;Lakeside Family Clinic;Dentists, Doctors, Optometrists, Chiropractors;Portland;3.5;lakesid famili clinic dentist doctor optometrist chiropractor
+b1079;Nonna Pizzeria;Calzones, Pasta, Pizza, Italian;Tampa;3.0;nonna pizzeria calzon pasta pizza italian
+b1401;Quick Garage;Tires, Auto Repair;Austin;4.0;quick garag tire auto repair
+b1195;Lucky Bistro;Noodles, Restaurants;Tucson;4.5;lucki bistro noodl restaur
+b1290;Blue Cocktail Bar;Nightlife, Cocktail Bars, Bars;Austin;3.5;blue cocktail bar nightlif cocktail bar bar
+b1200;Jade Bistro;Restaurants, Sushi Bars, Asian Fusion, Japanese;Columbus;4.0;jade bistro restaur sushi bar asian fusion japanes
+b1338;Radiant Hair Studio;Nail Salons, Waxing, Barbers, Hair Salons;Phoenix;3.0;radiant hair studio nail salon wax barber hair salon
+b1672;Cozy Animal Hospital;Pet Stores, Dog Walkers;Portland;4.5;cozi anim hospit pet store dog walker
+b1730;Plaza Lodge;Hotels, Hotels & Travel;Austin;4.0;plaza lodg hotel hotel travel
+b1346;Radiant Salon;Barbers, Hair Salons;Portland;5.0;radiant salon barber hair salon
+b1477;Advanced Medical Center;Health & Medical, Chiropractors;Columbus;4.5;advanc medic center health medic chiropractor
+b1336;Bliss Salon;Hair Salons, Waxing, Day Spas;Nashville;5.0;bliss salon hair salon wax day spa
+b1717;Royal Hotel;Hotels, Resorts;Reno;4.5;royal hotel hotel resort
+b1186;Tokyo Ramen;Chinese, Restaurants, Sushi Bars;Tucson;4.5;tokyo ramen chines restaur sushi bar
+b1747;Lakeview Hotel;Event Planning & Services, Resorts, Bed & Breakfast;Tucson;4.0;lakeview hotel event plan servic resort bed breakfast
+b1010;Sunrise Cafe;Tea Rooms, Cafes;Austin;4.5;sunris cafe tea room cafe
+b1488;Advanced Health Group;Dentists, Doctors;Madison;4.5;advanc health group dentist doctor
+b1597;Harvest Market;Specialty Food, Shopping, Organic Stores;Tampa;3.5;harvest market specialti food shop organ store
+b1432;Highway Auto Body;Tires, Auto Repair, Oil Change Stations;Nashville;4.5;highway auto bodi tire auto repair oil chang station
+b1742;Lakeview Suites;Event Planning & Services, Hotels;Columbus;4.5;lakeview suit event plan servic hotel
+b1470;Community Dentistry;Doctors, Chiropractors;Portland;3.5;commun dentistri doctor chiropractor
+b1255;Classic Eatery;Fries, Hot Dogs;Austin;4.5;classic eateri fri hot dog
+b1701;Wag Veterinary Clinic;Animal Shelters, Dog Walkers, Pet Groomers;Madison;3.5;wag veterinari clinic anim shelter dog walker pet groomer
+b1389;Express Service Center;Oil Change Stations, Body Shops;Tucson;4.0;express servic center oil chang station bodi shop
+b1727;Heritage Lodge;Bed & Breakfast, Event Planning & Services, Hotels & Travel, Hotels;Tucson;4.0;heritag lodg bed breakfast event plan servic hotel travel hotel
+b1439;All-Star Service Center;Oil Change Stations, Automotive, Tires, Auto Repair;Austin;4.5;servic center oil chang station automot tire auto repair
+b1243;Prime Grill;Hot Dogs, Restaurants;Phoenix;4.5;prime grill hot dog restaur
+b1370;Bliss Beauty Bar;Skin Care, Barbers;Tampa;4.5;bliss beauti bar skin care barber
+b1314;Blue Pub;Breweries, Pubs;Phoenix;4.5;blue pub breweri pub
+b1580;Fresh Foods;Grocery, Specialty Food, Farmers Market;Boulder;5.0;fresh food groceri specialti food farmer market
+b1506;Flow Training Lab;Active Life, Fitness & Instruction, Yoga;Columbus;4.0;flow train lab activ life fit instruct yoga
+b1386;Pro Auto Repair;Car Wash, Auto Repair, Oil Change Stations;Tucson;4.5;pro auto repair car wash auto repair oil chang station
+b1284;Blue Saloon;Pubs, Cocktail Bars;Phoenix;4.5;blue saloon pub cocktail bar
+b1236;Hungry Sandwich Shop;Burgers, American (Traditional);Austin;5.0;hungri sandwich shop burger american tradit
+b1199;Jade Wok;Japanese, Thai, Ramen, Asian Fusion;Columbus;4.0;jade wok japanes thai ramen asian fusion
+b1624;Hometown Home Services;Electricians, Roofing, Contractors;Portland;4.5;hometown home servic electrician roof contractor
+b1310;Iron Alehouse;Cocktail Bars, Beer, Sports Bars, Bars;Austin;4.0;iron alehous cocktail bar beer sport bar bar
+b1060;Bella Pizza;Pizza, Calzones;Portland;3.5;bella pizza pizza calzon
+b1578;Harvest Provisions;Grocery, Specialty Food;Boulder;3.5;harvest provis groceri specialti food
+b1181;Lucky Wok;Restaurants, Chinese;Madison;4.5;lucki wok restaur chines
+b1521;Core Gym;Active Life, Pilates, Fitness & Instruction, Trainers;Boulder;3.0;core gym activ life pilat fit instruct trainer
+b1005;Cozy Roasters;Breakfast & Brunch, Tea Rooms, Bakeries;Boulder;4.0;cozi roaster breakfast brunch tea room bakeri
+b1684;Whiskers Pet Care;Animal Shelters, Veterinarians;Nashville;4.5;whisker pet care anim shelter veterinarian
+b1532;Core Yoga Studio;Pilates, Active Life, Trainers, Yoga;Boulder;3.5;core yoga studio pilat activ life trainer yoga
+b1041;Daily Cafe;Bakeries, Juice Bars & Smoothies;Madison;5.0;daili cafe bakeri juic bar smoothi
+b1565;Market Market;Convenience Stores, Shopping, Grocery, Organic Stores;Columbus;5.0;market market conveni store shop groceri organ store
+b1147;Taco Grill;Tacos, Tex-Mex, Restaurants, Latin American;Phoenix;4.5;taco grill taco restaur latin american
+b1009;Cozy Brew House;Juice Bars & Smoothies, Tea Rooms;Portland;4.0;cozi brew hous juic bar smoothi tea room
+b1365;Bliss Hair Studio;Day Spas, Skin Care, Nail Salons, Waxing;Tampa;4.5;bliss hair studio day spa skin care nail salon wax
+b1154;La Cocina;Tex-Mex, Tacos, Burritos, Restaurants;Reno;4.5;la cocina taco burrito restaur
+b1605;Market Grocery;Specialty Food, Organic Stores, Shopping, Grocery;Austin;4.5;market groceri specialti food organ store shop groceri
+b1418;Pro Garage;Auto Repair, Car Wash, Body Shops, Auto Parts;Reno;3.5;pro garag auto repair car wash bodi shop auto part
+b1331;Bliss Spa;Barbers, Hair Salons, Nail Salons;Tucson;4.0;bliss spa barber hair salon nail salon
+b1367;Bliss Nails;Barbers, Hair Salons, Beauty & Spas, Skin Care;Columbus;3.5;bliss nail barber hair salon beauti spa skin care
+b1046;Urban Roasters;Bakeries, Breakfast & Brunch, Donuts;Tucson;4.5;urban roaster bakeri breakfast brunch donut
+b1220;Red Noodle House;Restaurants, Sushi Bars;Boulder;4.5;red noodl hous restaur sushi bar
+b1400;Express Garage;Tires, Auto Repair, Automotive, Body Shops;Austin;3.0;express garag tire auto repair automot bodi shop
+b1496;Pulse Wellness;Pilates, Fitness & Instruction, Cycling Classes, Trainers;Tampa;4.0;puls well pilat fit instruct cycl class trainer
+b1482;Advanced Dentistry;Doctors, Physical Therapy, Optometrists;Nashville;4.0;advanc dentistri doctor physic therapi optometrist
+b1125;Agave Cocina;Latin American, Mexican;Tucson;4.5;agav cocina latin american mexican
+b1618;Premier Contractors;Electricians, Plumbing, Roofing, Heating & Air Conditioning/HVAC;Tampa;4.0;premier contractor electrician plumb roof heat air
+b1713;Happy Pet Grooming;Veterinarians, Dog Walkers;Boulder;3.0;happi pet groom veterinarian dog walker
+b1055;Urban Cafe;Tea Rooms, Breakfast & Brunch, Cafes;Nashville;4.0;urban cafe tea room breakfast brunch cafe
+b1368;Glow Spa;Day Spas, Skin Care, Waxing, Hair Salons;Tampa;4.0;glow spa day spa skin care wax hair salon
+b1224;Downtown Burger Joint;Restaurants, Burgers, Fries, Fast Food;Reno;4.5;downtown burger joint restaur burger fri fast food
+b1300;Old Brewery;Cocktail Bars, Pubs, Beer;Tampa;3.0;old breweri cocktail bar pub beer
+b1555;Family Foods;Specialty Food, Shopping;Phoenix;3.5;famili food specialti food shop
+b1405;Master Auto Repair;Auto Repair, Car Wash, Body Shops, Oil Change Stations;Reno;4.5;master auto repair auto repair car wash bodi shop oil chang station
+b1491;Community Dentistry;Doctors, Physical Therapy, Health & Medical;Nashville;4.0;commun dentistri doctor physic therapi health medic
+b1614;Premier Heating & Cooling;Plumbing, Heating & Air Conditioning/HVAC;Reno;3.0;premier heat cool plumb heat air
+b1494;Advanced Medical Center;Dentists, Chiropractors;Boulder;3.5;advanc medic center dentist chiropractor
+b1115;Taco Burrito Bar;Restaurants, Latin American;Phoenix;4.0;taco burrito bar restaur latin american
+b1155;La Cantina;Burritos, Latin American;Boulder;4.0;la cantina burrito latin american
+b1546;Summit Wellness;Active Life, Fitness & Instruction, Gyms, Trainers;Columbus;4.0;summit well activ life fit instruct gym trainer
+b1722;Garden Resort;Resorts, Event Planning & Services, Hotels, Hotels & Travel;Madison;4.0;garden resort resort event plan servic hotel hotel travel
+b1590;Fresh Pantry;Farmers Market, Convenience Stores, Specialty Food;Madison;4.0;fresh pantri farmer market conveni store specialti food
+b1669;Paws Pet Grooming;Dog Walkers, Pet Stores, Animal Shelters;Madison;4.5;paw pet groom dog walker pet store anim shelter
+b1409;Express Auto Repair;Auto Repair, Oil Change Stations, Automotive;Boulder;4.5;express auto repair auto repair oil chang station automot
+b1613;Guardian Electric;Contractors, Roofing, Electricians, Heating & Air Conditioning/HVAC;Tucson;4.5;guardian electr contractor roof electrician heat air
+b1203;Golden Noodle House;Chinese, Thai;Madison;4.5;golden noodl hous chines thai
+b1162;El Cocina;Mexican, Burritos, Tacos, Restaurants;Phoenix;3.5;el cocina mexican burrito taco restaur
+b1122;La Cocina;Restaurants, Tex-Mex, Latin American;Phoenix;4.0;la cocina restaur latin american
+b1700;Cozy Pet Shop;Pet Groomers, Dog Walkers, Pets;Phoenix;3.0;cozi pet shop pet groomer dog walker pet
+b1690;Cozy Veterinary Clinic;Pet Stores, Dog Walkers, Pet Groomers;Austin;4.5;cozi veterinari clinic pet store dog walker pet groomer
+b1095;Mama Italian Kitchen;Pizza, Italian, Restaurants;Austin;4.0;mama italian kitchen pizza italian restaur
+b1726;Garden Hotel;Hotels, Event Planning & Services;Portland;3.5;garden hotel hotel event plan servic
+b1161;El Burrito Bar;Mexican, Latin American;Phoenix;4.0;el burrito bar mexican latin american
+b1226;Route Grill;American (Traditional), Sandwiches, Fries, Restaurants;Portland;3.5;rout grill american tradit sandwich fri restaur
+b1269;Route Sandwich Shop;Fast Food, American (Traditional), Burgers;Nashville;4.0;rout sandwich shop fast food american tradit burger
+b1092;Little Pizza;Calzones, Pasta, Italian;Columbus;4.5;littl pizza calzon pasta italian
+b1417;Precision Tire Center;Tires, Body Shops, Auto Repair, Automotive;Phoenix;4.5;precis tire center tire bodi shop auto repair automot
+b1104;Nonna Pizzeria;Calzones, Wine Bars, Pizza;Columbus;5.0;nonna pizzeria calzon wine bar pizza
+b1557;Harvest Grocery;Farmers Market, Grocery, Convenience Stores, Shopping;Boulder;4.5;harvest groceri farmer market groceri conveni store shop
+b1481;Family Family Clinic;Optometrists, Health & Medical, Physical Therapy;Tampa;4.0;famili famili clinic optometrist health medic physic therapi
+b1166;Lucky Ramen;Restaurants, Sushi Bars, Asian Fusion, Chinese;Tampa;3.5;lucki ramen restaur sushi bar asian fusion chines
+b1647;Hometown HVAC;Contractors, Electricians, Heating & Air Conditioning/HVAC;Phoenix;5.0;hometown hvac contractor electrician heat air
+b1366;Radiant Salon;Day Spas, Nail Salons, Hair Salons, Skin Care;Austin;3.5;radiant salon day spa nail salon hair salon skin care
+b1625;Premier Plumbing;Contractors, Plumbing, Electricians, Roofing;Nashville;3.5;premier plumb contractor plumb electrician roof
+b1062;Little Pizza;Restaurants, Wine Bars, Italian;Columbus;3.5;littl pizza restaur wine bar italian
+b1214;Bamboo Dragon;Asian Fusion, Thai, Noodles, Restaurants;Reno;4.5;bamboo dragon asian fusion thai noodl restaur
+b1042;Cozy Beans;Bakeries, Juice Bars & Smoothies, Tea Rooms;Austin;3.0;cozi bean bakeri juic bar smoothi tea room
+b1646;All Home Services;Electricians, Contractors, Heating & Air Conditioning/HVAC, Home Services;Nashville;5.0;home servic electrician contractor heat air home servic
+b1324;Tap Tavern;Pubs, Sports Bars, Beer, Bars;Columbus;4.5;tap tavern pub sport bar beer bar
+b1196;Red Ramen;Noodles, Sushi Bars;Austin;4.5;red ramen noodl sushi bar
+b1450;Advanced Dental;Chiropractors, Health & Medical, Dentists, Doctors;Boulder;4.5;advanc dental chiropractor health medic dentist doctor
+b1067;Mama Italian Kitchen;Pasta, Calzones;Austin;3.5;mama italian kitchen pasta calzon
+b1542;Flow Gym;Yoga, Gyms, Pilates;Tampa;4.0;flow gym yoga gym pilat
+b1769;Royal Bed & Breakfast;Resorts, Bed & Breakfast, Hotels & Travel;Portland;4.5;royal bed breakfast resort bed breakfast hotel travel
+b1341;Luxe Barbershop;Waxing, Hair Salons, Skin Care;Columbus;4.5;lux barbershop wax hair salon skin care
+b1423;All-Star Garage;Car Wash, Tires, Oil Change Stations, Auto Repair;Madison;4.5;garag car wash tire oil chang station auto repair
+b1514;Peak Wellness;Active Life, Yoga, Trainers, Fitness & Instruction;Tucson;4.5;peak well activ life yoga trainer fit instruct
+b1513;Elevate Gym;Pilates, Gyms, Cycling Classes, Yoga;Nashville;4.0;elev gym pilat gym cycl class yoga
+b1495;Family Dentistry;Dentists, Physical Therapy, Optometrists;Madison;5.0;famili dentistri dentist physic therapi optometrist
+b1759;Plaza Inn;Bed & Breakfast, Resorts, Hotels & Travel;Boulder;4.0;plaza inn bed breakfast resort hotel travel
+b1080;Nonna Pizza;Italian, Calzones, Wine Bars, Pasta;Austin;4.0;nonna pizza italian calzon wine bar pasta
+b1063;Nonna Pizza;Wine Bars, Calzones, Pasta, Pizza;Columbus;4.0;nonna pizza wine bar calzon pasta pizza
+b1615;Trusted Plumbing;Contractors, Heating & Air Conditioning/HVAC, Home Services;Tucson;4.0;trust plumb contractor heat air home servic
+b1682;Happy Pet Care;Pets, Pet Stores;Columbus;4.5;happi pet care pet pet store
+b1645;Apex Contractors;Home Services, Plumbing, Contractors;Austin;4.0;apex contractor home servic plumb contractor
+b1033;Cozy Bakery;Juice Bars & Smoothies, Tea Rooms, Cafes;Nashville;4.0;cozi bakeri juic bar smoothi tea room cafe
+b1763;Grand Bed & Breakfast;Bed & Breakfast, Resorts;Madison;3.5;grand bed breakfast bed breakfast resort
+b1076;Little Pizzeria;Pasta, Italian, Restaurants, Pizza;Madison;3.5;littl pizzeria pasta italian restaur pizza
+b1710;Furry Pet Grooming;Pet Groomers, Animal Shelters;Boulder;3.0;furri pet groom pet groomer anim shelter
+b1538;Flow Yoga Studio;Cycling Classes, Gyms, Active Life, Trainers;Tucson;3.5;flow yoga studio cycl class gym activ life trainer
+b1683;Wag Pet Grooming;Pet Groomers, Animal Shelters, Pet Stores, Dog Walkers;Madison;3.5;wag pet groom pet groomer anim shelter pet store dog walker
+b1241;Smash Eatery;Hot Dogs, American (Traditional), Sandwiches, Fries;Reno;4.0;smash eateri hot dog american tradit sandwich fri
+b1259;Downtown Sandwich Shop;Sandwiches, Burgers, American (Traditional), Fries;Austin;4.5;downtown sandwich shop sandwich burger american tradit fri
+b1020;Roasted Beans;Donuts, Breakfast & Brunch, Juice Bars & Smoothies;Portland;4.0;roast bean donut breakfast brunch juic bar smoothi
+b1750;Plaza Bed & Breakfast;Event Planning & Services, Hotels;Phoenix;3.5;plaza bed breakfast event plan servic hotel
+b1375;Glow Beauty Bar;Day Spas, Beauty & Spas;Phoenix;3.5;glow beauti bar day spa beauti spa
+b1671;Happy Veterinary Clinic;Dog Walkers, Animal Shelters, Pets, Pet Stores;Phoenix;4.0;happi veterinari clinic dog walker anim shelter pet pet store
+b1547;Core Crossfit;Trainers, Active Life;Columbus;4.0;core crossfit trainer activ life
+b1444;Lakeside Health Group;Chiropractors, Physical Therapy;Tucson;4.0;lakesid health group chiropractor physic therapi
+b1230;Route Burger Joint;American (Traditional), Burgers, Restaurants, Fries;Reno;4.0;rout burger joint american tradit burger restaur fri
+b1661;Cozy Pet Shop;Animal Shelters, Dog Walkers;Nashville;5.0;cozi pet shop anim shelter dog walker
+b1755;Park Inn;Resorts, Hotels & Travel;Phoenix;4.5;park inn resort hotel travel
+b1049;Sunrise Brew House;Coffee & Tea, Bakeries, Tea Rooms;Tucson;3.0;sunris brew hous coffe tea bakeri tea room
+b1068;Famous Pizza;Pasta, Wine Bars, Italian, Calzones;Madison;5.0;famou pizza pasta wine bar italian calzon
+b1176;Bamboo Kitchen;Sushi Bars, Noodles, Ramen;Phoenix;3.0;bamboo kitchen sushi bar noodl ramen
+b1767;Plaza Inn;Bed & Breakfast, Hotels & Travel, Resorts, Event Planning & Services;Tampa;4.0;plaza inn bed breakfast hotel travel resort event plan servic
+b1715;Wag Veterinary Clinic;Dog Walkers, Animal Shelters, Veterinarians;Tampa;5.0;wag veterinari clinic dog walker anim shelter veterinarian
+b1014;Corner Cafe;Tea Rooms, Cafes, Bakeries, Donuts;Tucson;5.0;corner cafe tea room cafe bakeri donut
+b1149;Taco Tacos;Burritos, Restaurants;Madison;4.5;taco taco burrito restaur
+b1206;Jade Wok;Chinese, Noodles, Sushi Bars;Tucson;5.0;jade wok chines noodl sushi bar
+b1267;Downtown Sandwich Shop;Fries, Fast Food, Sandwiches;Austin;4.0;downtown sandwich shop fri fast food sandwich
+b1007;Bean Bakery;Coffee & Tea, Bakeries, Donuts, Cafes;Phoenix;4.5;bean bakeri coffe tea bakeri donut cafe
+b1509;Pulse Crossfit;Active Life, Pilates, Cycling Classes;Tampa;3.5;puls crossfit activ life pilat cycl class
+b1606;All Plumbing;Home Services, Heating & Air Conditioning/HVAC;Columbus;5.0;plumb home servic heat air
+b1716;Park Hotel;Hotels & Travel, Event Planning & Services, Resorts, Hotels;Madison;4.5;park hotel hotel travel event plan servic resort hotel
+b1431;Express Auto Repair;Tires, Auto Parts, Automotive;Portland;4.5;express auto repair tire auto part automot
+b1404;Express Car Wash;Car Wash, Auto Parts, Tires;Austin;4.0;express car wash car wash auto part tire
+b1497;Peak Yoga Studio;Fitness & Instruction, Pilates;Portland;3.5;peak yoga studio fit instruct pilat
+b1447;Modern Health Group;Doctors, Health & Medical, Chiropractors, Physical Therapy;Tampa;4.5;modern health group doctor health medic chiropractor physic therapi
+b1298;Iron Alehouse;Bars, Nightlife;Madison;4.5;iron alehous bar nightlif
+b1100;Mama Pizza;Pasta, Wine Bars, Restaurants;Tucson;5.0;mama pizza pasta wine bar restaur
+b1751;Park Resort;Event Planning & Services, Resorts, Hotels & Travel;Austin;4.0;park resort event plan servic resort hotel travel
+b1679;Cozy Pet Grooming;Pets, Veterinarians;Madison;5.0;cozi pet groom pet veterinarian
+b1257;Downtown Eatery;Fast Food, Burgers, Restaurants, Hot Dogs;Austin;5.0;downtown eateri fast food burger restaur hot dog
+b1039;Corner Bakery;Juice Bars & Smoothies, Breakfast & Brunch;Portland;5.0;corner bakeri juic bar smoothi breakfast brunch
+b1329;The Alehouse;Nightlife, Cocktail Bars, Breweries;Tampa;4.5;alehous nightlif cocktail bar breweri
+b1012;Corner Beans;Donuts, Breakfast & Brunch, Juice Bars & Smoothies;Portland;4.0;corner bean donut breakfast brunch juic bar smoothi
+b1225;Classic Diner;Restaurants, Burgers, Hot Dogs;Portland;3.0;classic diner restaur burger hot dog
+b1392;All-Star Garage;Automotive, Auto Repair, Oil Change Stations, Car Wash;Austin;3.5;garag automot auto repair oil chang station car wash
+b1422;Master Auto Body;Automotive, Auto Parts, Auto Repair;Austin;4.0;master auto bodi automot auto part auto repair
+b1406;Master Tire Center;Auto Parts, Tires, Oil Change Stations;Tampa;4.5;master tire center auto part tire oil chang station
+b1523;Summit Training Lab;Fitness & Instruction, Yoga, Active Life, Pilates;Nashville;3.0;summit train lab fit instruct yoga activ life pilat
+b1622;All Plumbing;Home Services, Contractors, Plumbing, Roofing;Nashville;4.0;plumb home servic contractor plumb roof
+b1644;All Heating & Cooling;Plumbing, Heating & Air Conditioning/HVAC, Roofing;Austin;4.5;heat cool plumb heat air roof
+b1610;Hometown Electric;Plumbing, Electricians, Contractors, Heating & Air Conditioning/HVAC;Columbus;4.0;hometown electr plumb electrician contractor heat air
+b1601;Family Grocery;Farmers Market, Organic Stores;Madison;4.0;famili groceri farmer market organ store
+b1342;Pure Hair Studio;Beauty & Spas, Waxing, Day Spas;Austin;4.5;pure hair studio beauti spa wax day spa
+b1175;Red Sushi;Japanese, Restaurants;Madison;4.5;red sushi japanes restaur
+b1221;Classic Burgers;Sandwiches, American (Traditional), Fries;Boulder;5.0;classic burger sandwich american tradit fri
+b1256;Route Grill;Fast Food, Fries;Phoenix;4.0;rout grill fast food fri
+b1706;Happy Pet Care;Dog Walkers, Pet Groomers, Veterinarians;Madison;3.0;happi pet care dog walker pet groomer veterinarian
+b1483;Community Dental;Dentists, Physical Therapy, Optometrists;Tucson;4.5;commun dental dentist physic therapi optometrist
+b1465;Family Health Group;Chiropractors, Health & Medical, Physical Therapy, Optometrists;Madison;3.5;famili health group chiropractor health medic physic therapi optometrist
+b1723;Heritage Inn;Event Planning & Services, Resorts, Bed & Breakfast;Reno;3.0;heritag inn event plan servic resort bed breakfast
+b1511;Peak Crossfit;Active Life, Trainers, Pilates, Gyms;Nashville;4.5;peak crossfit activ life trainer pilat gym
+b1119;Taco Tacos;Tex-Mex, Latin American;Columbus;4.0;taco taco latin american
+b1048;Urban Coffee;Cafes, Breakfast & Brunch;Boulder;4.5;urban coffe cafe breakfast brunch
+b1579;Daily Mart;Grocery, Convenience Stores, Farmers Market, Specialty Food;Tampa;4.5;daili mart groceri conveni store farmer market specialti food
+b1516;Iron Training Lab;Cycling Classes, Trainers, Fitness & Instruction, Yoga;Tucson;3.5;iron train lab cycl class trainer fit instruct yoga
+b1031;Bean Bakery;Juice Bars & Smoothies, Coffee & Tea, Breakfast & Brunch;Columbus;4.0;bean bakeri juic bar smoothi coffe tea breakfast brunch
+b1467;Family Family Clinic;Physical Therapy, Optometrists, Dentists, Chiropractors;Tampa;3.5;famili famili clinic physic therapi optometrist dentist chiropractor
+b1194;Tokyo Dragon;Chinese, Ramen, Thai;Phoenix;3.5;tokyo dragon chines ramen thai
+b1291;Copper Saloon;Beer, Nightlife, Cocktail Bars;Boulder;4.5;copper saloon beer nightlif cocktail bar
+b1219;Tokyo Sushi;Japanese, Thai, Chinese;Tampa;5.0;tokyo sushi japanes thai chines
+b1117;El Cocina;Burritos, Restaurants;Phoenix;3.0;el cocina burrito restaur
+b1202;Red Dragon;Chinese, Restaurants;Reno;4.5;red dragon chines restaur
+b1636;Reliable Contractors;Roofing, Electricians, Heating & Air Conditioning/HVAC, Home Services;Phoenix;4.0;reliabl contractor roof electrician heat air home servic
+b1074;Original Trattoria;Pizza, Wine Bars;Tucson;4.5;origin trattoria pizza wine bar
+b1144;El Taqueria;Latin American, Burritos, Tacos, Restaurants;Portland;4.0;el taqueria latin american burrito taco restaur
+b1619;Premier Home Services;Heating & Air Conditioning/HVAC, Contractors, Roofing;Austin;4.0;premier home servic heat air contractor roof
+b1688;Loyal Animal Hospital;Animal Shelters, Pet Stores, Veterinarians;Boulder;3.0;loyal anim hospit anim shelter pet store veterinarian
+b1662;Whiskers Veterinary Clinic;Animal Shelters, Pets, Pet Groomers, Pet Stores;Columbus;4.5;whisker veterinari clinic anim shelter pet pet groomer pet store
+b1602;Nature Foods;Specialty Food, Convenience Stores, Grocery;Boulder;4.5;natur food specialti food conveni store groceri
+b1094;Mama Pizza;Pizza, Restaurants, Pasta;Madison;4.5;mama pizza pizza restaur pasta
+b1352;Serene Barbershop;Hair Salons, Waxing, Nail Salons, Beauty & Spas;Phoenix;5.0;seren barbershop hair salon wax nail salon beauti spa
+b1299;Tap Alehouse;Beer, Lounges;Nashville;4.0;tap alehous beer loung
+b1017;Daily Cafe;Coffee & Tea, Donuts, Cafes, Bakeries;Austin;4.5;daili cafe coffe tea donut cafe bakeri
+b1760;Grand Bed & Breakfast;Bed & Breakfast, Hotels & Travel, Resorts, Hotels;Reno;4.0;grand bed breakfast bed breakfast hotel travel resort hotel
+b1131;Agave Burrito Bar;Mexican, Tacos, Burritos, Restaurants;Austin;3.5;agav burrito bar mexican taco burrito restaur
+b1539;Elevate Gym;Fitness & Instruction, Active Life;Portland;3.5;elev gym fit instruct activ life
+b1673;Paws Pet Grooming;Dog Walkers, Pet Groomers, Veterinarians, Animal Shelters;Columbus;4.0;paw pet groom dog walker pet groomer veterinarian anim shelter
+b1317;Copper Alehouse;Lounges, Bars, Sports Bars, Breweries;Austin;3.5;copper alehous loung bar sport bar breweri
+b1069;Nonna Trattoria;Restaurants, Pizza, Italian;Austin;4.5;nonna trattoria restaur pizza italian
+b1237;Smash Grill;American (Traditional), Burgers;Tucson;4.5;smash grill american tradit burger
+b1228;Hungry Eatery;Sandwiches, Fast Food, Restaurants;Austin;4.5;hungri eateri sandwich fast food restaur
+b1528;Elevate Yoga Studio;Yoga, Fitness & Instruction;Reno;4.0;elev yoga studio yoga fit instruct
+b1275;Route Sandwich Shop;Hot Dogs, Sandwiches;Madison;4.0;rout sandwich shop hot dog sandwich
+b1466;Family Dental;Chiropractors, Optometrists, Physical Therapy, Dentists;Tampa;4.0;famili dental chiropractor optometrist physic therapi dentist
+b1572;Market Pantry;Specialty Food, Convenience Stores, Farmers Market, Shopping;Nashville;3.5;market pantri specialti food conveni store farmer market shop
+b1142;Agave Cocina;Restaurants, Burritos;Tampa;3.0;agav cocina restaur burrito
+b1691;Loyal Veterinary Clinic;Pets, Animal Shelters;Austin;3.5;loyal veterinari clinic pet anim shelter
+b1761;Plaza Lodge;Hotels & Travel, Hotels, Bed & Breakfast, Event Planning & Services;Austin;4.5;plaza lodg hotel travel hotel bed breakfast event plan servic
+b1658;Hometown Electric;Heating & Air Conditioning/HVAC, Home Services, Plumbing, Contractors;Austin;4.0;hometown electr heat air home servic plumb contractor
+b1650;Trusted HVAC;Contractors, Plumbing;Phoenix;4.5;trust hvac contractor plumb
+b1354;Bliss Nails;Hair Salons, Nail Salons, Waxing, Barbers;Portland;5.0;bliss nail hair salon nail salon wax barber
+b1326;Copper Saloon;Lounges, Sports Bars;Phoenix;5.0;copper saloon loung sport bar
+b1505;Iron Training Lab;Cycling Classes, Trainers, Gyms;Phoenix;3.5;iron train lab cycl class trainer gym
+b1168;Lucky Ramen;Japanese, Noodles;Tucson;4.5;lucki ramen japanes noodl
+b1561;Market Market;Convenience Stores, Shopping, Specialty Food, Farmers Market;Portland;3.5;market market conveni store shop specialti food farmer market
+b1699;Whiskers Pet Grooming;Pet Groomers, Dog Walkers, Pet Stores;Boulder;4.0;whisker pet groom pet groomer dog walker pet store
+b1630;Hometown HVAC;Contractors, Roofing, Heating & Air Conditioning/HVAC;Portland;3.5;hometown hvac contractor roof heat air
+b1179;Lucky Kitchen;Japanese, Noodles, Thai, Asian Fusion;Madison;4.5;lucki kitchen japanes noodl thai asian fusion
+b1698;Whiskers Pet Shop;Pet Groomers, Animal Shelters;Portland;3.5;whisker pet shop pet groomer anim shelter
+b1207;Bamboo Dragon;Noodles, Thai, Restaurants;Boulder;3.5;bamboo dragon noodl thai restaur
+b1132;Taco Cantina;Tex-Mex, Tacos;Phoenix;3.0;taco cantina taco
+b1227;Route Burgers;Sandwiches, Fast Food, American (Traditional);Boulder;3.5;rout burger sandwich fast food american tradit
+b1434;Master Car Wash;Body Shops, Car Wash, Auto Parts;Austin;4.5;master car wash bodi shop car wash auto part
+b1544;Peak Fitness;Pilates, Gyms;Madison;5.0;peak fit pilat gym
+b1011;Urban Espresso;Coffee & Tea, Cafes;Phoenix;4.5;urban espresso coffe tea cafe
+b1035;Bean Beans;Donuts, Cafes;Boulder;4.5;bean bean donut cafe
+b1096;Nonna Ristorante;Calzones, Restaurants, Pasta;Nashville;4.5;nonna ristorant calzon restaur pasta
+b1635;Hometown Home Services;Heating & Air Conditioning/HVAC, Electricians, Plumbing, Contractors;Tampa;4.5;hometown home servic heat air electrician plumb contractor
+b1152;La Cantina;Burritos, Tex-Mex;Tucson;4.5;la cantina burrito
+b1278;Iron Alehouse;Lounges, Bars, Sports Bars;Phoenix;5.0;iron alehous loung bar sport bar
+b1676;Loyal Pet Shop;Veterinarians, Animal Shelters, Pet Groomers, Dog Walkers;Columbus;4.0;loyal pet shop veterinarian anim shelter pet groomer dog walker
+b1118;Fiesta Grill;Tex-Mex, Latin American, Restaurants, Tacos;Nashville;5.0;fiesta grill latin american restaur taco
+b1675;Loyal Pet Grooming;Dog Walkers, Pet Stores;Phoenix;4.0;loyal pet groom dog walker pet store
+b1351;Radiant Hair Studio;Day Spas, Barbers, Waxing, Hair Salons;Austin;4.5;radiant hair studio day spa barber wax hair salon
+b1073;Bella Pasta House;Wine Bars, Calzones, Pasta, Italian;Tucson;4.5;bella pasta hous wine bar calzon pasta italian
+b1436;Highway Service Center;Body Shops, Automotive, Auto Repair;Phoenix;4.0;highway servic center bodi shop automot auto repair
+b1332;Polished Barbershop;Nail Salons, Waxing;Tampa;5.0;polish barbershop nail salon wax
+b1026;Roasted Espresso;Coffee & Tea, Tea Rooms;Boulder;4.0;roast espresso coffe tea tea room
+b1210;Golden Ramen;Noodles, Restaurants;Portland;3.0;golden ramen noodl restaur
+b1052;Sunrise Roasters;Donuts, Tea Rooms, Bakeries, Juice Bars & Smoothies;Portland;4.0;sunris roaster donut tea room bakeri juic bar smoothi
+b1568;Family Grocery;Specialty Food, Shopping;Nashville;3.0;famili groceri specialti food shop
+b1670;Happy Pet Care;Pet Groomers, Pets;Madison;4.0;happi pet care pet groomer pet
+b1553;Green Mart;Organic Stores, Farmers Market;Tucson;5.0;green mart organ store farmer market
+b1753;Heritage Suites;Resorts, Event Planning & Services, Hotels, Hotels & Travel;Tucson;4.5;heritag suit resort event plan servic hotel hotel travel
+b1361;Bliss Barbershop;Waxing, Day Spas, Barbers;Columbus;3.5;bliss barbershop wax day spa barber
+b1231;Downtown Sandwich Shop;Fast Food, Hot Dogs;Austin;5.0;downtown sandwich shop fast food hot dog
+b1490;Community Health Group;Doctors, Health & Medical, Chiropractors;Portland;4.0;commun health group doctor health medic chiropractor
+b1246;Smash Burger Joint;Hot Dogs, Sandwiches;Portland;5.0;smash burger joint hot dog sandwich
+b1022;Roasted Beans;Coffee & Tea, Cafes, Donuts, Breakfast & Brunch;Boulder;3.0;roast bean coffe tea cafe donut breakfast brunch
+b1279;Iron Brewery;Sports Bars, Pubs;Austin;4.0;iron breweri sport bar pub
+b1463;Community Dentistry;Physical Therapy, Optometrists, Doctors, Dentists;Boulder;3.5;commun dentistri physic therapi optometrist doctor dentist
+b1631;Trusted Electric;Contractors, Home Services;Phoenix;3.5;trust electr contractor home servic
+b1556;Harvest Grocery;Farmers Market, Convenience Stores;Tampa;3.5;harvest groceri farmer market conveni store
+b1263;Downtown Burgers;Restaurants, Sandwiches;Columbus;5.0;downtown burger restaur sandwich
+b1502;Elevate Training Lab;Cycling Classes, Yoga;Boulder;4.5;elev train lab cycl class yoga
+b1126;Fiesta Tacos;Restaurants, Tacos;Tampa;3.0;fiesta taco restaur taco
+b1272;Hungry Diner;Burgers, Sandwiches, Fast Food;Madison;4.0;hungri diner burger sandwich fast food
+b1478;Lakeside Health Group;Doctors, Chiropractors;Tampa;3.5;lakesid health group doctor chiropractor
+b1616;Trusted Heating & Cooling;Roofing, Electricians;Phoenix;4.5;trust heat cool roof electrician
+b1587;Market Mart;Convenience Stores, Shopping, Farmers Market;Austin;4.5;market mart conveni store shop farmer market
+b1517;Iron Gym;Pilates, Cycling Classes, Trainers, Yoga;Boulder;4.0;iron gym pilat cycl class trainer yoga
+b1109;Rustic Pizza;Restaurants, Pasta, Pizza, Calzones;Phoenix;3.0;rustic pizza restaur pasta pizza calzon
+b1633;Apex Plumbing;Electricians, Roofing, Home Services;Boulder;3.5;apex plumb electrician roof home servic
+b1487;Bright Medical Center;Doctors, Health & Medical;Tucson;4.5;bright medic center doctor health medic
+b1543;Iron Wellness;Fitness & Instruction, Trainers, Yoga;Phoenix;4.5;iron well fit instruct trainer yoga
+b1689;Paws Veterinary Clinic;Pet Stores, Animal Shelters, Veterinarians, Dog Walkers;Austin;4.5;paw veterinari clinic pet store anim shelter veterinarian dog walker
+b1390;Precision Motors;Auto Parts, Automotive;Tucson;4.5;precis motor auto part automot
+b1595;Daily Grocery;Specialty Food, Grocery, Organic Stores, Farmers Market;Boulder;4.5;daili groceri specialti food groceri organ store farmer market
+b1183;Lucky Sushi;Asian Fusion, Sushi Bars;Portland;3.5;lucki sushi asian fusion sushi bar
+b1651;Trusted Electric;Roofing, Home Services;Boulder;3.0;trust electr roof home servic
+b1282;Tap Pub;Bars, Cocktail Bars;Madison;4.0;tap pub bar cocktail bar
+b1187;Tokyo Bistro;Thai, Ramen, Asian Fusion, Noodles;Madison;4.0;tokyo bistro thai ramen asian fusion noodl
+b1335;Glow Salon;Hair Salons, Nail Salons;Austin;3.5;glow salon hair salon nail salon
+b1518;Pulse Fitness;Pilates, Yoga, Gyms;Columbus;5.0;puls fit pilat yoga gym
+b1456;Bright Dental;Health & Medical, Chiropractors, Physical Therapy;Portland;4.0;bright dental health medic chiropractor physic therapi
+b1660;Reliable Home Services;Electricians, Heating & Air Conditioning/HVAC, Contractors;Austin;4.0;reliabl home servic electrician heat air contractor
+b1460;Family Medical Center;Physical Therapy, Dentists, Health & Medical, Doctors;Phoenix;3.0;famili medic center physic therapi dentist health medic doctor
+b1356;Radiant Beauty Bar;Nail Salons, Skin Care, Day Spas, Beauty & Spas;Austin;4.0;radiant beauti bar nail salon skin care day spa beauti spa
+b1348;Radiant Hair Studio;Beauty & Spas, Nail Salons, Hair Salons;Boulder;4.0;radiant hair studio beauti spa nail salon hair salon
+b1380;Luxe Nails;Beauty & Spas, Day Spas;Portland;4.5;lux nail beauti spa day spa
+b1520;Elevate Fitness;Yoga, Cycling Classes, Active Life, Trainers;Boulder;5.0;elev fit yoga cycl class activ life trainer
+b1308;Old Saloon;Nightlife, Beer, Bars, Sports Bars;Columbus;5.0;old saloon nightlif beer bar sport bar
+b1486;Family Health Group;Health & Medical, Optometrists;Portland;5.0;famili health group health medic optometrist
+b1208;Jade Dragon;Noodles, Chinese;Madison;4.5;jade dragon noodl chines
+b1577;Fresh Grocery;Grocery, Organic Stores, Convenience Stores;Columbus;3.0;fresh groceri groceri organ store conveni store
+b1271;Smash Burgers;Fast Food, Restaurants;Austin;3.5;smash burger fast food restaur
+b1489;Lakeside Medical Center;Chiropractors, Health & Medical, Optometrists;Phoenix;4.5;lakesid medic center chiropractor health medic optometrist
+b1004;Morning Bakery;Coffee & Tea, Juice Bars & Smoothies, Cafes;Reno;4.0;morn bakeri coffe tea juic bar smoothi cafe
+b1591;Green Pantry;Specialty Food, Convenience Stores;Phoenix;3.0;green pantri specialti food conveni store
+b1708;Cozy Pet Care;Pets, Dog Walkers, Animal Shelters;Phoenix;4.0;cozi pet care pet dog walker anim shelter
+b1143;Fiesta Tacos;Restaurants, Mexican, Burritos;Tucson;3.5;fiesta taco restaur mexican burrito
+b1640;Guardian Electric;Electricians, Heating & Air Conditioning/HVAC, Plumbing;Phoenix;4.0;guardian electr electrician heat air plumb
+b1740;Royal Suites;Bed & Breakfast, Resorts, Event Planning & Services;Madison;4.5;royal suit bed breakfast resort event plan servic
+b1135;Casa Cantina;Mexican, Latin American, Tex-Mex, Tacos;Portland;3.5;casa cantina mexican latin american taco
+b1347;Serene Spa;Beauty & Spas, Hair Salons, Barbers;Tucson;5.0;seren spa beauti spa hair salon barber
+b1121;La Cocina;Restaurants, Tacos;Austin;4.5;la cocina restaur taco
+b1562;Daily Grocery;Convenience Stores, Shopping, Grocery;Boulder;3.0;daili groceri conveni store shop groceri
+b1373;Polished Salon;Nail Salons, Waxing, Day Spas;Madison;4.5;polish salon nail salon wax day spa
+b1197;Jade Ramen;Ramen, Chinese;Tucson;4.0;jade ramen ramen chines
+b1558;Green Grocery;Grocery, Specialty Food;Reno;4.0;green groceri groceri specialti food
+b1732;Lakeview Bed & Breakfast;Hotels & Travel, Resorts, Bed & Breakfast, Hotels;Tucson;4.5;lakeview bed breakfast hotel travel resort bed breakfast hotel
+b1443;Advanced Chiropractic;Chiropractors, Optometrists, Health & Medical, Doctors;Portland;4.5;advanc chiropract chiropractor optometrist health medic doctor
+b1339;Bliss Spa;Waxing, Day Spas;Reno;4.5;bliss spa wax day spa
+b1229;Downtown Burger Joint;Hot Dogs, Fast Food, Sandwiches;Phoenix;3.5;downtown burger joint hot dog fast food sandwich
+b1288;Blue Tavern;Bars, Cocktail Bars, Pubs;Madison;4.5;blue tavern bar cocktail bar pub
+b1410;Pro Auto Body;Oil Change Stations, Automotive;Nashville;4.0;pro auto bodi oil chang station automot
+b1140;Taco Cocina;Tacos, Restaurants;Columbus;5.0;taco cocina taco restaur
+b1391;Pro Tire Center;Tires, Oil Change Stations;Reno;4.0;pro tire center tire oil chang station
+b1295;Blue Cocktail Bar;Sports Bars, Nightlife, Pubs, Bars;Tampa;4.5;blue cocktail bar sport bar nightlif pub bar
+b1090;Mama Pizza;Wine Bars, Pizza, Restaurants;Phoenix;4.0;mama pizza wine bar pizza restaur
+b1504;Pulse Yoga Studio;Fitness & Instruction, Pilates, Gyms, Yoga;Tucson;4.5;puls yoga studio fit instruct pilat gym yoga
+b1108;Nonna Pasta House;Pasta, Pizza, Wine Bars, Calzones;Columbus;4.0;nonna pasta hous pasta pizza wine bar calzon
+b1534;Pulse Gym;Trainers, Fitness & Instruction;Columbus;4.0;puls gym trainer fit instruct
+b1349;Radiant Beauty Bar;Hair Salons, Skin Care;Boulder;4.5;radiant beauti bar hair salon skin care
+b1592;Daily Provisions;Organic Stores, Convenience Stores;Madison;5.0;daili provis organ store conveni store
+b1527;Summit Fitness;Trainers, Active Life, Pilates, Cycling Classes;Reno;3.0;summit fit trainer activ life pilat cycl class
+b1626;Trusted Home Services;Plumbing, Roofing, Heating & Air Conditioning/HVAC;Tucson;4.0;trust home servic plumb roof heat air
+b1146;Fiesta Tacos;Mexican, Burritos, Restaurants, Latin American;Tampa;5.0;fiesta taco mexican burrito restaur latin american
+b1359;Bliss Barbershop;Waxing, Skin Care, Beauty & Spas, Day Spas;Austin;3.0;bliss barbershop wax skin care beauti spa day spa
+b1637;Reliable Home Services;Heating & Air Conditioning/HVAC, Roofing, Contractors;Nashville;3.5;reliabl home servic heat air roof contractor
+b1620;Reliable Plumbing;Electricians, Home Services, Heating & Air Conditioning/HVAC;Madison;5.0;reliabl plumb electrician home servic heat air
+b1718;Garden Resort;Hotels & Travel, Hotels, Resorts, Bed & Breakfast;Madison;5.0;garden resort hotel travel hotel resort bed breakfast
+b1500;Iron Wellness;Trainers, Gyms, Pilates;Boulder;4.5;iron well trainer gym pilat
+b1667;Whiskers Pet Grooming;Veterinarians, Animal Shelters, Pet Stores;Madison;4.5;whisker pet groom veterinarian anim shelter pet store
+b1388;Pro Motors;Tires, Car Wash, Auto Repair;Reno;3.5;pro motor tire car wash auto repair
+b1077;Little Trattoria;Pasta, Pizza, Italian, Wine Bars;Columbus;3.0;littl trattoria pasta pizza italian wine bar
+b1276;Tap Lounge;Cocktail Bars, Beer;Boulder;3.5;tap loung cocktail bar beer
+b1218;Golden Wok;Noodles, Thai, Japanese, Sushi Bars;Reno;3.5;golden wok noodl thai japanes sushi bar
+b1452;Bright Chiropractic;Optometrists, Doctors;Nashville;4.5;bright chiropract optometrist doctor
+b1128;La Tacos;Burritos, Latin American, Tacos, Mexican;Tampa;5.0;la taco burrito latin american taco mexican
+b1330;Old Cocktail Bar;Nightlife, Pubs;Portland;3.5;old cocktail bar nightlif pub
+b1752;Plaza Inn;Hotels, Event Planning & Services, Resorts;Tucson;5.0;plaza inn hotel event plan servic resort
+b1260;Prime Grill;Hot Dogs, American (Traditional);Phoenix;4.0;prime grill hot dog american tradit
+b1745;Grand Suites;Hotels & Travel, Hotels;Tampa;4.5;grand suit hotel travel hotel
+b1198;Tokyo Noodle House;Chinese, Japanese, Sushi Bars, Ramen;Columbus;4.0;tokyo noodl hous chines japanes sushi bar ramen
+b1385;Luxe Barbershop;Barbers, Hair Salons, Skin Care, Waxing;Austin;3.5;lux barbershop barber hair salon skin care wax
+b1570;Nature Pantry;Organic Stores, Specialty Food, Shopping;Phoenix;4.5;natur pantri organ store specialti food shop
+b1045;Bean Coffee;Donuts, Breakfast & Brunch, Coffee & Tea;Nashville;4.5;bean coffe donut breakfast brunch coffe tea
+b1027;Sunrise Espresso;Juice Bars & Smoothies, Breakfast & Brunch;Tampa;4.5;sunris espresso juic bar smoothi breakfast brunch
+b1245;Hungry Burgers;American (Traditional), Hot Dogs, Burgers, Sandwiches;Nashville;5.0;hungri burger american tradit hot dog burger sandwich
+b1114;Taco Taqueria;Tex-Mex, Restaurants, Burritos;Reno;4.0;taco taqueria restaur burrito
+b1169;Jade Kitchen;Noodles, Ramen, Japanese;Phoenix;3.0;jade kitchen noodl ramen japanes
+b1697;Paws Veterinary Clinic;Pets, Animal Shelters, Veterinarians, Pet Stores;Columbus;3.5;paw veterinari clinic pet anim shelter veterinarian pet store
+b1469;Community Dentistry;Health & Medical, Physical Therapy, Optometrists;Tampa;4.0;commun dentistri health medic physic therapi optometrist
+b1266;Classic Burgers;Restaurants, Hot Dogs, Fries, Fast Food;Tampa;3.0;classic burger restaur hot dog fri fast food
+b1305;Copper Alehouse;Breweries, Beer, Bars, Nightlife;Portland;3.5;copper alehous breweri beer bar nightlif
+b1165;La Cocina;Tex-Mex, Latin American, Restaurants, Tacos;Tucson;4.5;la cocina latin american restaur taco
+b1479;Community Chiropractic;Health & Medical, Optometrists, Doctors, Physical Therapy;Portland;5.0;commun chiropract health medic optometrist doctor physic therapi
+b1086;Little Italian Kitchen;Restaurants, Italian;Boulder;4.5;littl italian kitchen restaur italian
+b1459;Lakeside Chiropractic;Optometrists, Chiropractors, Dentists, Health & Medical;Tucson;4.0;lakesid chiropract optometrist chiropractor dentist health medic
+b1286;Blue Tavern;Bars, Beer, Sports Bars, Breweries;Columbus;4.0;blue tavern bar beer sport bar breweri
+b1522;Flow Fitness;Yoga, Gyms, Trainers;Nashville;5.0;flow fit yoga gym trainer
+b1571;Market Pantry;Organic Stores, Grocery, Specialty Food, Farmers Market;Tampa;4.5;market pantri organ store groceri specialti food farmer market
+b1058;Bella Ristorante;Restaurants, Italian, Wine Bars;Nashville;4.0;bella ristorant restaur italian wine bar
+b1262;Smash Burger Joint;American (Traditional), Hot Dogs, Burgers, Fast Food;Austin;3.0;smash burger joint american tradit hot dog burger fast food
+b1583;Harvest Mart;Organic Stores, Grocery, Specialty Food;Nashville;4.0;harvest mart organ store groceri specialti food
+b1374;Glow Nails;Skin Care, Waxing;Nashville;3.0;glow nail skin care wax
+b1735;Plaza Resort;Event Planning & Services, Resorts, Hotels & Travel;Portland;3.0;plaza resort event plan servic resort hotel travel
+b1541;Flow Gym;Gyms, Yoga;Madison;5.0;flow gym gym yoga
+b1586;Nature Provisions;Convenience Stores, Grocery;Boulder;4.0;natur provis conveni store groceri
+b1211;Sakura Wok;Noodles, Sushi Bars, Japanese;Portland;5.0;sakura wok noodl sushi bar japanes
+b1084;Mama Pizza;Pasta, Pizza;Phoenix;4.5;mama pizza pasta pizza
+b1270;Smash Burgers;Restaurants, Hot Dogs;Austin;5.0;smash burger restaur hot dog
+b1050;Roasted Espresso;Juice Bars & Smoothies, Tea Rooms, Bakeries, Donuts;Tampa;3.5;roast espresso juic bar smoothi tea room bakeri donut
+b1741;Plaza Resort;Hotels, Resorts, Hotels & Travel;Madison;4.5;plaza resort hotel resort hotel travel
+b1664;Wag Pet Shop;Pets, Animal Shelters, Dog Walkers;Madison;3.5;wag pet shop pet anim shelter dog walker
+b1238;Smash Burgers;Hot Dogs, Burgers, Restaurants;Boulder;5.0;smash burger hot dog burger restaur
+b1589;Green Pantry;Organic Stores, Farmers Market, Specialty Food, Grocery;Tampa;5.0;green pantri organ store farmer market specialti food groceri
+b1249;Smash Sandwich Shop;Burgers, Fast Food, Fries;Phoenix;3.0;smash sandwich shop burger fast food fri
+b1383;Glow Salon;Barbers, Waxing, Day Spas, Nail Salons;Tampa;5.0;glow salon barber wax day spa nail salon
+b1129;La Grill;Tex-Mex, Tacos, Restaurants;Reno;5.0;la grill taco restaur
+b1437;Master Auto Body;Car Wash, Tires, Auto Parts;Phoenix;4.0;master auto bodi car wash tire auto part
+b1013;Daily Roasters;Juice Bars & Smoothies, Tea Rooms, Bakeries, Coffee & Tea;Nashville;4.0;daili roaster juic bar smoothi tea room bakeri coffe tea
+b1420;Precision Auto Repair;Auto Repair, Tires;Portland;4.0;precis auto repair auto repair tire
+b1136;El Taqueria;Tacos, Latin American;Madison;4.5;el taqueria taco latin american
+b1687;Happy Pet Shop;Pet Groomers, Veterinarians, Pets;Madison;4.5;happi pet shop pet groomer veterinarian pet
+b1190;Sakura Sushi;Sushi Bars, Ramen;Portland;3.5;sakura sushi sushi bar ramen
+b1205;Jade Ramen;Ramen, Noodles, Thai, Sushi Bars;Austin;3.0;jade ramen ramen noodl thai sushi bar
+b1621;Premier Home Services;Contractors, Plumbing, Home Services, Heating & Air Conditioning/HVAC;Austin;3.5;premier home servic contractor plumb home servic heat air
+b1106;Mama Pizza;Restaurants, Italian;Boulder;4.5;mama pizza restaur italian
+b1508;Core Yoga Studio;Pilates, Trainers, Cycling Classes;Madison;4.5;core yoga studio pilat trainer cycl class
+b1209;Jade Wok;Thai, Ramen, Noodles;Phoenix;4.5;jade wok thai ramen noodl
+b1029;Cozy Coffee;Donuts, Cafes, Juice Bars & Smoothies;Tampa;4.5;cozi coffe donut cafe juic bar smoothi
+b1560;Fresh Pantry;Farmers Market, Grocery;Boulder;5.0;fresh pantri farmer market groceri
+b1334;Bliss Nails;Barbers, Beauty & Spas, Waxing;Columbus;4.5;bliss nail barber beauti spa wax
+b1182;Bamboo Noodle House;Asian Fusion, Restaurants, Ramen, Thai;Boulder;4.0;bamboo noodl hous asian fusion restaur ramen thai
