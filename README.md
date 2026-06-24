@@ -1,7 +1,7 @@
 # Ödev-2: Eğitilen Word2Vec Modelleri ile Metin Benzerliği Hesaplama ve Değerlendirme
 
 **Proje Konusu:** Yelp İşletme (Business) Verisi Üzerinde Benzer İşletme Bulma
-**Proje Sahipleri:** _(grup üyeleri isim ve numaralarını buraya yazar)_
+**Proje Sahipleri:** _(FERDA PALA- LALE BİRLİKBAŞ)_
 
 Bu çalışma, Ödev-1'de Yelp işletme verisinden (her işletmenin `name + categories` metni) oluşturulan iki temiz veri seti (`lemmatized_sentences.csv`, `stemmed_sentences.csv`) üzerinde **16 Word2Vec modeli** eğitir, veri setinden seçilen örnek bir işletmeye en benzer 5 işletmeyi her model için bulur ve modelleri **Cosine**, **Anlamsal (1–5)** ve **Jaccard** olmak üzere üç yöntemle karşılaştırmalı değerlendirir.
 
